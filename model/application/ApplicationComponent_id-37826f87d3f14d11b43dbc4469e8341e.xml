@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inzet en middelen planning"
+    id="id-37826f87d3f14d11b43dbc4469e8341e"
+    documentation="Ondersteunt het plannen van de voor het opleidingsaanbod benodige middelen zoals personeel, middelen en ruimten&#xD;&#xA;&#xD;&#xA;Dit omvat zowel de tactische meerjaarplanning als de meer operationele jaarplanning met daarin het plan-van-inzet (de taaktoedeling in uren) van elke individuele docent">
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-c86834a0-a3fe-4c8b-96e9-8229f28da138"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-aed8113b-9393-9c90-f139-4bef705ce026"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>

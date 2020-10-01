@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toets &amp; examenmateriaal beheersysteem"
+    id="id-fd3dc45e4d1f4461aaa4420e6f82bbaf"
+    documentation="Een systeem voor het beheren van toets- en examenmateriaal.&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;Veilig opslaan&#xD;&#xA;Zorgvuldige autorisatie&#xD;&#xA;Gedegen workflow voor goedkeuring door vakspecialisten of examencommissie&#xD;&#xA;Registratie van welk examenmateriaal door welke leerlingen al is gebruikt">
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-355ede37-466e-b395-0833-4668d7a0ef01"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-8f05470a-1243-44b3-8651-d4969c37f77f"/>
+  <properties
+      key="Source (ten dele)"
+      value="https://hora.surf.nl/index.php?title=Id-355ede37-466e-b395-0833-4668d7a0ef01"/>
+</archimate:ApplicationComponent>

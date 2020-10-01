@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning- en roostersysteem"
+    id="id-b5ce641230a746c98bcffda6ae6ca528"
+    documentation="Een systeem het maken van roosters ondersteunt op basis van beschikbaarheid van middelen.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;GPUntis">
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-c86834a0-a3fe-4c8b-96e9-8229f28da138"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-634e3b1f-44ab-b01e-f376-a6de82e2b83b"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>

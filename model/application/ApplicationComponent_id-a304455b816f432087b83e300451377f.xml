@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteuning Leerbeperking"
+    id="id-a304455b816f432087b83e300451377f"
+    documentation="Verzamelbegrip voor systemen die het leren door studenten met een leerbeperking ondersteunen. Voorbeelden zijn dyscalculie en dyslexie.&#xD;&#xA;&#xD;&#xA;Opmerking: &#xD;&#xA;FORA noemt dit Onderwijs-Op-Maat Applicaties">
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-13cd64cc-73a6-4c25-845e-19aa27cf4cc1"/>
+</archimate:ApplicationComponent>

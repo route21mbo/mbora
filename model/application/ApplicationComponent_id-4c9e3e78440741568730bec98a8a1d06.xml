@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring- en loggingsystemen"
+    id="id-4c9e3e78440741568730bec98a8a1d06"
+    documentation="Verzamelbegrip van systemen die zaken zoals:&#xD;&#xA;de juiste werking, &#xD;&#xA;de beschikbaarheid, &#xD;&#xA;de veiligheid, &#xD;&#xA;de capaciteit&#xD;&#xA;het gebruik en &#xD;&#xA;de performance van IT systemen monitort en signaleert.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;SCOM&#xD;&#xA;PRTG&#xD;&#xA;Nessus&#xD;&#xA;PIM+&#xD;&#xA;LogPoint&#xD;&#xA;IMC"/>

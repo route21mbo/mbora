@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software-ontwikkelsystemen"
+    id="id-8a6733287361400d895287c6b64f9fb1"
+    documentation="Verzamelbegrip van systemen die ondersteuning bieden aan het ontwikkelen van software.&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;bepalen requirements&#xD;&#xA;programmeren&#xD;&#xA;versiebeheer&#xD;&#xA;kwaliteitsborging, acceptatie&#xD;&#xA;uitrollen&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Jira&#xD;&#xA;PHPStorm&#xD;&#xA;Azure DevOps platform&#xD;&#xA;MS Visual Studio&#xD;&#xA;VersionControl&#xD;&#xA;TeamCity">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-6dcb0ac7-cf48-9a07-9e83-a884726e9215"/>
+</archimate:ApplicationComponent>

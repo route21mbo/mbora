@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plagiaat detectiesysteem"
+    id="id-b4b04d0ef35a483c92df4fef66b25f60"
+    documentation="Een systeem dat (automatisch) controleert op het plegen van plagiaat.">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-e103dea8-34a0-33b1-fb4c-40d203f9d723"/>
+</archimate:ApplicationComponent>

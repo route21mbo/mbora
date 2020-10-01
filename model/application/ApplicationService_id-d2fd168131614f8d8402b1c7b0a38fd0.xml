@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruimtebeheer"
+    id="id-d2fd168131614f8d8402b1c7b0a38fd0"
+    documentation="Het beheren van gegevens over ruimten. Zoals geschiktheid voor praktijklessen, daglicht, vierkante meter enz.."/>

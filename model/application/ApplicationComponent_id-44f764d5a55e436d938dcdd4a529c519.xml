@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmeldsysteem"
+    id="id-44f764d5a55e436d938dcdd4a529c519"
+    documentation="Een systeem waarmee individuen zich kunnen aanmelden voor een opleiding bij een onderwijsinstelling.&#xD;&#xA;&#xD;&#xA;Denk aan VVA, CA, PortalPlus enz..">
+  <properties
+      key="Externe informatie"
+      value="http://info.studielink.nl/nl/studenten/Pages/Default.aspx"/>
+  <properties
+      key="Domein"
+      value="Derden"/>
+  <properties
+      key="Voorbeelden"
+      value="Studielink, Erasmus"/>
+  <properties
+      key="Type"
+      value="Externe applicatie"/>
+</archimate:ApplicationComponent>

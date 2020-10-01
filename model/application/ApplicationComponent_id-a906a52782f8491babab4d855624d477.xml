@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurbeheersysteem"
+    id="id-a906a52782f8491babab4d855624d477"
+    documentation="Een systeem die het modelleren en beheren van de enterprise-architectuur ondersteunt.">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-52d91da9-4598-9588-d83f-0b2e1cbc2cbc"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-e6133b02-cbfa-4116-abf2-13a0288aa622"/>
+</archimate:ApplicationComponent>

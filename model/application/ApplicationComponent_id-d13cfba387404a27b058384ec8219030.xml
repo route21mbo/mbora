@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leercontent omgevingen"
+    id="id-d13cfba387404a27b058384ec8219030"
+    documentation="Verzamelbegrip van alle systemen (on premise of online) die leercontent aanbieden. De focus ligt op de content zelf en niet op de ELO-functionaliteit.&#xD;&#xA;&#xD;&#xA;Denk aan de vele online-omgevingen waarin derden vakinhoudelijk leercontent aanbieden.">
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-16bb2aed-0013-2e43-b8d8-f4aa039faefc"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-2e2da735-1b90-47c9-87ce-b38dd7cad38d"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>

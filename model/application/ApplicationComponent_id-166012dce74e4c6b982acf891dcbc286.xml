@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business intelligence"
+    id="id-166012dce74e4c6b982acf891dcbc286"
+    documentation="Een systeem voor het verzamelen, analyseren , forecasten en presenteren van gegevens voor het maken van beslissingen (decision making)&#xD;&#xA;&#xD;&#xA;Van hindsight, naar insight tot foresight:&#xD;&#xA;wat gebeurde er&#xD;&#xA;waarom gebeurde dit&#xD;&#xA;wat zou er gebeuren&#xD;&#xA;hoe kunnen we het laten gebeuren&#xD;&#xA;&#xD;&#xA;Dit omvat ondermeer:&#xD;&#xA;Datamining&#xD;&#xA;Datawarehouse&#xD;&#xA;AI - machine learning&#xD;&#xA;Dashboards">
+  <properties
+      key="Source"
+      value="https://en.wikipedia.org/wiki/Business_intelligence"/>
+  <properties
+      key="Source"
+      value="https://en.wikipedia.org/wiki/Enterprise_software"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-d784f349-bc31-4856-9f72-47abb056162c"/>
+</archimate:ApplicationComponent>

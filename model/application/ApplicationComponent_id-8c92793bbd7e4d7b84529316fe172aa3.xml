@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studentvolg systeem (SVS)"
+    id="id-8c92793bbd7e4d7b84529316fe172aa3"
+    documentation="Een studentvolgsysteem (SVS) geeft inzicht in de studievoortgang van een student door te pijlen in diens dossier, diens portfolio en diens resultaten.">
+  <properties
+      key="Source1"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-57051d3b-9331-4f9e-90ea-2db2f57ed44d"/>
+  <properties
+      key="Source2"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Id-64ec4856-fc0f-4086-aa98-97d2bdb5073e"/>
+</archimate:ApplicationComponent>

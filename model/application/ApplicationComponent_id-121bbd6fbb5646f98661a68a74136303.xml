@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM systeem"
+    id="id-121bbd6fbb5646f98661a68a74136303"
+    documentation="Een systeem dat  relatiebeheer en de marketing ondersteunt.&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;onderhouden relaties&#xD;&#xA;werving&#xD;&#xA;campagnebeheer&#xD;&#xA;evenementenbeheer&#xD;&#xA;&#xD;&#xA;Voorbeeld:&#xD;&#xA;Microsoft Dynamics CRM">
+  <properties
+      key="Source1"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source2"
+      value="https://hora.surf.nl/index.php?title=Id-b6938620-3e3a-ea39-7196-1f10b3d046f2"/>
+</archimate:ApplicationComponent>

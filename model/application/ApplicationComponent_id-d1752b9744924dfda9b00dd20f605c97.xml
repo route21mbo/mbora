@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kaartbeheersysteem"
+    id="id-d1752b9744924dfda9b00dd20f605c97"
+    documentation="Een systeem voor de productie van en het beheren van kaarten zoals de instellingspas voor studenten en medewerkers&#xD;&#xA;&#xD;&#xA;Wordt toegepast voor bijv.:&#xD;&#xA;fysieke toegangsverlening &#xD;&#xA;digitale toegangsverlening&#xD;&#xA;identificatie&#xD;&#xA;betalingen (printopdrachten)&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;OmniCms">
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-aebc5d8c-8844-a65d-b72c-7f4cb5183701"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-ceee7fac-b4a7-6da3-3e76-2925748ff623"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-9d55c7fb-9c70-838d-2359-0a2a49d502ea"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-ce33d1e6-eb1b-cda4-4aa8-01e378253b35"/>
+</archimate:ApplicationComponent>

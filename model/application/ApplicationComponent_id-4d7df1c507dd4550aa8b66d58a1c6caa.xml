@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kern Registratie Student"
+    id="id-4d7df1c507dd4550aa8b66d58a1c6caa"
+    documentation="Systeem voor het inschrijven, overschrijven en uitschrijven van studenten en het beheren en uitwisselen van basisgegevens van studenten. &#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;Inschrijfgegevens&#xD;&#xA;Overdrachtgegevens&#xD;&#xA;Identiteitsgegevens&#xD;&#xA;Bekostigingsgegevens&#xD;&#xA;Studentgroepenbeheer&#xD;&#xA;BPV contractgegevens&#xD;&#xA;Resultatengegevens&#xD;&#xA;Diplomagegevens&#xD;&#xA;Uitschrijfgegevens&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Osiris&#xD;&#xA;Eduarte">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-6a4e1886-cdc7-4c48-8301-9f4ba6e179c2"/>
+  <properties
+      key="Source"
+      value="https://www.sambo-ict.nl/wp-content/uploads/2012/07/Presentatie-Informatie-Architectuur-Amarantis.pdf"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-c64a7a54-f38e-487e-8148-01bc3d9c92fd"/>
+</archimate:ApplicationComponent>

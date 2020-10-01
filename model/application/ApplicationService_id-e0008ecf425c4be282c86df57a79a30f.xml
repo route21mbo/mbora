@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plagiaatdetectie"
+    id="id-e0008ecf425c4be282c86df57a79a30f"
+    documentation="Het detecteren van plagiaat"/>

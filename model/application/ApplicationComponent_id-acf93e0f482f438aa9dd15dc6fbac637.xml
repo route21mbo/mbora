@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portfoliosysteem"
+    id="id-acf93e0f482f438aa9dd15dc6fbac637"
+    documentation="Een systeem waar de student zijn loopbaan, leerervaringen, competenties  en leerresultaten kan bijhouden.&#xD;&#xA;&#xD;&#xA;Denk aan gemaakte opdrachten, voltooide cursussen, edubadges.&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Zie ook het begrip Persoonlijke digitale ruimte:   Een veel breder begrip gehanteerd door de ROSA https://www.wikixl.nl/wiki/rosa/index.php/Id-5d5a3027-5f59-489c-bcd4-f255bcec922a&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Zie ook het initiatief EduMij: https://www.edustandaard.nl/app/uploads/2020/02/Edumij-standaardisatieraad-13-2-2020-Richard-Sterenborg.pdf&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Hier speelt de strategische agenda een rol. Dit wordt mogelijk een een aparte component van de student en niet van de instelling">
+  <properties
+      key="Source"
+      value="None"/>
+</archimate:ApplicationComponent>

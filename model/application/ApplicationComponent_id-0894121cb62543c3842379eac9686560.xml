@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studiegidsenbeheer systeem"
+    id="id-0894121cb62543c3842379eac9686560"
+    documentation="Een systeem dat het totstandkomen van gestandaardiseerde studiegidsen ondersteunt. &#xD;&#xA;&#xD;&#xA;De studiegids geeft in een voor de student toegankelijk format gedetailleerde informatie over de opleiding. Zoals kerntaken, BPV, keuzedelen, wijze examinering, kosten enz... &#xD;&#xA;&#xD;&#xA;Het systeem ondersteunt in:&#xD;&#xA;workflow voor de totstandkoming en goedkeuring&#xD;&#xA;generieke bouwblokken&#xD;&#xA;opleggen verplichte structuur van de gids">
+  <properties
+      key="Source"
+      value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>
+  <properties
+      key="Source (een instelling variant van)"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Id-ee5acde7-9722-44ab-85d1-ddb5568a05d9"/>
+</archimate:ApplicationComponent>

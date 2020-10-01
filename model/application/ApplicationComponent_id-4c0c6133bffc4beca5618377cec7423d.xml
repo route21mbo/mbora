@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alumnibeheer"
+    id="id-4c0c6133bffc4beca5618377cec7423d"
+    documentation="Een systeem voor het registreren van alumni en het onderhouden van het contact hiermee door het aanbieden van informatie, aanbiedingen, evenementen, vervolgopleidingen en bijeenkomsten&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Graduway">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-e103dea8-34a0-33b1-fb4c-40d203f9d723"/>
+</archimate:ApplicationComponent>

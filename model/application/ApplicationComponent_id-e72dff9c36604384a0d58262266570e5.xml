@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentwaarmerking en -onderteken systeem"
+    id="id-e72dff9c36604384a0d58262266570e5"
+    documentation="Een systeem ter ondersteuning van het waarmerken van documenten, zoals het zorgdragen voor een digitale handtekening.&#xD;&#xA;&#xD;&#xA;bijvoorbeeld:&#xD;&#xA;Evado&#xD;&#xA;DocuSign">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-15650b69-c62d-47eb-9509-122f8a439f8f"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Id-8052b494-5df8-4870-a46d-dff16871fa5d"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-d8d5cdff-c55d-4307-b9fd-c912525f1381"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Meldingsregister_relatief_verzuim"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Referentiecomponenten"/>
+</archimate:ApplicationComponent>

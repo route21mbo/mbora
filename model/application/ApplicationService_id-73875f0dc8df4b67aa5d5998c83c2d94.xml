@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatiedienst"
+    id="id-73875f0dc8df4b67aa5d5998c83c2d94"
+    documentation="Het identificeren wie men is en het verifieren of men is wie men claimed te zijn"/>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-mailsysteem"
+    id="id-a65826bd198b4cb799ba17ee0c4275f0"
+    documentation="Een systeem dat het uitwisselen en beveiliging van e-mails tussen gebruikers ondersteunt.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Exchange">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-90b7423a-cb14-2531-822d-0d6acd85d882"/>
+</archimate:ApplicationComponent>

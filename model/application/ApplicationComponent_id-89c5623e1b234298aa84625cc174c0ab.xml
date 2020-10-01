@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbestedingsbeheer"
+    id="id-89c5623e1b234298aa84625cc174c0ab"
+    documentation="Een systeem dat het uitvoeren van aanbestedingen ondersteunt.&#xD;&#xA;&#xD;&#xA;Voorbeeld&#xD;&#xA;Negometrix System&#xD;&#xA;Tendernet">
+  <properties
+      key="Source2"
+      value="https://hora.surf.nl/index.php?title=Id-6a6cc2fe-1ba2-b500-512d-f52e75098a74"/>
+  <properties
+      key="Source1"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>

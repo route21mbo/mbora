@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoopsysteem"
+    id="id-768ac627ae3f472aa404abc81fa58b95"
+    documentation="Een systeem dat het inkopen van producten, het beheren van leveranciergegevens en het beheren van contracten ondersteunt. &#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Proquro">
+  <properties
+      key="Source2"
+      value="https://hora.surf.nl/index.php?title=Id-83c7b4c5-1a84-22a2-cb45-00b5a8a56d7c"/>
+  <properties
+      key="Source1"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>

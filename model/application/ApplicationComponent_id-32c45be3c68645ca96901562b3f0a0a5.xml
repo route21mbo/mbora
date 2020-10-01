@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Management Systeem (DMS)"
+    id="id-32c45be3c68645ca96901562b3f0a0a5"
+    documentation="Een systeem dat het maken, beheren en archiveren van documenten ondersteunt.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Corsa&#xD;&#xA;Microsoft">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-3f1b51ea-54c4-fadf-694f-2b313c5eff34"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-7cb07758-2aad-4dbb-b00b-22d5da0ef7e4"/>
+  <properties
+      key="Source"
+      value="https://en.wikipedia.org/wiki/Content_management_system"/>
+</archimate:ApplicationComponent>

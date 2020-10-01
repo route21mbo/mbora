@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPV-systeem"
+    id="id-006ad821c207425e9fb9d55c718042f0"
+    documentation="Een systeem voor het beheren en publiceren van vraag en aanbod van stageplaatsen, het ondersteunen van het zoeken o.b.v. criteria, en het ondersteunen van het aanmelden/solliciteren.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Stagemarkt">
+  <properties
+      key="Source"
+      value="None"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intern portaal (intranet)"
+    id="id-36b2750122b94fdfaf667c5c609ad05a"
+    documentation="Een webomgeving (bedrijfsportaal) waarin informatie en diensten met interne studenten en medewerkers wordt gedeeld.">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://www.researchgate.net/publication/228864221_Using_Cloud_Computing_in_Higher_Education_A_Strategy_to_Improve_Agility_in_the_Current_Financial_Crisis"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S221256711400224X"/>
+</archimate:ApplicationComponent>

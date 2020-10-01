@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijscatalogus beheersysteem"
+    id="id-b0cf92157e804967a84dc7cdbb1147dc"
+    documentation="Een systeem voor de  registratie en het beheer van de verzameling opleidingen en cursussen van de instellling; ook wel het onderwijsaanbod genoemd.">
+  <properties
+      key="Source"
+      value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>
+  <properties
+      key="Source (een instelling variant van)"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Id-ee5acde7-9722-44ab-85d1-ddb5568a05d9"/>
+</archimate:ApplicationComponent>

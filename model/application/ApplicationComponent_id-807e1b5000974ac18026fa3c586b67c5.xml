@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel systeem"
+    id="id-807e1b5000974ac18026fa3c586b67c5"
+    documentation="Een systeem dat de financiële administratie ondersteunt.&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;Debiteurenbeheer&#xD;&#xA;Crediteurenbeheer&#xD;&#xA;Grootboekbeheer&#xD;&#xA;Activabeheer&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Exact">
+  <properties
+      key="Source 1"
+      value="https://en.wikipedia.org/wiki/Enterprise_software"/>
+  <properties
+      key="Source2"
+      value="https://hora.surf.nl/index.php?title=Id-5f0344e7-3a57-d5cc-443a-33838b24a4bd"/>
+</archimate:ApplicationComponent>

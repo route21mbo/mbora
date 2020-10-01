@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagement systeem"
+    id="id-ec7847352631423cbfbf3fccd4bcff00"
+    documentation="Een systeem dat kwaliteitsmanagement ondersteunt.">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-52d91da9-4598-9588-d83f-0b2e1cbc2cbc"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-e6133b02-cbfa-4116-abf2-13a0288aa622"/>
+</archimate:ApplicationComponent>

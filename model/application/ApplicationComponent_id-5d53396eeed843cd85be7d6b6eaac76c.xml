@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project &amp; Programmamanagement"
+    id="id-5d53396eeed843cd85be7d6b6eaac76c"
+    documentation="Een systeem dat helpt bij het bepalen en sturen van projecten, programma's en portfolio's.">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-6c9f9b46-8189-260d-43f1-037e4f4880ba"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betaalsystemen"
+    id="id-b2e09ca126374dc68491cea8513cfcfb"
+    documentation="Verzamelbegrip van systemen waarmee (fysieke en/of digitale) betalingen kunnen worden gedaan of ontvangen.&#xD;&#xA;&#xD;&#xA;Voorbeeld:&#xD;&#xA;Pin apparatuur bij printers en in restaurant&#xD;&#xA;PayPro&#xD;&#xA;Zakelijke bankomgeving van Rabo">
+  <properties
+      key="Source1"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source2"
+      value="https://hora.surf.nl/index.php?title=Id-b3b37fba-ac25-e98b-5e77-73c456d07d99"/>
+</archimate:ApplicationComponent>

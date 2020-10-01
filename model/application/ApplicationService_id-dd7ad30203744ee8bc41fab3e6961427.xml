@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webserverbeheer"
+    id="id-dd7ad30203744ee8bc41fab3e6961427"
+    documentation="Het beheren van webservers"/>

@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Informatie Systeem (SIS)"
+    id="id-c44b6564a528401da2237e2b044c3f5d"
+    documentation="Maakt betrouwbaar alle informatie beschikbaar betreffende een student in meerdere overzichten en biedt ondersteuning voor het beheren van student gegevens.&#xD;&#xA;&#xD;&#xA;Voorbeelden&#xD;&#xA;Ellucian (Sungard/SCT) Banner Student&#xD;&#xA;Oracle Peopelsoft Campus Solutions&#xD;&#xA;Of de totale verzamling van {Magister, @VO, KRD, TP/ Eduarte}">
+  <properties
+      key="Source"
+      value="https://www.sambo-ict.nl/wp-content/uploads/2012/09/8-Student-Informatie-Systeem-Rob-van-der-Keur-en-Pim-van-Stiphout.pdf"/>
+  <properties
+      key="Source"
+      value="https://www.sambo-ict.nl/wp-content/uploads/2012/07/Presentatie-Informatie-Architectuur-Amarantis.pdf"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-feb2d938-5c98-62e7-d5fd-5da245ad6486"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-c64a7a54-f38e-487e-8148-01bc3d9c92fd"/>
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Id-0a5b23bf-02aa-42d7-8ce6-fe1b736092ba"/>
+  <properties
+      key="Source"
+      value="https://library.educause.edu/-/media/files/library/2014/9/erb1411-pdf.pdf"/>
+</archimate:ApplicationComponent>

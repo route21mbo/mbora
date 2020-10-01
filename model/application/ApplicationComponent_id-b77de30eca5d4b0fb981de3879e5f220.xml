@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebeveiliging systemen"
+    id="id-b77de30eca5d4b0fb981de3879e5f220"
+    documentation="Verzamelbegrip van systemen voor het beheren van de informatiebeveiliging (cybersecurity) van de IT-infrastructuur.&#xD;&#xA;&#xD;&#xA;Zoals of bijvoorbeeld:&#xD;&#xA;Intrusion Prevention (IPS)&#xD;&#xA;Intrusion Detection (IDS)&#xD;&#xA;Dmarcian, DKIM, &#xD;&#xA;Quarantainenet&#xD;&#xA;Surffilesender&#xD;&#xA;Zivver&#xD;&#xA;LastPass&#xD;&#xA;Endpoint security (SentinelOne, Clearpass)&#xD;&#xA;Firewall&#xD;&#xA;Malware preventie/detectie"/>

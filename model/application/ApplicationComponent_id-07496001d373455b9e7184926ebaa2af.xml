@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extern portaal"
+    id="id-07496001d373455b9e7184926ebaa2af"
+    documentation="Een webomgeving waarin informatie en diensten met derden worden gedeeld.">
+  <properties
+      key="Source"
+      value="None"/>
+</archimate:ApplicationComponent>

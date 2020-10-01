@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Corporate LMS"
+    id="id-f5c52719986f4f28a46d631d9986b542"
+    documentation="Een systeem dat de logistieke en administratieve processen rondom het aanbieden van onderwijs aan medewerkers ondersteunt.&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;Het beheren en aanbieden van cursussen (catalogus)&#xD;&#xA;Ondersteunen inschrijving&#xD;&#xA;Registratie van behaalde resultaten">
+  <properties
+      key="Source1"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source2"
+      value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>
+  <properties
+      key="Source3"
+      value="https://hora.surf.nl/index.php?title=Id-28f3063e-a4da-9672-89ac-f9331fe0cd1f"/>
+</archimate:ApplicationComponent>

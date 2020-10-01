@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Management Systeem"
+    id="id-f707aef5875b4fe0b5cd3066bd2d741d"
+    documentation="Een systeem voor het beheren van databanken&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;Creeeren en configureren&#xD;&#xA;Toegangsverlening&#xD;&#xA;Monitoring&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;MS SQL server&#xD;&#xA;Oracle&#xD;&#xA;MySQL">
+  <properties
+      key="Source"
+      value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-15650b69-c62d-47eb-9509-122f8a439f8f"/>
+</archimate:ApplicationComponent>

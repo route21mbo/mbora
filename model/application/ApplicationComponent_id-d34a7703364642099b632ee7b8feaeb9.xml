@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kantoorautomatisering systemen"
+    id="id-d34a7703364642099b632ee7b8feaeb9"
+    documentation="Verzamelbegrip van systemen voor het maken presentaties, documenten en spreadsheets e.d.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;MS Office suite (word, excel enz...)">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-1771341e-130a-9fe7-b653-61362ec27b73"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelssysteem"
+    id="id-62fc9daeb0f14a97892b1d6456baad13"
+    documentation="Een systeem dat de personeelsadministratie ondersteunt &#xD;&#xA;&#xD;&#xA;Zoals beheren van:&#xD;&#xA;arbeidscontracten&#xD;&#xA;arbeidsvoorwaarden&#xD;&#xA;formatiegegevens&#xD;&#xA;personeelsontwikkelinggegevens&#xD;&#xA;declaraties&#xD;&#xA;personeelsdossiers&#xD;&#xA;arbogegevens&#xD;&#xA;werving en selectie (vacatures/sollicitaties)&#xD;&#xA;enz...&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Youforce">
+  <properties
+      key="Source"
+      value="https://hora.surf.nl/index.php?title=Id-67fd9687-ab3c-2eb8-758c-73912ae0fe45"/>
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>
