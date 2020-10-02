@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Backupsysteem"
     id="id-9fc64ee326e44d8899be8a045b709368"
-    documentation="Systeem voor het maken van kopieen van bestanden en gegvens.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;DPM&#xD;&#xA;Comvault">
+    documentation="Een systeem voor het maken van kopieen van bestanden en gegvens.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;DPM&#xD;&#xA;Comvault">
   <properties
       key="Source"
       value="https://en.wikipedia.org/wiki/Enterprise_software"/>

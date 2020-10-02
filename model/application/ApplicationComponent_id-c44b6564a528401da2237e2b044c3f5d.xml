@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student Informatie Systeem (SIS)"
     id="id-c44b6564a528401da2237e2b044c3f5d"
-    documentation="Maakt betrouwbaar alle informatie beschikbaar betreffende een student in meerdere overzichten en biedt ondersteuning voor het beheren van student gegevens.&#xD;&#xA;&#xD;&#xA;Voorbeelden&#xD;&#xA;Ellucian (Sungard/SCT) Banner Student&#xD;&#xA;Oracle Peopelsoft Campus Solutions&#xD;&#xA;Of de totale verzamling van {Magister, @VO, KRD, TP/ Eduarte}">
+    documentation="Een systeem voor het beheren van gegevens van studenten zoals in- en uitschrijvingsgegevens, BPV-contractgegevens, bekostigingsgegevens, studieresultaten, diploma's, studentbegeleidingsgegevens, studievoortganggegevens&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Eduarte&#xD;&#xA;Osiris&#xD;&#xA;Magister&#xD;&#xA;">
   <properties
       key="Source"
       value="https://www.sambo-ict.nl/wp-content/uploads/2012/09/8-Student-Informatie-Systeem-Rob-van-der-Keur-en-Pim-van-Stiphout.pdf"/>

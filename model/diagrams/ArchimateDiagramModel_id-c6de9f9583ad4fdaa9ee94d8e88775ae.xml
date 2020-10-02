@@ -458,9 +458,9 @@
           fillColor="#b5ffff">
         <bounds
             x="36"
-            y="163"
+            y="160"
             width="168"
-            height="43"/>
+            height="46"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-b03dc4d5d67a4d068afa704afe5f106b.xml#id-b03dc4d5d67a4d068afa704afe5f106b"/>
@@ -894,7 +894,7 @@
         <bounds
             x="36"
             y="36"
-            width="157"
+            width="169"
             height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
@@ -1714,8 +1714,8 @@
           lineColor="#5c5c5c"
           fillColor="#80ffff">
         <bounds
-            x="60"
-            y="35"
+            x="84"
+            y="36"
             width="181"
             height="52"/>
         <archimateElement
@@ -1730,7 +1730,7 @@
           lineColor="#5c5c5c"
           fillColor="#80ffff">
         <bounds
-            x="324"
+            x="288"
             y="35"
             width="181"
             height="54"/>
@@ -4290,7 +4290,7 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="84"
+          y="60"
           width="229"
           height="133"/>
       <children
@@ -4350,9 +4350,9 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="252"
+          y="228"
           width="229"
-          height="265"/>
+          height="253"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c421a69967d248febc165683ba9ba442"
