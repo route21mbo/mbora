@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijsuitvoering"
+    name="Onderwijs- en examenuitvoering"
     id="2361dab3-2e05-4183-ac0a-f1561b5253d6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -66,7 +66,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5965148c-4d00-48ec-bc3d-a8de47539b6e"
-        targetConnections="c43eeffa-cf97-4a39-9005-f374b3b33b32 6e07e252-253a-433a-a7e3-c3d12a2f4ddd">
+        targetConnections="c43eeffa-cf97-4a39-9005-f374b3b33b32 6e07e252-253a-433a-a7e3-c3d12a2f4ddd 5b96b0a7-e6f6-44d9-b538-9d30a55d2e7b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="18da4069-f993-4430-9074-59e728fd57a7"
@@ -113,6 +113,15 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b56f5a8c-1d3a-4cf1-aa76-61cfbff14dda"
         targetConnections="f1919151-383b-487e-8672-3ac89a884bb0 1ca18148-9759-4487-b15a-b78bfbe899db">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="5b96b0a7-e6f6-44d9-b538-9d30a55d2e7b"
+          source="b56f5a8c-1d3a-4cf1-aa76-61cfbff14dda"
+          target="5965148c-4d00-48ec-bc3d-a8de47539b6e">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_33a03f60-90f6-4583-bad1-f3b24c9253df.xml#33a03f60-90f6-4583-bad1-f3b24c9253df"/>
+      </sourceConnections>
       <bounds
           x="72"
           y="108"
@@ -1040,7 +1049,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="efa5b926-668c-4347-9b03-3887bd4aa4fd"
-        targetConnections="f7d62cab-08f9-48f2-8b7e-8934db93e057">
+        targetConnections="f7d62cab-08f9-48f2-8b7e-8934db93e057 a97c90b6-ae69-49f1-b218-ac36c589adef">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="8987456c-468a-4bf8-83d6-2981d43c8fe0"
@@ -1217,10 +1226,29 @@
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_1660fd3e-0d5b-4bb5-bc7f-9777411bd1a4.xml#1660fd3e-0d5b-4bb5-bc7f-9777411bd1a4"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="a97c90b6-ae69-49f1-b218-ac36c589adef"
+          source="9557fc3d-54c4-4326-ab8e-407f15c078ed"
+          target="efa5b926-668c-4347-9b03-3887bd4aa4fd">
+        <bendpoints
+            startX="-72"
+            startY="-3"
+            endX="-72"
+            endY="-243"/>
+        <bendpoints
+            startX="-66"
+            startY="237"
+            endX="-72"
+            endY="-3"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_fdfa9bdc-f2f1-4357-b3dd-071dba8b5740.xml#fdfa9bdc-f2f1-4357-b3dd-071dba8b5740"/>
+      </sourceConnections>
       <bounds
-          x="12"
+          x="24"
           y="108"
-          width="132"
+          width="121"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
