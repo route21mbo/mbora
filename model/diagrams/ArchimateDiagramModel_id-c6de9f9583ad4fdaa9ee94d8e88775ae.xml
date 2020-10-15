@@ -1764,9 +1764,9 @@
           lineColor="#5c5c5c"
           fillColor="#b5ffff">
         <bounds
-            x="61"
+            x="48"
             y="180"
-            width="180"
+            width="193"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
@@ -1781,9 +1781,9 @@
           lineColor="#5c5c5c"
           fillColor="#b5ffff">
         <bounds
-            x="61"
+            x="48"
             y="111"
-            width="180"
+            width="193"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
@@ -2019,9 +2019,9 @@
           fillColor="#b5ffff">
         <bounds
             x="36"
-            y="36"
+            y="24"
             width="168"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-c4f7f857cf7145e480528955096207cf.xml#id-c4f7f857cf7145e480528955096207cf"/>
@@ -3645,7 +3645,7 @@
             href="RealizationRelationship_id-2bdd56a1a7f74b4fb54327d64b13d9c8.xml#id-2bdd56a1a7f74b4fb54327d64b13d9c8"/>
       </sourceConnections>
       <bounds
-          x="864"
+          x="852"
           y="58"
           width="240"
           height="181"/>
