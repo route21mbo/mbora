@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen onderwijsplan"
-    id="56a8847f-ecf9-4184-b37e-5d2f33109ee9"/>
+    id="56a8847f-ecf9-4184-b37e-5d2f33109ee9"
+    documentation="Het onderwijsplan is een samenhangend overzicht waarin per opleiding de leertaken staan die samen een opleiding vormen staan. Bijvoorbeeld de doelen van de opleiding, de leerinhoud, toetsen, didactische principes en/of de wijze en het tijdstip waarop dit aangeboden wordt.&#xD;&#xA;&#xD;&#xA;In het onderwijsplan staat binnen welke omgeving (mbo-school, zelfstudie of beroepspraktijk) het onderwijs plaatsvindt. Hierbij houdt de school rekening met de praktische haalbaarheid en de doelgroep.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;&#xD;&#xA;- Verzamel het onderwijsplan en de verbeterplannen van vorig jaar.&#xD;&#xA;- Verzamel actuele sector- en opleidingspecifieke documenten, zoals keuzedelen en het kwalificatiedossier.&#xD;&#xA;- Bekijk samen of er aanleiding is om het onderwijsplan van vorig jaar aan te vullen of bij te stellen.&#xD;&#xA;- Stel het onderwijsplan op of bij.&#xD;&#xA;- Leg het (bijgestelde) onderwijsplan voor aan een aantal interne en externe betrokkenen om de herkenbaarheid, organiseerbaarheid en haalbaarheid te toetsen.&#xD;&#xA;- Stel het onderwijsplan vast en archiveer dit.">
+  <properties
+      key="Input"
+      value="(1) Onderwijsplan en verbeterplannen vorige jaar en (2) Actuele sector- en opleidingsspecifieke plannen"/>
+  <properties
+      key="Output"
+      value="Onderwijsplan"/>
+</archimate:BusinessProcess>

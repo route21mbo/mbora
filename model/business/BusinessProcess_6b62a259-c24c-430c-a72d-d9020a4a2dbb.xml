@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Schatten onderwijs en studenten"
-    id="6b62a259-c24c-430c-a72d-d9020a4a2dbb"/>
+    id="6b62a259-c24c-430c-a72d-d9020a4a2dbb"
+    documentation="Het inschatten van de aantallen studenten en het daarmee beoogde te faciliteren onderwijs ten behoeve van de meerjarenplanning.&#xD;&#xA;&#xD;&#xA;De schatting van onderwijs en studenten wordt gebruikt bij het analyseren van de werkverdeling en middelen, en het opstellen van de meerjarenplanning.">
+  <properties
+      key="Input"
+      value="Prognoses van te verwachten studenten en studiekeuzes"/>
+  <properties
+      key="Output"
+      value="Schatting van het aantal studenten, klassen en leerroutes"/>
+</archimate:BusinessProcess>
