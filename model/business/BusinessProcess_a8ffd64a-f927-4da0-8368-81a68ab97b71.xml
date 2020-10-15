@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen benodigde middelen"
-    id="a8ffd64a-f927-4da0-8368-81a68ab97b71"/>
+    id="a8ffd64a-f927-4da0-8368-81a68ab97b71"
+    documentation="Voor het vastgestelde aanbod aan opleidingen bepalen school en team jaarlijks wat nodig is aan leermateriaal, onderwijsspecifieke faciliteiten (zoals simulatoren, bedden, kappersstoelen), generieke faciliteiten (zoals theorie- en praktijkruimtes), examenmateriaal en de benodigde bpv plaatsen. Het team bepaalt jaarlijks -- mede op basis van de eigen verbeteragenda -- of er aanpassing en aanvulling of vernieuwing moet plaatsvinden.">
+  <properties
+      key="Input"
+      value="Analyse benodigde middelen op basis van de te verwachten onderwijsvraag"/>
+  <properties
+      key="Output"
+      value="Benodigde middelen ten behoeve van de onderwijsvraag voor de komende periode"/>
+</archimate:BusinessProcess>

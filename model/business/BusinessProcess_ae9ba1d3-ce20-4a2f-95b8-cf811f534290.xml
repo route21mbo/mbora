@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen benodigde mensen"
-    id="ae9ba1d3-ce20-4a2f-95b8-cf811f534290"/>
+    id="ae9ba1d3-ce20-4a2f-95b8-cf811f534290"
+    documentation="Voor het vastgestelde aanbod aan opleidingen bepalen school en team jaarlijks welke personele inzet nodig is. Het team bepaalt jaarlijks -- mede op basis van de eigen verbeteragenda -- of er aanpassing aan de capaciteit, kennis en competenties in het team nodig is.">
+  <properties
+      key="Input"
+      value="Analyse benodigde inzet van personeel op basis van de te verwachten onderwijsvraag"/>
+  <properties
+      key="Output"
+      value="Benodigde inzet van mensen ten behoeve van de onderwijsvraag voor de komende periode"/>
+</archimate:BusinessProcess>

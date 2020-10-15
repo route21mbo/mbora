@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Analyseren middelen"
-    id="f2d107b8-e865-4a42-8619-671d37501702"/>
+    name="Inzetten middelen"
+    id="f2d107b8-e865-4a42-8619-671d37501702"
+    documentation="Het daadwerkelijk toewijzen (alloceren) van middelen ten behoeve van het onderwijs van de komende periode">
+  <properties
+      key="Input"
+      value="Benodigde middelen ten behoeve van de onderwijsvraag voor de komende periode"/>
+  <properties
+      key="Output"
+      value="Gealloceerde middelen"/>
+</archimate:BusinessProcess>
