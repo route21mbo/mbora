@@ -7,6 +7,9 @@
       key="Input"
       value="(1) Nieuwe of gewijzigde onderijsovereenkomst of (2) Verzoek vanuit begeleiding om leervraag (opnieuw) te bepalen of (3) De huidige leervraag blijk niet te kunnen worden gearrangeerd"/>
   <properties
+      key="Proces"
+      value="De begeleider stelt samen met de student de leervraag op, uitgedrukt in producten uit de onderwijscatalogus, eventueel aangevuld met additionele wensen en voorwaarden."/>
+  <properties
       key="Output"
       value="(1) Vastgelegde leervraag en (2) Keuze voor een verbintenisgebied en/of keuzedelen die verwerkt kunnen worden op de onderwijsovereenkomst"/>
 </archimate:BusinessProcess>
