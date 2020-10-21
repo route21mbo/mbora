@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren middelen"
-    id="83fcea1b-0ffa-4d20-baed-d40efa77621d"/>
+    id="83fcea1b-0ffa-4d20-baed-d40efa77621d"
+    documentation="De huidige beschikbare faciliteiten worden geanalyseerd. Op basis van het beoogde onderwijsaanbod wordt onderzocht of de faciliteiten voldoende aanwezig zijn.&#xD;&#xA;&#xD;&#xA;Hierbij wordt gelet op:&#xD;&#xA;&#xD;&#xA;- Lokalen en ruimtes&#xD;&#xA;- Beschikbare ICT middelen&#xD;&#xA;- Beschikbare beroepsgerichte middelen&#xD;&#xA;- Onderwijsondersteunende materialen&#xD;&#xA;&#xD;&#xA;De analyse voedt de jaarplanning.">
+  <properties
+      key="Input"
+      value="Schatting onderwijs en studenten"/>
+  <properties
+      key="Output"
+      value="Analyse benodigde middelen op basis van de te verwachten onderwijsvraag"/>
+</archimate:BusinessProcess>

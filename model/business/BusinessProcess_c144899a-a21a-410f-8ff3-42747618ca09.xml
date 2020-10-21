@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afhandelen niet-planbare arrangementen"
-    id="c144899a-a21a-410f-8ff3-42747618ca09"/>
+    id="c144899a-a21a-410f-8ff3-42747618ca09"
+    documentation="Het kan voorkomen dat leerroutes / arrangementen (of delen ervan) ‘niet planbaar’ zijn doordat te weinig studenten hiervoor kiezen, er te weinig middelen beschikbaar zijn of omdat de gestelde randvoorwaarden door de student fricties opleveren met de randvoorwaarden van een onderwijsproduct. Deze arrangementen zijn niet, of niet geheel in het rooster opgenomen.&#xD;&#xA;&#xD;&#xA;Er wordt een oplossing gezocht voor de niet geplande arrangementen, al dan niet met aanpassing van de leervraag of het arrangement door bijvoorbeeld het kiezen van alternatieve onderwijsproducten die in een komende periode wel worden uitgevoerd. ">
+  <properties
+      key="Input"
+      value="Niet-planbare arrangementen (gekozen leerroutes)"/>
+  <properties
+      key="Output"
+      value="(1) Alternieve oplossing in het rooster of (2) Verzoek tot herformuleren arrangement"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Jaarkalender vaststellen"
-    id="6d4cb4fc-5a7c-42bd-8458-9cc4538abe66"/>
+    id="6d4cb4fc-5a7c-42bd-8458-9cc4538abe66"
+    documentation=" De instelling stelt jaarlijks een jaarkalender vast. In deze jaarkalender zijn de volgende zaken opgenomen:&#xD;&#xA;&#xD;&#xA; - Start en einde schooljaar&#xD;&#xA; - Vakanties&#xD;&#xA; - Feestdagen&#xD;&#xA; - Periodisering&#xD;&#xA; - Examenweken&#xD;&#xA;&#xD;&#xA;Het Ministerie van OCW levert een advies inzake de schoolvakanties. De jaarkalender biedt de basis voor het inplannen van het onderwijs in de jaarplanning. ">
+  <properties
+      key="Input"
+      value="Advies OCW m.b.t. schoolvakanties"/>
+  <properties
+      key="Output"
+      value="Jaarkalender"/>
+</archimate:BusinessProcess>
