@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intake systeem"
+    id="id-e1188fa55d6d4209a79a66651c48c422"
+    documentation="Een systeem voor het plannen, inschrijven, afhandelen, verslagleggen en beoordelen van de intake van studenten.&#xD;&#xA;&#xD;&#xA;Dit zowel voor initiele aanmeldingen als voor tussentijdse loopbaanadviestrajecten">
+  <properties
+      key="Source"
+      value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>
+  <properties
+      key="Source (een instelling variant van)"
+      value="https://www.wikixl.nl/wiki/rosa/index.php/Id-ee5acde7-9722-44ab-85d1-ddb5568a05d9"/>
+</archimate:ApplicationComponent>
