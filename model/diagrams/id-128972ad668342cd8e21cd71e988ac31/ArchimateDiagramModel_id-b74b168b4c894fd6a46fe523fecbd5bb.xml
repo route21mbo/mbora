@@ -1294,10 +1294,10 @@
         source="id-9d57d2f583be4786a28c4ff4ebb4f5b0"
         target="id-b10981cfd8d1438e815fd4183effbc22">
       <bendpoints
-          startX="-12"
-          startY="597"
-          endX="858"
-          endY="-7"/>
+          startX="-24"
+          startY="405"
+          endX="846"
+          endY="-19"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-3cef7d3a99d74bf785486e7d6f77008e.xml#id-3cef7d3a99d74bf785486e7d6f77008e"/>
@@ -1307,6 +1307,11 @@
         id="id-f9106ed69a29494097d94818de086ca9"
         source="id-9d57d2f583be4786a28c4ff4ebb4f5b0"
         target="id-3c3f0863d8424aa3b7749e591ad843f9">
+      <bendpoints
+          startX="-24"
+          startY="-171"
+          endX="324"
+          endY="-96"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-a428fa68c6ea4cc9bff9220e096696bf.xml#id-a428fa68c6ea4cc9bff9220e096696bf"/>
@@ -1322,7 +1327,7 @@
     </sourceConnections>
     <bounds
         x="1908"
-        y="276"
+        y="456"
         width="120"
         height="55"/>
     <archimateElement
@@ -1346,6 +1351,26 @@
         id="id-a3c76f4aeca449bbacc974b2b19fab03"
         source="id-7a1aa083c038473d9203e544226caafd"
         target="id-7a36c0f31c7848a8ae1efda204245433">
+      <bendpoints
+          startX="-109"
+          startY="-3"
+          endX="564"
+          endY="-423"/>
+      <bendpoints
+          startX="-109"
+          startY="177"
+          endX="564"
+          endY="-243"/>
+      <bendpoints
+          startX="-541"
+          startY="177"
+          endX="132"
+          endY="-243"/>
+      <bendpoints
+          startX="-541"
+          startY="345"
+          endX="132"
+          endY="-75"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-f9f3e4e3019c4c03aac75c2daa5b8600.xml#id-f9f3e4e3019c4c03aac75c2daa5b8600"/>
