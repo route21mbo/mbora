@@ -960,14 +960,14 @@
           source="id-39c91745feca4e44a0439f4b6d1cdcc9"
           target="id-f7db372b28594e81a3dfdf5d9d12093b">
         <bendpoints
-            startX="-84"
+            startX="-72"
             startY="-3"
-            endX="72"
-            endY="309"/>
+            endX="84"
+            endY="513"/>
         <bendpoints
-            startX="-84"
-            startY="-315"
-            endX="72"
+            startX="-72"
+            startY="-519"
+            endX="84"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
