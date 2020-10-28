@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-40a1d2b775e84edcb4c51d6f5d1254a3"
-      targetConnections="id-d3197f458eb24ac6a1b7dab170bc35fc id-9cec4793d9c849f0ad2357ce6695854c">
+      targetConnections="id-d3197f458eb24ac6a1b7dab170bc35fc id-9cec4793d9c849f0ad2357ce6695854c id-c74cc1bd29d343eca552628ee6fabf93">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7a65bad790af4db1b96dafe217ea5db0"
@@ -1000,18 +1000,6 @@
         href="BusinessProcess_23334b1b-ca9a-451d-b36f-0d2e078d21a4.xml#23334b1b-ca9a-451d-b36f-0d2e078d21a4"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-27e0c9c839cc4c75963e9abec76bc237"
-      font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      content="In ontwikkeling !">
-    <bounds
-        x="743"
-        y="36"
-        width="218"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-08cce65580af4223a58e421f9790b228">
     <sourceConnections
@@ -1387,5 +1375,26 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-01fbde22a2d3406ea7e3791809b23a4f.xml#id-01fbde22a2d3406ea7e3791809b23a4f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c5a95bad31534d919b81d4f75334f84e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c74cc1bd29d343eca552628ee6fabf93"
+        source="id-c5a95bad31534d919b81d4f75334f84e"
+        target="id-40a1d2b775e84edcb4c51d6f5d1254a3">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-91df5ab98a714c83a3531163bac74ab1.xml#id-91df5ab98a714c83a3531163bac74ab1"/>
+    </sourceConnections>
+    <bounds
+        x="156"
+        y="151"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-3cf4e1b171e24424aac0851800e428d3.xml#id-3cf4e1b171e24424aac0851800e428d3"/>
   </children>
 </archimate:ArchimateDiagramModel>
