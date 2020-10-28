@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leermiddelenlijst verstrekkingsysteem "
+    id="id-e1f4a4fa3bff47bc8489cfce902a360d"
+    documentation="Een systeem dat ondersteunt bij&#xD;&#xA;-  het aanbieden van leermiddelen door de instelling en door derden  &#xD;&#xA;-  het bestellen en betalen van leermiddelen door studenten&#xD;&#xA;- het verkrijgen van licenties/vouchers&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;ROSA noemt de bestelomgeving een aparte component: https://www.wikixl.nl/wiki/rosa/index.php?title=DisplayArchiMateElements&amp;elementtype=ApplicationComponent&amp;model=Id-316838d5-7351-46de-9071-f4ba8175825c&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Dit valt ook onder het programma-doorpakken-op-digitalisering. &#xD;&#xA;Zie https://www.sambo-ict.nl/programmas/programma-doorpakken-op-digitalisering/leermiddelen/   &#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Zie ook het koppelpunt catalogusinformatie. &#xD;&#xA;Zie https://www.kennisnet.nl/diensten/koppelpunt-catalogusinformatie/ &#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;In het PvE van de nieuwe catalogus lijkt het een ROC overstijgend platform te worden. Hoe geven we dat aan..? (kleurtje, labeltje..?)&#xD;&#xA;Zie https://www.sambo-ict.nl/wp-content/uploads/2020/08/20200822-Concept-PvE-leermiddelen-MBO-v0.9.pdf   blz 21 e.v.">
+  <properties
+      key="Source"
+      value="None"/>
+</archimate:ApplicationComponent>
