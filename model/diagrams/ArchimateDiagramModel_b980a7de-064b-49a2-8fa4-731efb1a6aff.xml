@@ -389,10 +389,15 @@
           source="abd29ac8-e505-4e0a-87bc-8dc5abd27239"
           target="96bdb445-aff4-4dfc-8e97-c76f8fa82777">
         <bendpoints
-            startX="54"
-            startY="-135"
-            endX="-138"
-            endY="93"/>
+            startX="18"
+            startY="-123"
+            endX="-186"
+            endY="105"/>
+        <bendpoints
+            startX="114"
+            startY="-219"
+            endX="-90"
+            endY="9"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_e739bc19-5d5f-438b-8a57-1d67d6fa7b2f.xml#e739bc19-5d5f-438b-8a57-1d67d6fa7b2f"/>
