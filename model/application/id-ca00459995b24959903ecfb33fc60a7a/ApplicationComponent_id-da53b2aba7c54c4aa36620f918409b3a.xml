@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beveiligingssystemen RBS"
+    name="Gebouwbeveiligingsystemen"
     id="id-da53b2aba7c54c4aa36620f918409b3a"
-    documentation="Verzamelbegrip van systemen voor het beheer van gebouw beveiligingsvoorzieningen (ook wel RBS - Risico Beheer Systeem genoemd).&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;gebouwtoegangsystemen (poortjes, slagbomen, zonering)&#xD;&#xA;parkeerruimte teller&#xD;&#xA;lift controle&#xD;&#xA;inbraakdetectiesystemen&#xD;&#xA;brandmelders&#xD;&#xA;deurmagneetcontacten&#xD;&#xA;intercominstallatie&#xD;&#xA;sprinklerinstallatie&#xD;&#xA;alarminstallatie&#xD;&#xA;centrale meldkamer systeem&#xD;&#xA;portofoon systeem&#xD;&#xA;EHBO registratie"/>
+    documentation="Verzamelbegrip van systemen voor het beheer van gebouwbeveiligingsvoorzieningen (ook wel het RBS - Risico Beheer Systeem genoemd).&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;gebouwtoegangsystemen (poortjes, slagbomen, zonering)&#xD;&#xA;parkeerruimte teller&#xD;&#xA;lift controle&#xD;&#xA;inbraakdetectiesystemen&#xD;&#xA;brandmelders&#xD;&#xA;deurmagneetcontacten&#xD;&#xA;intercominstallatie&#xD;&#xA;sprinklerinstallatie&#xD;&#xA;alarminstallatie&#xD;&#xA;centrale meldkamer systeem&#xD;&#xA;portofoon systeem&#xD;&#xA;EHBO registratie"/>
