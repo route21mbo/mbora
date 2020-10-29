@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toegangsbeheer"
+    name="Toegangsverlening"
     id="id-fca1baaee35f47cdb37d9a74516cbe02"
-    documentation="Het identificeren en authenticeren tijdens het inloggen in digitale sytemen&#xD;&#xA;Inclusief federated diensten, beheren van tokens e.d."/>
+    documentation="Het authenticeren en toegang verlenen tijdens het inloggen in digitale sytemen&#xD;&#xA;"/>
