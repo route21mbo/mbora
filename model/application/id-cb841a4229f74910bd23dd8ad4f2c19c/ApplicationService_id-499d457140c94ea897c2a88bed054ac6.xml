@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autorisatiebeheer"
     id="id-499d457140c94ea897c2a88bed054ac6"
-    documentation="Het bepalen of een rol of persoon toegang heeft tot gegevens of een functionaliteit"/>
+    documentation="Het administreren van rollen en toegangsrechten in systemen. Denk aan autorisatiematrixen en registraties dienaangaande vanwege de AVG."/>
