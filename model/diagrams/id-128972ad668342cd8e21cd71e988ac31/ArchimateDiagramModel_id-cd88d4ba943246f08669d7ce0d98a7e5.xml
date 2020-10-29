@@ -824,7 +824,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c046196ebd574265bc28298bb4cf02de"
       textAlignment="1"
-      content="Bespreekpunten - wat opvalt&#xD;&#xA;&#xD;&#xA;Niet alles rondom BPV zit in dit domein&#xD;&#xA;&#xD;&#xA;Pas op bij kopieeren composit-processen uit andere views dat na het plakken geen elementen worden gekopieerd in de repository. Anders gezegd be aware of elementen met de tekst (copy) erachter in je view. Die dubbelingen wiilen we echt niet&#xD;&#xA;&#xD;&#xA;Ik mis:&#xD;&#xA;- Roosterpublicatieservice&#xD;&#xA;- Properties/beschrijving proces Presenteren Onderwijs&#xD;&#xA;- Analyse AAR-gegevensservice&#xD;&#xA;&#xD;&#xA;Vragen:&#xD;&#xA;- Clusteren van leertaken gaat via Office tool en output gaat in Rooster tool..?&#xD;&#xA;- AppSrv Taaktoedeling gekoppeld aan 2 processen. Klopt dat..?">
+      content="Bespreekpunten - wat opvalt&#xD;&#xA;&#xD;&#xA;Niet alles rondom BPV zit in dit domein&#xD;&#xA;&#xD;&#xA;Pas op bij kopieeren composit-processen uit andere views dat na het plakken geen elementen worden gekopieerd in de repository. Anders gezegd be aware of elementen met de tekst (copy) erachter in je view. Die dubbelingen wiilen we echt niet&#xD;&#xA;&#xD;&#xA;Ik mis:&#xD;&#xA;- Roosterpublicatieservice&#xD;&#xA;- Properties/beschrijving proces Presenteren Onderwijs&#xD;&#xA;- Analyse AAR-gegevensservice&#xD;&#xA;&#xD;&#xA;Vragen:&#xD;&#xA;- Clusteren van leertaken gaat via Office tool en output gaat in Rooster tool..?&#xD;&#xA;- AppSrv Taaktoedeling gekoppeld aan 2 processen. Klopt dat..?&#xD;&#xA;- We hebben nog geen ouder-portaal om bijv. de resultaten of het rooster van een student te laten zien. Willen we dit als applicatieservice..?">
     <bounds
         x="1320"
         y="334"
