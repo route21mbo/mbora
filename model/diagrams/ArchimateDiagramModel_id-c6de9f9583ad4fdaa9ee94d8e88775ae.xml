@@ -934,9 +934,9 @@
           lineColor="#5c5c5c"
           fillColor="#b5ffff">
         <bounds
-            x="36"
+            x="24"
             y="36"
-            width="180"
+            width="205"
             height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
