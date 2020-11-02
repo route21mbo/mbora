@@ -532,10 +532,10 @@
         source="id-4c8477e56a2840139163bd6d51949f58"
         target="id-8e9a6210c5614ba9b416844895d3ee75">
       <bendpoints
-          startX="-43"
-          startY="792"
-          endX="-284"
-          endY="-24"/>
+          startX="5"
+          startY="780"
+          endX="-236"
+          endY="-36"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_3ff11596-9a2c-4e86-afe0-c2b4c7c3654a.xml#3ff11596-9a2c-4e86-afe0-c2b4c7c3654a"/>
@@ -546,10 +546,10 @@
         source="id-4c8477e56a2840139163bd6d51949f58"
         target="id-2df637ad7861443a930ba581842b8ef4">
       <bendpoints
-          startX="53"
-          startY="144"
-          endX="-188"
-          endY="-60"/>
+          startX="5"
+          startY="192"
+          endX="-236"
+          endY="-102"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_3953c8e2-d322-4aaa-ab1d-08afce13df43.xml#3953c8e2-d322-4aaa-ab1d-08afce13df43"/>
@@ -595,9 +595,9 @@
           href="ServingRelationship_id-91246c71d30c4abb98b6af4d72761537.xml#id-91246c71d30c4abb98b6af4d72761537"/>
     </sourceConnections>
     <bounds
-        x="510"
-        y="600"
-        width="120"
+        x="504"
+        y="618"
+        width="126"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -616,9 +616,9 @@
           href="ServingRelationship_id-1894388c008a40d597a22818fb72fc5a.xml#id-1894388c008a40d597a22818fb72fc5a"/>
     </sourceConnections>
     <bounds
-        x="510"
+        x="504"
         y="720"
-        width="120"
+        width="126"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -644,7 +644,7 @@
       <bendpoints
           startX="-90"
           startY="9"
-          endX="113"
+          endX="108"
           endY="-51"/>
       <bendpoints
           startX="-90"
@@ -656,9 +656,9 @@
           href="ServingRelationship_id-182647bcfc2744579161a6fbcada8035.xml#id-182647bcfc2744579161a6fbcada8035"/>
     </sourceConnections>
     <bounds
-        x="510"
+        x="504"
         y="780"
-        width="120"
+        width="126"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -677,9 +677,9 @@
           href="ServingRelationship_id-89d2625420e64eb5ac3a9e10d1f262e4.xml#id-89d2625420e64eb5ac3a9e10d1f262e4"/>
     </sourceConnections>
     <bounds
-        x="510"
+        x="504"
         y="840"
-        width="120"
+        width="126"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -698,9 +698,9 @@
           href="ServingRelationship_id-9ddb9180140f435bb9f8741d7ced7db5.xml#id-9ddb9180140f435bb9f8741d7ced7db5"/>
     </sourceConnections>
     <bounds
-        x="510"
+        x="504"
         y="900"
-        width="120"
+        width="126"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -715,7 +715,7 @@
         x="648"
         y="927"
         width="97"
-        height="76"/>
+        height="106"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -724,7 +724,7 @@
       content="Of valt dit onder BPV-contractbeheer?">
     <bounds
         x="636"
-        y="834"
+        y="851"
         width="121"
         height="61"/>
   </children>
@@ -736,8 +736,8 @@
     <bounds
         x="924"
         y="927"
-        width="85"
-        height="34"/>
+        width="97"
+        height="46"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -745,9 +745,9 @@
       textAlignment="1"
       content="Formatief resultatenbeheer?">
     <bounds
-        x="612"
-        y="660"
-        width="114"
-        height="40"/>
+        x="635"
+        y="621"
+        width="109"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
