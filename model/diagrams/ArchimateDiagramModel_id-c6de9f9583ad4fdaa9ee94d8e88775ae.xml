@@ -2714,8 +2714,8 @@
             href="RealizationRelationship_id-10217ba724e44d8f9976300fa0c6d646.xml#id-10217ba724e44d8f9976300fa0c6d646"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="167"
+          x="288"
+          y="165"
           width="235"
           height="99"/>
       <children
@@ -2942,8 +2942,8 @@
             href="RealizationRelationship_id-ae065d3a81d64f989327ed8585623ec1.xml#id-ae065d3a81d64f989327ed8585623ec1"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="672"
+          x="288"
+          y="670"
           width="235"
           height="217"/>
       <children
@@ -3078,8 +3078,8 @@
             href="RealizationRelationship_id-33c67e9822fb4ef3bfd386c513e457b1.xml#id-33c67e9822fb4ef3bfd386c513e457b1"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="408"
+          x="288"
+          y="406"
           width="235"
           height="239"/>
       <children
@@ -3154,8 +3154,8 @@
             href="RealizationRelationship_id-f8d89e5a06ae4f9c8ad0e44c7957e1bf.xml#id-f8d89e5a06ae4f9c8ad0e44c7957e1bf"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="51"
+          x="288"
+          y="49"
           width="235"
           height="93"/>
       <children
@@ -3280,8 +3280,8 @@
             href="RealizationRelationship_id-617b042ad96f437a94972453af9340d0.xml#id-617b042ad96f437a94972453af9340d0"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="285"
+          x="288"
+          y="283"
           width="235"
           height="97"/>
       <children
@@ -3364,8 +3364,8 @@
             href="RealizationRelationship_id-9992b7cb855f4cefb40c6c34653733b4.xml#id-9992b7cb855f4cefb40c6c34653733b4"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="912"
+          x="288"
+          y="910"
           width="235"
           height="92"/>
       <children
@@ -3443,7 +3443,7 @@
             href="RealizationRelationship_id-d5dbe5e359b0410fb007509b37384fb0.xml#id-d5dbe5e359b0410fb007509b37384fb0"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="552"
           y="408"
           width="235"
           height="301"/>
@@ -3534,7 +3534,7 @@
         textAlignment="1"
         content="Voorstel IAM-systemen gebasseerd op de NORA en andere bronnen (zie systeem component properties)">
       <bounds
-          x="648"
+          x="552"
           y="312"
           width="169"
           height="71"/>
