@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces &amp; Applicatie ondersteuning"
+    id="id-2b368775b0e9441ab68ebd0f6138363c"
+    documentation="Het ondersteunen van processen en applicaties door IAM gerelateerde diensten, zoals&#xD;&#xA;* Single Sign On sessies (SSO)&#xD;&#xA;* Federatiediensten, dat wil zeggen IAM over organisatie grenzen heen, zoals bijvoorbeeld SURFcontext&#xD;&#xA;* Sessiebeheer, bijvoorbeeld ticketing systemen (kerberos).&#xD;&#xA;* IAM Provisioning, t.b.v.  Enterprise Identity Stack Rationalisatie&#xD;&#xA;* Auditing, reportages &amp; compliance &#xD;&#xA;"/>
