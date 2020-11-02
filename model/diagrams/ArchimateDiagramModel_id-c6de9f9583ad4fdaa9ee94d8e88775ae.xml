@@ -1711,6 +1711,15 @@
               xsi:type="archimate:RealizationRelationship"
               href="RealizationRelationship_id-2760bcf5cf664623b32b89190b8b27c0.xml#id-2760bcf5cf664623b32b89190b8b27c0"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-a97eb005569c477abe12e958e176f43d"
+            source="id-005b7819053f4b96a63e2dbf64a710ef"
+            target="id-a16d352a64b243bf8b2141da271df393">
+          <archimateRelationship
+              xsi:type="archimate:RealizationRelationship"
+              href="RealizationRelationship_id-39d6b75798a3400da88ee7e4887a8400.xml#id-39d6b75798a3400da88ee7e4887a8400"/>
+        </sourceConnections>
         <bounds
             x="288"
             y="35"
@@ -1732,6 +1741,19 @@
           <archimateElement
               xsi:type="archimate:ApplicationService"
               href="ApplicationService_id-01fbde22a2d3406ea7e3791809b23a4f.xml#id-01fbde22a2d3406ea7e3791809b23a4f"/>
+        </children>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="id-a16d352a64b243bf8b2141da271df393"
+            targetConnections="id-a97eb005569c477abe12e958e176f43d">
+          <bounds
+              x="36"
+              y="96"
+              width="180"
+              height="49"/>
+          <archimateElement
+              xsi:type="archimate:ApplicationService"
+              href="ApplicationService_id-a4b277541d1d4a9e8b3363b91a82ba41.xml#id-a4b277541d1d4a9e8b3363b91a82ba41"/>
         </children>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -2054,17 +2076,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-7546969193fd439491a36ef6286999af.xml#id-7546969193fd439491a36ef6286999af"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-d432ebb0d55548f79f029e5ac2610280"
-        textAlignment="1"
-        content="De volgende services worden gemist:&#xD;&#xA;- Leerroute administratie&#xD;&#xA;- Leerarrangementbeheer">
-      <bounds
-          x="600"
-          y="240"
-          width="181"
-          height="85"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
