@@ -3421,7 +3421,7 @@
           x="588"
           y="408"
           width="235"
-          height="289"/>
+          height="301"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-bf9ac4e62d1044b883bb56447791848f"
@@ -3494,7 +3494,7 @@
             x="36"
             y="240"
             width="181"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-2b368775b0e9441ab68ebd0f6138363c.xml#id-2b368775b0e9441ab68ebd0f6138363c"/>
