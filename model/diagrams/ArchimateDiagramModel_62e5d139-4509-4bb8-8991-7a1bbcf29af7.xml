@@ -281,7 +281,7 @@
             href="TriggeringRelationship_11fba3da-6581-4b96-9b0a-1e20c571c152.xml#11fba3da-6581-4b96-9b0a-1e20c571c152"/>
       </sourceConnections>
       <bounds
-          x="156"
+          x="168"
           y="48"
           width="120"
           height="55"/>
@@ -767,7 +767,7 @@
           href="CompositionRelationship_cb15113c-7d35-49e2-a540-f0270489751a.xml#cb15113c-7d35-49e2-a540-f0270489751a"/>
     </sourceConnections>
     <bounds
-        x="780"
+        x="792"
         y="-60"
         width="637"
         height="354"/>
