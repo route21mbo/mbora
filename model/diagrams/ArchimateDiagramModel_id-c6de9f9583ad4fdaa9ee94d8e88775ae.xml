@@ -13,7 +13,7 @@
       fillColor="#80ff80">
     <bounds
         x="21"
-        y="1632"
+        y="1764"
         width="1729"
         height="517"/>
     <children
@@ -962,7 +962,7 @@
         x="333"
         y="588"
         width="1393"
-        height="361"/>
+        height="481"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d4f6d0fdf33948898af43abbeb74c411"
@@ -1621,7 +1621,7 @@
     </sourceConnections>
     <bounds
         x="333"
-        y="1236"
+        y="1368"
         width="1729"
         height="373"/>
     <children
@@ -2184,7 +2184,7 @@
       fillColor="#80ff80">
     <bounds
         x="24"
-        y="2172"
+        y="2304"
         width="1723"
         height="493"/>
     <children
@@ -2798,7 +2798,7 @@
     </sourceConnections>
     <bounds
         x="1776"
-        y="1644"
+        y="1776"
         width="831"
         height="1033"/>
     <children
@@ -4083,7 +4083,7 @@
         x="2085"
         y="276"
         width="301"
-        height="1333"/>
+        height="1465"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aa12095f106d4c3abdea2aa56b97c1ed"
@@ -4138,11 +4138,20 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#80ff80">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-51af826888244c71bd7e144599655d1f"
+        source="id-1585cc90f6d24952b6be518bce0b64a5"
+        target="id-4522a4e754f74e7fa5d82002388dfb37">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-d65be01045694a56b8b4a4dffa56e625.xml#id-d65be01045694a56b8b4a4dffa56e625"/>
+    </sourceConnections>
     <bounds
         x="1749"
         y="276"
         width="313"
-        height="673"/>
+        height="793"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8bf0c98e1fbc4c8f933077a23385cef2"
@@ -4328,8 +4337,8 @@
             href="RealizationRelationship_id-1c822fb6beca47db86d3a651f839965a.xml#id-1c822fb6beca47db86d3a651f839965a"/>
       </sourceConnections>
       <bounds
-          x="35"
-          y="528"
+          x="36"
+          y="672"
           width="241"
           height="109"/>
       <children
@@ -4352,6 +4361,43 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-9976fb06a19f4494b7e85d787ba6e162.xml#id-9976fb06a19f4494b7e85d787ba6e162"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4522a4e754f74e7fa5d82002388dfb37"
+        targetConnections="id-51af826888244c71bd7e144599655d1f"
+        fillColor="#ff0000">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-0db26a64c7674cf28ba12a664e0619e0"
+          source="id-4522a4e754f74e7fa5d82002388dfb37"
+          target="id-9d8ccf9f33ac4907b991b55a8933b68f">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-43c5d64783534584b7ad9a3d585ca338.xml#id-43c5d64783534584b7ad9a3d585ca338"/>
+      </sourceConnections>
+      <bounds
+          x="36"
+          y="540"
+          width="239"
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-9d8ccf9f33ac4907b991b55a8933b68f"
+          targetConnections="id-0db26a64c7674cf28ba12a664e0619e0"
+          fillColor="#ff0000">
+        <bounds
+            x="36"
+            y="36"
+            width="181"
+            height="49"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationService"
+            href="ApplicationService_id-83fb685f33af4329b991ab4a1790cec2.xml#id-83fb685f33af4329b991ab4a1790cec2"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-647695297dfe4e3487b46d8c3a332b5f.xml#id-647695297dfe4e3487b46d8c3a332b5f"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -4376,9 +4422,9 @@
     </sourceConnections>
     <bounds
         x="333"
-        y="972"
+        y="1092"
         width="1729"
-        height="241"/>
+        height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2429a53e8ad04c6ab10bc4bda419866c"
@@ -4406,7 +4452,7 @@
       </sourceConnections>
       <bounds
           x="852"
-          y="37"
+          y="49"
           width="241"
           height="180"/>
       <children
@@ -4474,7 +4520,7 @@
       </sourceConnections>
       <bounds
           x="324"
-          y="37"
+          y="49"
           width="241"
           height="192"/>
       <children
@@ -4530,7 +4576,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="37"
+          y="49"
           width="241"
           height="108"/>
       <children
@@ -4572,7 +4618,7 @@
       </sourceConnections>
       <bounds
           x="588"
-          y="37"
+          y="49"
           width="241"
           height="108"/>
       <children
@@ -4612,7 +4658,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="156"
+          y="168"
           width="241"
           height="73"/>
       <children
@@ -4652,7 +4698,7 @@
         x="21"
         y="276"
         width="289"
-        height="1321"/>
+        height="1477"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ccdf0027176a42db8db147b25370a74f"
@@ -4828,7 +4874,7 @@
         content="SIS services uitbreiden...?&#xD;&#xA;&#xD;&#xA;Vergelijk dit met Osiris-functionaliteit:&#xD;&#xA;beheren taxonomie&#xD;&#xA;beheren resultaatstructuren&#xD;&#xA;beheren keuzedelen&#xD;&#xA;registreren vrijstellingen- &#xD;&#xA;toekennen voorzieningen&#xD;&#xA;vastleggen keuzedelen&#xD;&#xA;vastleggen begeleidingen&#xD;&#xA;registreren incidenten, houding, gedrag&#xD;&#xA;registrreren aanmeldingen, intake, OOK&#xD;&#xA;factureren&#xD;&#xA;aanvragen examendeelname&#xD;&#xA;aanvragen herkansingen&#xD;&#xA;vastleggen resultaten&#xD;&#xA;diplomeren studenten&#xD;&#xA;uitschrijven&#xD;&#xA;beheren bpv bedrijfsgegevens&#xD;&#xA;maken bpv overeenkomsten&#xD;&#xA;beheren groepen&#xD;&#xA;registreren aar&#xD;&#xA;verzuimmeldingen&#xD;&#xA;verwerken doorstroomdossiers&#xD;&#xA;uitwisselen ROD 9Bron)&#xD;&#xA;aanleveren gegs aan derden zoals keurmerk inburgeren">
       <bounds
           x="48"
-          y="900"
+          y="1044"
           width="241"
           height="387"/>
     </children>
