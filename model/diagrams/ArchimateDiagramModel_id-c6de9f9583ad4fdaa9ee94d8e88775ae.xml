@@ -3642,7 +3642,7 @@
           x="552"
           y="408"
           width="241"
-          height="301"/>
+          height="313"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-bf9ac4e62d1044b883bb56447791848f"
@@ -3700,7 +3700,7 @@
           targetConnections="id-dd5823ce17c54a3d91cb2d40b4e70682">
         <bounds
             x="36"
-            y="180"
+            y="192"
             width="193"
             height="49"/>
         <archimateElement
@@ -3713,7 +3713,7 @@
           targetConnections="id-77e9d4bdc24d4296892d300058c538da">
         <bounds
             x="36"
-            y="240"
+            y="252"
             width="193"
             height="49"/>
         <archimateElement
@@ -3805,8 +3805,7 @@
           targetConnections="id-707f277118c14258845a58234720850a"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           fontColor="#000000"
-          lineColor="#5c5c5c"
-          fillColor="#ffffff">
+          lineColor="#5c5c5c">
         <bounds
             x="36"
             y="84"
