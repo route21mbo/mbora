@@ -4985,11 +4985,10 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-56c4953c4a4a4a0da0e18eaf10f690d8"
         textAlignment="1"
-        content="SIS services uitbreiden...?&#xD;&#xA;&#xD;&#xA;Vergelijk dit met Osiris-functionaliteit:&#xD;&#xA;beheren taxonomie&#xD;&#xA;beheren resultaatstructuren&#xD;&#xA;beheren keuzedelen&#xD;&#xA;registreren vrijstellingen- &#xD;&#xA;toekennen voorzieningen&#xD;&#xA;vastleggen keuzedelen&#xD;&#xA;vastleggen begeleidingen&#xD;&#xA;registreren incidenten, houding, gedrag&#xD;&#xA;registrreren aanmeldingen, intake, OOK&#xD;&#xA;factureren&#xD;&#xA;aanvragen examendeelname&#xD;&#xA;aanvragen herkansingen&#xD;&#xA;vastleggen resultaten&#xD;&#xA;diplomeren studenten&#xD;&#xA;uitschrijven&#xD;&#xA;beheren bpv bedrijfsgegevens&#xD;&#xA;maken bpv overeenkomsten&#xD;&#xA;beheren groepen&#xD;&#xA;registreren aar&#xD;&#xA;verzuimmeldingen&#xD;&#xA;verwerken doorstroomdossiers&#xD;&#xA;uitwisselen ROD 9Bron)&#xD;&#xA;aanleveren gegs aan derden zoals keurmerk inburgeren">
+        content="SIS services uitbreiden...?&#xD;&#xA;&#xD;&#xA;Legende :&#xD;&#xA;* = hebben we al ergens&#xD;&#xA;   = die missen we nog&#xD;&#xA;&#xD;&#xA;Uit PVE Osiris-functionaliteit:&#xD;&#xA;* beheren taxonomie&#xD;&#xA;* beheren resultaatstructuren&#xD;&#xA;beheren keuzedelen&#xD;&#xA;* registreren vrijstellingen- &#xD;&#xA;* toekennen voorzieningen&#xD;&#xA;* vastleggen keuzedelen&#xD;&#xA;* vastleggen begeleidingen&#xD;&#xA;registreren incidenten, houding, gedrag&#xD;&#xA;* registrreren aanmeldingen, intake, OOK&#xD;&#xA;factureren&#xD;&#xA;* aanvragen examendeelname&#xD;&#xA;* aanvragen herkansingen&#xD;&#xA;* vastleggen resultaten&#xD;&#xA;* diplomeren studenten&#xD;&#xA;* uitschrijven&#xD;&#xA;* beheren bpv bedrijfsgegevens (zie uitwisselen BRON/ROD)&#xD;&#xA;maken bpv overeenkomsten (generieker maken..?)&#xD;&#xA;beheren groepen (naar plannen..?)&#xD;&#xA;* registreren aar&#xD;&#xA;* verzuimmeldingen&#xD;&#xA;verwerken doorstroomdossiers&#xD;&#xA;* uitwisselen ROD (Bron)&#xD;&#xA;* aanleveren gegs aan derden zoals keurmerk inburgeren">
       <bounds
-          x="48"
           y="1044"
-          width="241"
+          width="289"
           height="387"/>
     </children>
     <archimateElement

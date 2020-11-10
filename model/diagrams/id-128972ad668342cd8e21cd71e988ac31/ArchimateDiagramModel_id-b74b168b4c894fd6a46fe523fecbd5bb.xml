@@ -18,7 +18,7 @@
     </sourceConnections>
     <bounds
         x="780"
-        y="1107"
+        y="962"
         width="240"
         height="118"/>
     <children
@@ -79,7 +79,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="205"
+        y="60"
         width="217"
         height="336"/>
     <children
@@ -152,7 +152,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="564"
+        y="419"
         width="217"
         height="121"/>
     <children
@@ -213,7 +213,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="708"
+        y="563"
         width="217"
         height="337"/>
     <children
@@ -287,7 +287,7 @@
     </sourceConnections>
     <bounds
         x="780"
-        y="1260"
+        y="1115"
         width="241"
         height="121"/>
     <children
@@ -330,7 +330,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="1068"
+        y="923"
         width="217"
         height="181"/>
     <children
@@ -396,7 +396,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="1524"
+        y="1379"
         width="217"
         height="265"/>
     <children
@@ -465,7 +465,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="1284"
+        y="1139"
         width="217"
         height="217"/>
     <children
@@ -512,7 +512,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="1812"
+        y="1667"
         width="217"
         height="121"/>
     <children
@@ -546,7 +546,7 @@
     </sourceConnections>
     <bounds
         x="780"
-        y="468"
+        y="323"
         width="240"
         height="157"/>
     <children
@@ -608,7 +608,7 @@
     </sourceConnections>
     <bounds
         x="780"
-        y="651"
+        y="506"
         width="241"
         height="430"/>
     <children
@@ -681,7 +681,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="597"
+        y="452"
         width="168"
         height="55"/>
     <archimateElement
@@ -702,7 +702,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="744"
+        y="599"
         width="168"
         height="55"/>
     <archimateElement
@@ -740,7 +740,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="1026"
+        y="881"
         width="168"
         height="55"/>
     <archimateElement
@@ -774,7 +774,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="1176"
+        y="1031"
         width="168"
         height="55"/>
     <archimateElement
@@ -795,7 +795,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="1416"
+        y="1271"
         width="168"
         height="55"/>
     <archimateElement
@@ -821,7 +821,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="240"
+        y="95"
         width="168"
         height="55"/>
     <archimateElement
@@ -847,7 +847,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="312"
+        y="167"
         width="168"
         height="55"/>
     <archimateElement
@@ -868,7 +868,7 @@
     </sourceConnections>
     <bounds
         x="1092"
-        y="696"
+        y="551"
         width="168"
         height="55"/>
     <archimateElement
@@ -907,7 +907,7 @@
     </sourceConnections>
     <bounds
         x="1092"
-        y="1206"
+        y="1061"
         width="168"
         height="55"/>
     <archimateElement
@@ -933,7 +933,7 @@
     </sourceConnections>
     <bounds
         x="1092"
-        y="864"
+        y="719"
         width="168"
         height="55"/>
     <archimateElement
@@ -992,7 +992,7 @@
     </sourceConnections>
     <bounds
         x="324"
-        y="1704"
+        y="1559"
         width="168"
         height="55"/>
     <archimateElement
@@ -1036,7 +1036,7 @@
     </sourceConnections>
     <bounds
         x="1092"
-        y="540"
+        y="395"
         width="168"
         height="55"/>
     <archimateElement
@@ -1057,7 +1057,7 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="456"
+        y="311"
         width="168"
         height="55"/>
     <archimateElement
@@ -1078,7 +1078,7 @@
     </sourceConnections>
     <bounds
         x="1092"
-        y="780"
+        y="635"
         width="168"
         height="55"/>
     <archimateElement
@@ -1099,7 +1099,7 @@
     </sourceConnections>
     <bounds
         x="1092"
-        y="948"
+        y="803"
         width="168"
         height="55"/>
     <archimateElement
@@ -1113,8 +1113,8 @@
       textAlignment="1"
       content="Tekening werd erg langwerpig, vandaar de suggestie om enkele zich daarvoor lenende processen apart te plaatsen">
     <bounds
-        x="768"
-        y="196"
+        x="624"
+        y="52"
         width="383"
         height="141"/>
   </children>
