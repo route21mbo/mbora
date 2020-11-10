@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beëindigen onderwijs-overeenkomst"
-    id="9aacc950-5357-42fd-9263-6e80ddbbdaa5"/>
+    id="9aacc950-5357-42fd-9263-6e80ddbbdaa5"
+    documentation="Beëindigen van de onderwijsovereenkomst waarmee de juridische verhouding tussen student en instelling tevens wordt beeïndigd.&#xD;&#xA;">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

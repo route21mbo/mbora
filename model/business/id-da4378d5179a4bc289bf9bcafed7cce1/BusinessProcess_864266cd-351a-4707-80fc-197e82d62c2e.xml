@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presenteren onderwijs-aanbod"
-    id="864266cd-351a-4707-80fc-197e82d62c2e"/>
+    id="864266cd-351a-4707-80fc-197e82d62c2e"
+    documentation="Een onderwijsinstelling definieert de opleidingen en cursussen die worden aangeboden aan deelnemers in de vorm van onderwijsaanbod. Het onderwijsaanbod wordt ontwikkeld voor nieuwe opleidingen en cursussen, onderhouden en nader gespecificeerd. Zo ontstaat een eenduidig aanbod binnen de gehele onderwijsinstelling. Dit gebeurt in de onderwijscatalogus. Dit zorgt ervoor dat alle omringende processen informatie kunnen putten uit de onderwijscatalogus om flexibel te kunnen inschrijven, het onderwijs voor te bereiden en deelnemers te begeleiden.">
+  <properties
+      key="Input"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

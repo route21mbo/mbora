@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren summatieve resultaat-structuur"
-    id="125dee52-5d7f-4db0-8773-8fce0c6277fd"/>
+    id="125dee52-5d7f-4db0-8773-8fce0c6277fd"
+    documentation="Vastleggen van examenonderdelen en examens t.b.v. examineren.&#xD;&#xA;">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

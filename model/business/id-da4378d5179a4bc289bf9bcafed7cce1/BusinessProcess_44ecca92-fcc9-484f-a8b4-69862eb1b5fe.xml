@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren uitgebreide intake"
-    id="44ecca92-fcc9-484f-a8b4-69862eb1b5fe"/>
+    id="44ecca92-fcc9-484f-a8b4-69862eb1b5fe"
+    documentation="Wanneer uit de aanmelding van een student blijkt dat de student niet zonder meer geplaatst kan worden in de opleiding naar keuze kan er een uitgebreide intake plaatsvinden. Deze intake kan gericht zijn op: &#xD;&#xA;* bepalen van de zorgbehoefte van de student;&#xD;&#xA;* begeleiden van de studiekeuze van de student;&#xD;&#xA;* begeleiden van de student naar een andere opleiding dan de opleiding naar keuze (bijvoorbeeld in geval van instroombeperking of niet voldoen aan aanvullende eisen).&#xD;&#xA;Een uitgebreide intake vindt ook plaats wanneer er sprake is van een opleiding met aanvullende eisen. In dat geval kan de uitgebreide intake bestaan uit bijvoorbeeld een auditie of sporttest.">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

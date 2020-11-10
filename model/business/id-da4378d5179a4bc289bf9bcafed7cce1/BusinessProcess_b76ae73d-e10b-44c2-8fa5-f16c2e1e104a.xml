@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitwisselen met BRON"
-    id="b76ae73d-e10b-44c2-8fa5-f16c2e1e104a"/>
+    id="b76ae73d-e10b-44c2-8fa5-f16c2e1e104a"
+    documentation="Via BRON worden inschrijvingen, diploma’s en BPV-gegevens van de studenten uitgewisseld met DUO. BRON bestaat uit 2 registers; Onderwijsdeelname (OD) en Onderwijsresultaten (OR). De bekostiging van instellingen is mede afhankelijk van een correcte uitwisseling met BRON. Aanleidingen voor de uitwisseling met BRON: &#xD;&#xA;* nieuwe (of gewijzigde) onderwijsverbintenis;&#xD;&#xA;* nieuwe (of gewijzigde) Bpv-verbintenis;&#xD;&#xA;* uitschrijving met uitvalsreden anders dan diplomering;&#xD;&#xA;* gegevens over diplomering en het behalen van generieke examenonderdelen.&#xD;&#xA;">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

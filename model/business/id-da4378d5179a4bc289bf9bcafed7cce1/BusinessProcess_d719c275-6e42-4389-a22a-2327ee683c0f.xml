@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ondertekenen BPV-overeenkomst"
-    id="d719c275-6e42-4389-a22a-2327ee683c0f"/>
+    id="d719c275-6e42-4389-a22a-2327ee683c0f"
+    documentation="Het is belangrijk dat alle betrokkenen (student, bpv-bedrijf en school) van tevoren op de hoogte zijn van de inhoud van de bpv verbintenis (praktijkovereenkomst). Dan weet iedereen wat er wel of niet van hen wordt verwacht. Om die reden wordt de bpv verbintenis in drievoud door de school verstrekt en getekend door alle partijen. In verband met mogelijke aansprakelijkheid is het verstandig pas te starten met de bpv als de bpv verbintenis is getekend. De school stuurt de overeenkomst ter verificatie naar de Dienst Uitvoering Onderwijs (DUO).">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

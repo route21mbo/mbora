@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontvangen digitaal doorstroomdossier"
-    id="bc2e5787-52a8-4b82-8ab8-aa26369aba6f"/>
+    id="bc2e5787-52a8-4b82-8ab8-aa26369aba6f"
+    documentation="Na de aanmelding volgt een administratieve en/of onderwijs intake voor de student. Ten behoeve van een warme overdracht en voor de uitvoering van de onderwijs intake te kunnen voeren wordt input gebruikt uit het doorstroomdossier van de student. Dit doorstroom dossier bevat informatie over de student uit het voorliggend onderwijs, de informatie heeft betrekking op de ontwikkeling en ondersteuning van de student. MBO-scholen maken met VO-scholen in de regio afspraken over de invulling van het doorstroomdossier.">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

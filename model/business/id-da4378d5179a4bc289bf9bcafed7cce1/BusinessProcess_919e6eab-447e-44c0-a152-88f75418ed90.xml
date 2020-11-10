@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diplomeren, certificeren"
-    id="919e6eab-447e-44c0-a152-88f75418ed90"/>
+    id="919e6eab-447e-44c0-a152-88f75418ed90"
+    documentation="Zodra de examencommissie van de mbo-school heeft vastgesteld dat alle resultaten van alle examenonderdelen aan de gestelde diploma- en exameneisen (de slaag-/zakregelingen) van de betreffende kwalificatie voldoen, reikt de commissie een diploma uit met een bijbehorende resultatenlijst. Wanneer de kandidaat in voldoende mate aan de eisen van een certificeerbare eenheid heeft voldaan, mag de examencommissie van de school een certificaat uitreiken.&#xD;&#xA;">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

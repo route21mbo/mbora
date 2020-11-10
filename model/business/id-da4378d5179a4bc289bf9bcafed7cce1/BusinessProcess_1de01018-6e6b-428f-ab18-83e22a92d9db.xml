@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen diploma- of certificaat-recht"
-    id="1de01018-6e6b-428f-ab18-83e22a92d9db"/>
+    id="1de01018-6e6b-428f-ab18-83e22a92d9db"
+    documentation="Nagaan of een student mogelijkerwijs voor een kwalificerend document in aanmerking komt. Doel is te bepalen of een student recht heeft op kwalificerende documenten, zodat voorkomen wordt dat de student zonder de documenten waar hij recht op heeft, wordt uitgeschreven.&#xD;&#xA;Resultaten zijn:&#xD;&#xA;* vanuit de is doorgegeven welke kwalificerende documenten voor de betreffende deelnemer kunnen worden aangemaakt, inclusief de bijbehorende gegevens;&#xD;&#xA;* er wordt geen student uitgeschreven zonder de kwalificerende documenten waar de student recht op heeft.&#xD;&#xA;">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

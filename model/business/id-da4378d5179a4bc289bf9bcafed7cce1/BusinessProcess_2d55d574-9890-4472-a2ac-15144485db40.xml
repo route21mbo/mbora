@@ -1,4 +1,18 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden"
-    id="2d55d574-9890-4472-a2ac-15144485db40"/>
+    id="2d55d574-9890-4472-a2ac-15144485db40"
+    documentation="De student meldt zich voor één opleiding aan bij de MBO-school. In deze keten heeft de actie 'aanmelden' betrekking op één opleiding, studenten kunnen zich voor meer dan één opleiding aanmelden bij één of meerdere MBO-scholen. Na de aanmelding door de student via de website wordt de aanmelding bevestigd. Vervolgens start de informatie en communicatie namens de instelling of opleiding richting de student. &#xD;&#xA;">
+  <properties
+      key="Input"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>
