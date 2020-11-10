@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toets of examen nakijken"
+    id="id-83fb685f33af4329b991ab4a1790cec2"
+    documentation="Het automatisch nakijken toetsen van examens waar mogelijk, zoals multiple choice questions."/>

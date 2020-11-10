@@ -575,6 +575,16 @@
         id="id-2e52c93549914de2b377e005ca2ac6fb"
         source="id-343186cac55d4e0dbe8de0b1d667c686"
         target="id-84f723b3b2474611997774d24e2c25ef">
+      <bendpoints
+          startX="-96"
+          startY="-3"
+          endX="96"
+          endY="-63"/>
+      <bendpoints
+          startX="-96"
+          startY="57"
+          endX="96"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-91df5ab98a714c83a3531163bac74ab1.xml#id-91df5ab98a714c83a3531163bac74ab1"/>
@@ -690,5 +700,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-49c0b84be6294d1292bcaf17070451fc.xml#id-49c0b84be6294d1292bcaf17070451fc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c9133fdfa6fb4b76b406ed6fe2249eb5"
+      textAlignment="1"
+      content="Een applicatie interface binnen archimate is een portaal, of punt waar een gebruiker toegang kan krijgen tot applicatie services.&#xD;&#xA;Daarmee verleent de interface geen dienst aan de gebruiker, zoals een applicatie service dat doet, maar is toegewezen aan de applicatie services die de interface ontsluit naar de gebruiker.&#xD;&#xA;&#xD;&#xA;Externe tools en diensten, zoals die van DUO zouden eigenlijk gewoon gemoddelleerd moeten worden met applicatie services en componenten.&#xD;&#xA;Vervolgens kan je dan deze applicatie services en componenten in een aparte groepring stoppen, bijvoorbeeld externen.">
+    <bounds
+        x="588"
+        y="264"
+        width="481"
+        height="283"/>
   </children>
 </archimate:ArchimateDiagramModel>
