@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wijzigengegevens"
+    id="id-165de1de513644f294acb8b42a43cb91"
+    documentation="Biedt ondersteuning voor het wijzigen van gegevens door de student zelf, denk aan:&#xD;&#xA;- adressen bij verhuizing&#xD;&#xA;- nummers&#xD;&#xA;- geregistreerde prive email adressen&#xD;&#xA;- Redenen voor afwezigheid&#xD;&#xA;- ..."/>

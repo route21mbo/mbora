@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteitenbeheer"
+    id="id-4b488f0fdc3449e49101f9b0ef0b5b92"
+    documentation="Het beheren van identiteiten. Dat wil zeggen het volgen van identiteiten terwijl deze door de verschillende fases (life-cycle) van de enterprise bewegen, denk bijvoorbeeld aan nieuwe rollen, on- &amp; offboarding, ...&#xD;&#xA;&#xD;&#xA;Onder identitieten verstaan we gebruikers, principalen (abstracties) en voorwerpen, zoals Werknemers, leveranciers, partners, zzp-ers, verkopers, activa, projecten, webdiensten, ..."/>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Self-Service"
+    id="id-3f9a5beaf4a64f36817a559a0d746048"
+    documentation="Biedt de student toegang tot zijn geregisteerde informatie, welke cursussen voor hem beschikbaar zijn, roosters, cijfers, etc.&#xD;&#xA;* Laat de student ook zijn eigen gegevens wijzigen, zoals huisadres bij een verhuizing.&#xD;&#xA;* Laat de student zich afmelden&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
+</archimate:ApplicationComponent>

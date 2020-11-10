@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsverlening"
+    id="id-9cc494d0e4154bf48ec56bccfdf44d24"
+    documentation="De onderliggende dienst van identiteitsmanagement. Dit levert authenticatie, autorisatie en non-repudation diensten, met andere worden deze dienst levert toegang tot andere diensten.&#xD;&#xA;"/>

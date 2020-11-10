@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intake opleiding verwerken"
+    name="Intake verwerking"
     id="id-a8e8ebab89324ef89606446188fc7b34"
-    documentation="Het beoordelen van aanmeldingen en het plannen en uitvoeren van intakegesprekken"/>
+    documentation="Het plannen, inschrijven, uitvoeren en beoordelen van intakegesprekken.&#xD;&#xA;&#xD;&#xA;Zowel voor nieuwe inschrijvingen van studenten als voor loopbaanadviestrajecten."/>
