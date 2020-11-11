@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integratiesysteem"
     id="id-bc70cccbc9c149adb012aafa4859e20d"
-    documentation="Een systeem dat zorgdraagt voor de  uitwisseling van gegevens tussen applicaties.&#xD;&#xA;&#xD;&#xA;Bevat ondermeer:&#xD;&#xA;API's&#xD;&#xA;Business logica (input/output scripts)&#xD;&#xA;Databank&#xD;&#xA;Monitoring (performance en errors)&#xD;&#xA;&#xD;&#xA;Andere trefwoorden:&#xD;&#xA;ESB&#xD;&#xA;Broker">
+    documentation="Een systeem dat zorgdraagt voor de  uitwisseling van gegevens tussen applicaties. Zoals identiteitsgegevens.&#xD;&#xA;&#xD;&#xA;Bevat ondermeer:&#xD;&#xA;API's&#xD;&#xA;Business logica (input/output scripts)&#xD;&#xA;Databank&#xD;&#xA;Monitoring (performance en errors)&#xD;&#xA;&#xD;&#xA;Andere trefwoorden:&#xD;&#xA;ESB&#xD;&#xA;Broker">
   <properties
       key="Source"
       value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>
