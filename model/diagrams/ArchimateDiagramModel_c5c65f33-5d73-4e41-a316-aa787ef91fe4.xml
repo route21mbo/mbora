@@ -5,7 +5,8 @@
     id="c5c65f33-5d73-4e41-a316-aa787ef91fe4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="cc49328d-33e8-4b07-a497-f7365c55389c">
+      id="cc49328d-33e8-4b07-a497-f7365c55389c"
+      targetConnections="id-e65a73f6307843359dc17ad75d783f8c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="82c376a0-14e9-4d2e-b868-9897daa9fca5"
@@ -533,5 +534,20 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_593caa04-00f5-445a-9f1e-e8258a1aed47.xml#593caa04-00f5-445a-9f1e-e8258a1aed47"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-791aa6beac0346288acb4a7395deea2c"
+      textAlignment="1"
+      content="DV:&#xD;&#xA;- Toevoegen beheren passiva?&#xD;&#xA;- Wat is er specifiek voor projecten dat deze apart genoemd wordt?">
+    <sourceConnections
+        id="id-e65a73f6307843359dc17ad75d783f8c"
+        source="id-791aa6beac0346288acb4a7395deea2c"
+        target="cc49328d-33e8-4b07-a497-f7365c55389c"/>
+    <bounds
+        x="172"
+        y="496"
+        width="369"
+        height="141"/>
   </children>
 </archimate:ArchimateDiagramModel>

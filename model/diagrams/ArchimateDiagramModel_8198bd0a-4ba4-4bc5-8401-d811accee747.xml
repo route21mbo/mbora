@@ -41,7 +41,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="83c919ca-a29d-4109-abff-83fcf02567af"
-        targetConnections="8dc8f6cc-04ac-422c-b6f3-ca693f7115f4">
+        targetConnections="8dc8f6cc-04ac-422c-b6f3-ca693f7115f4 id-e292d21d834f4292ab182e483c796ce7">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="61a50d9d-1214-401c-b123-696a7fa01eb1"
@@ -195,7 +195,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f5d992f8-5c99-47bc-a1e8-51a4616e2960"
-        targetConnections="f2bc3736-d236-4ab4-bee8-0e9f2f800941">
+        targetConnections="f2bc3736-d236-4ab4-bee8-0e9f2f800941 id-d6f2f9bf8ffd415b9706e527fe95be00">
       <bounds
           x="168"
           y="132"
@@ -230,7 +230,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9de8012b-e3d2-4bff-b671-472635ebb295"
-        targetConnections="85e110e4-1e57-4d7a-9401-37956efb1daa 65cda28e-6bbb-46be-aebd-d0b11a2a6d95">
+        targetConnections="85e110e4-1e57-4d7a-9401-37956efb1daa 65cda28e-6bbb-46be-aebd-d0b11a2a6d95 id-4bc82c6d6d42464a890f2ec1755812c2">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="4b767130-288e-4abf-96d2-ee352fc44414"
@@ -252,7 +252,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="32fb3e5a-3125-4e4c-a23e-f106eb344e40"
-        targetConnections="0e2001cb-af90-463e-b029-d8d50f7f8448 4b767130-288e-4abf-96d2-ee352fc44414">
+        targetConnections="0e2001cb-af90-463e-b029-d8d50f7f8448 4b767130-288e-4abf-96d2-ee352fc44414 id-200f872c79f9412d9cbb258529b2db00">
       <bounds
           x="312"
           y="36"
@@ -403,5 +403,76 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_6c4db4ee-6042-4bec-ba8b-8595a77adbea.xml#6c4db4ee-6042-4bec-ba8b-8595a77adbea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8768bb645a404ecfa317b0d27c7da48c"
+      textAlignment="1"
+      content="DV: Wat is het leveren van nazorg? Anders dan het beheren van contracten?">
+    <sourceConnections
+        id="id-200f872c79f9412d9cbb258529b2db00"
+        source="id-8768bb645a404ecfa317b0d27c7da48c"
+        target="32fb3e5a-3125-4e4c-a23e-f106eb344e40"/>
+    <bounds
+        x="1027"
+        y="36"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c69553307574d05ab4137d2d0e225fc"
+      textAlignment="1"
+      content="DV: Nog toevoegen:&#xD;&#xA;- Maken rapportages (of is dit een onderdeel van het evalueren van contracten?">
+    <sourceConnections
+        id="id-4bc82c6d6d42464a890f2ec1755812c2"
+        source="id-5c69553307574d05ab4137d2d0e225fc"
+        target="9de8012b-e3d2-4bff-b671-472635ebb295"/>
+    <bounds
+        x="1027"
+        y="132"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0df5fa9f7fc14c54bda5671b67f989c2"
+      textAlignment="1"
+      content="DV: Moet Aanbesteden nog verder worden uitgewerkt?">
+    <sourceConnections
+        id="id-e292d21d834f4292ab182e483c796ce7"
+        source="id-0df5fa9f7fc14c54bda5671b67f989c2"
+        target="83c919ca-a29d-4109-abff-83fcf02567af"/>
+    <bounds
+        x="1027"
+        y="324"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4cb1a495211b42f4ac4823b486ae68f5"
+      textAlignment="1"
+      content="DV: Welke relaties zijn dit? Alleen leveranciers?">
+    <sourceConnections
+        id="id-d6f2f9bf8ffd415b9706e527fe95be00"
+        source="id-4cb1a495211b42f4ac4823b486ae68f5"
+        target="f5d992f8-5c99-47bc-a1e8-51a4616e2960"/>
+    <bounds
+        x="1027"
+        y="228"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9f517a7273c8427284e6714d1c300601"
+      textAlignment="1"
+      content="DV: Taken inkoop ROCMN:&#xD;&#xA;De belangrijkste taken van de afdeling inkoop voor bovenstaande klanten zijn:&#xD;&#xA;&#xD;&#xA;    Strategisch inkopen&#xD;&#xA;    Tactisch en operationeel inkopen&#xD;&#xA;    Beheren inkoopcontracten en inkoopdocumenten&#xD;&#xA;    Inkoopplanning en –rapportage&#xD;&#xA;    Inkoopautomatisering&#xD;&#xA;    Inkoopadvisering en -professionalisering">
+    <bounds
+        x="708"
+        y="420"
+        width="504"
+        height="157"/>
   </children>
 </archimate:ArchimateDiagramModel>
