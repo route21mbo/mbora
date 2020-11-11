@@ -299,7 +299,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c85078ae-274d-4de8-ba0a-a81823fe33c0"
-        targetConnections="6e292777-0b94-4513-b460-fa9cb3f297dd b4bed795-6651-467c-9b6c-a843dd1b8d9c">
+        targetConnections="6e292777-0b94-4513-b460-fa9cb3f297dd b4bed795-6651-467c-9b6c-a843dd1b8d9c id-5ba167020b9c420cbd3e3832186f1d8c">
       <bounds
           x="252"
           y="96"
@@ -409,7 +409,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3cb5e863-066d-4bee-bac9-53ca0eeaf356"
-        targetConnections="0b6865d7-efc1-4fa3-a37e-3e92ae18ab9d 96311ecf-e4d2-4bd9-be4e-34d570da67d5">
+        targetConnections="0b6865d7-efc1-4fa3-a37e-3e92ae18ab9d 96311ecf-e4d2-4bd9-be4e-34d570da67d5 id-2086c91734924492b9752d18da1b2884">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="8e496938-5069-4d6b-aca8-2347e2a2dfe0"
@@ -1050,5 +1050,35 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_2b04ca09-372b-40b2-9db0-2889f6cfa6cd.xml#2b04ca09-372b-40b2-9db0-2889f6cfa6cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-39cfa827f8304f07aa29538bb9ccf85c"
+      textAlignment="1"
+      content="DV: Misschien toch kijken naar de relaties. Een trigger is misschien te licht. Bijvoorbeeld het 'Inzetten van middelen' is echt nodig bij het 'uitvoeren van leertaken'. Used by zou dan beter zijn.">
+    <sourceConnections
+        id="id-5ba167020b9c420cbd3e3832186f1d8c"
+        source="id-39cfa827f8304f07aa29538bb9ccf85c"
+        target="c85078ae-274d-4de8-ba0a-a81823fe33c0"/>
+    <bounds
+        x="612"
+        y="24"
+        width="358"
+        height="71"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4b772a9d1fe34b00b06b99e654f431ec"
+      textAlignment="1"
+      content="DV: Wat voor input hebben de subtaken? Erven deze het van het hogere proces?">
+    <sourceConnections
+        id="id-2086c91734924492b9752d18da1b2884"
+        source="id-4b772a9d1fe34b00b06b99e654f431ec"
+        target="3cb5e863-066d-4bee-bac9-53ca0eeaf356"/>
+    <bounds
+        x="864"
+        y="228"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

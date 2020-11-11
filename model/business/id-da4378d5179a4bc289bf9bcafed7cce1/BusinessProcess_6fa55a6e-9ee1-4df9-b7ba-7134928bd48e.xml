@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren leertaken praktisch"
-    id="6fa55a6e-9ee1-4df9-b7ba-7134928bd48e"/>
+    id="6fa55a6e-9ee1-4df9-b7ba-7134928bd48e"
+    documentation="Gedurende de opleiding voert de student diverse pratische leertaken uit. Deze leertaken worden door docenten begeleid.">
+  <properties
+      key="Input"
+      value="Gepubliceerde rooster"/>
+  <properties
+      key="Proces"
+      value="Uitvoeren van prktische leertaken door student, onder begeleiding van docenten"/>
+  <properties
+      key="Output"
+      value="Leerresultaten"/>
+</archimate:BusinessProcess>

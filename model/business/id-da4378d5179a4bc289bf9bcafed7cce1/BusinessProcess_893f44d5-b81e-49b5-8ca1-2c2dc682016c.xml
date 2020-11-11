@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren leertaken theoretisch"
     id="893f44d5-b81e-49b5-8ca1-2c2dc682016c"
-    documentation="Gedurende de opleiding voert de student diverse leertaken uit. Deze leertaken worden door docenten en/of praktijkbegeleiders begeleid. Alle leertaken samen vormen de totale opleiding van de student. Naast beroepsgerichte leertaken betreft het ook taken gericht op taal, rekenen, keuzedelen etc.."/>
+    documentation="Gedurende de opleiding voert de student diverse theoretische leertaken uit. Deze leertaken worden door docenten begeleid.">
+  <properties
+      key="Input"
+      value="Gepubliceerde rooster"/>
+  <properties
+      key="Proces"
+      value="Uitvoeren van theoretische leertaken door student, onder begeleiding van docenten"/>
+  <properties
+      key="Output"
+      value="Leerresultaten"/>
+</archimate:BusinessProcess>

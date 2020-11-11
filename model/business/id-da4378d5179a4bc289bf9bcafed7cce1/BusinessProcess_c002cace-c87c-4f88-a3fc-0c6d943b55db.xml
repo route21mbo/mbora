@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren leertaken zelfstudie"
-    id="c002cace-c87c-4f88-a3fc-0c6d943b55db"/>
+    id="c002cace-c87c-4f88-a3fc-0c6d943b55db"
+    documentation="Gedurende de opleiding voert de student diverse leertaken zelfstandig uit. Naast beroepsgerichte leertaken betreft het ook taken gericht op taal, rekenen, keuzedelen etc..">
+  <properties
+      key="Input"
+      value="Gepubliceerde rooster"/>
+  <properties
+      key="Proces"
+      value="Zelfstandig uitvoeren van leertaken door student door zelfstudie"/>
+  <properties
+      key="Output"
+      value="Leerresultaten"/>
+</archimate:BusinessProcess>
