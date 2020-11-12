@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Betalen"
-    id="14734e07-85ef-48a1-8c38-e911562da694"/>
+    id="14734e07-85ef-48a1-8c38-e911562da694"
+    documentation="Inclusief controle. Controle hangt nauw samen met bewaking contracten en prestaties"/>
