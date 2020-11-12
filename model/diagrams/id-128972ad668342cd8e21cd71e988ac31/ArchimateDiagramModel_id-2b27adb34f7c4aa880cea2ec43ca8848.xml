@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verbinding met maatschappij, bedrijfsleven en regio - AppSrv"
+    id="id-2b27adb34f7c4aa880cea2ec43ca8848">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c454ae1be5384fd99fd69b8a6a437002"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="36"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_1368189e-e2e5-462f-9f87-b2ae0979e667.xml#1368189e-e2e5-462f-9f87-b2ae0979e667"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie uitwisseling en verantwoording - AppSrv"
+    id="id-a5b286e35af64a369424753e8e993021">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-50a772e75cd44b32aafbb5f1715d5c1d"
+      textAlignment="1">
+    <bounds
+        x="86"
+        y="81"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_e504e182-865d-4517-8b0c-5d879fcb77a4.xml#e504e182-865d-4517-8b0c-5d879fcb77a4"/>
+  </children>
+</archimate:ArchimateDiagramModel>
