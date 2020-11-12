@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Examinering - AppSrv"
+    name="Examinering en diplomeren (detailed) - AppSrv"
     id="id-963a18c49b14488483d0df6571b3beb9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
