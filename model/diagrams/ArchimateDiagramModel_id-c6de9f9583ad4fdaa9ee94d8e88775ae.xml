@@ -1345,9 +1345,9 @@
       textAlignment="1"
       fillColor="#80ff80">
     <bounds
-        x="24"
+        x="21"
         y="24"
-        width="2533"
+        width="2536"
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1375,7 +1375,7 @@
             href="RealizationRelationship_id-b38840132a1f4a71b6addcbe8fa9fdd6.xml#id-b38840132a1f4a71b6addcbe8fa9fdd6"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="39"
           y="47"
           width="241"
           height="155"/>
@@ -1443,7 +1443,7 @@
             href="RealizationRelationship_id-9f1dd4146523474bbde88d2c70a00ff8.xml#id-9f1dd4146523474bbde88d2c70a00ff8"/>
       </sourceConnections>
       <bounds
-          x="312"
+          x="315"
           y="48"
           width="241"
           height="153"/>
@@ -1520,7 +1520,7 @@
             href="RealizationRelationship_id-fa4c007b43ae4c089643bd2b922b9da7.xml#id-fa4c007b43ae4c089643bd2b922b9da7"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="591"
           y="47"
           width="241"
           height="153"/>
@@ -1596,7 +1596,7 @@
             href="RealizationRelationship_id-a689bc9c0b3e4a8c9ce606eecedb80a2.xml#id-a689bc9c0b3e4a8c9ce606eecedb80a2"/>
       </sourceConnections>
       <bounds
-          x="852"
+          x="855"
           y="49"
           width="241"
           height="152"/>
@@ -4649,7 +4649,7 @@
           x="324"
           y="49"
           width="241"
-          height="73"/>
+          height="108"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2e442799983d4db293c1cc4beffb5b28"
@@ -4660,9 +4660,9 @@
           fillColor="#b5ffff">
         <bounds
             x="36"
-            y="24"
+            y="36"
             width="181"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-a047b6ef53ee4244ac452213fc6042d8.xml#id-a047b6ef53ee4244ac452213fc6042d8"/>
