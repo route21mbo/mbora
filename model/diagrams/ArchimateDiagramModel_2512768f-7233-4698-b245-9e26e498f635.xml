@@ -269,9 +269,9 @@
         targetConnections="7fbcb894-f262-4810-a588-761f13b70747 8a300835-0f17-4942-b2a2-88e8f9290fe7 5ab22948-6f39-4aec-8ef3-525fea59843c 33bf2af2-bb0d-412b-b885-c67faef2de03 9c8399c2-2ae2-4443-80f4-0364a97111a3">
       <bounds
           x="504"
-          y="192"
+          y="180"
           width="133"
-          height="49"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_a91735bf-7ccf-494b-95ba-0b2ca8619d01.xml#a91735bf-7ccf-494b-95ba-0b2ca8619d01"/>

@@ -406,8 +406,8 @@
       textAlignment="1"
       content="Ondersteuning leerbeperking&#xD;&#xA;toegevoegd">
     <bounds
-        x="635"
-        y="794"
+        x="642"
+        y="780"
         width="110"
         height="58"/>
   </children>
@@ -703,23 +703,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-47bf8832c69a4204b42b1d6017de3cfb"
-      textAlignment="1"
-      content="Eigenlijk spreken we niet van BPV-contracten maar van overeenkomsten">
-    <bounds
-        x="648"
-        y="927"
-        width="97"
-        height="106"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-8bfaa051a3c146b68547df4b0bd6dcf8"
       textAlignment="1"
       content="Of valt dit onder BPV-contractbeheer?">
     <bounds
-        x="636"
-        y="851"
+        x="642"
+        y="852"
         width="121"
         height="61"/>
   </children>

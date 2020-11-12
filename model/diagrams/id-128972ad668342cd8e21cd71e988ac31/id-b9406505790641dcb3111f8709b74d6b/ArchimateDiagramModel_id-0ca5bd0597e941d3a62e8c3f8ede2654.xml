@@ -681,15 +681,4 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-07b405c2e8f448478daed459d3886d4a.xml#id-07b405c2e8f448478daed459d3886d4a"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-46f9c47fd1954db1b23a8a7accb0e20e"
-      textAlignment="1"
-      content="Ik denk dat de app srv aan en afwezigheid registreren te breed is gedefineerd">
-    <bounds
-        x="636"
-        y="453"
-        width="133"
-        height="88"/>
-  </children>
 </archimate:ArchimateDiagramModel>
