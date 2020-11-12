@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examineren en diplomeren - AppSrv"
+    id="id-e3eb3607a98946db971002019b541e27">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-81db0bf16b2543fb911d78df77858b6f"
+      textAlignment="1">
+    <bounds
+        x="36"
+        y="48"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_e6d3fde7-0343-45dd-8805-b6d0b1e57d1a.xml#e6d3fde7-0343-45dd-8805-b6d0b1e57d1a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

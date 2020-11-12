@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student begeleiden - AppSrv"
+    id="id-843b5450fa9641acb399fa63e011b780">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-444eb593a65d4d42a9439dedb9224147"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="48"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_17f9df29-8fb8-4414-8170-efdb23f80434.xml#17f9df29-8fb8-4414-8170-efdb23f80434"/>
+  </children>
+</archimate:ArchimateDiagramModel>

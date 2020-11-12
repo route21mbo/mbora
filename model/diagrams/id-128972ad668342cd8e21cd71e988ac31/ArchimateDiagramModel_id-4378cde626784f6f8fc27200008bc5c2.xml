@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie - AppSrv"
+    id="id-4378cde626784f6f8fc27200008bc5c2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6836a9b8f0a24cf2819327db514a2362">
+    <bounds
+        x="24"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_a5ed9b07-8da1-4a66-ad00-a827eaca1629.xml#a5ed9b07-8da1-4a66-ad00-a827eaca1629"/>
+  </children>
+</archimate:ArchimateDiagramModel>

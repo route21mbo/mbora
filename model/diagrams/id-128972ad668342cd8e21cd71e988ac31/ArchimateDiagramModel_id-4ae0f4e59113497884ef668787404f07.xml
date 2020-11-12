@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitstroom - AppSrv"
+    id="id-4ae0f4e59113497884ef668787404f07">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8e4abe5cf6f84fa4bbf8e496578b0faf"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="24"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_7961986f-d045-4357-86f7-3a080d580b46.xml#7961986f-d045-4357-86f7-3a080d580b46"/>
+  </children>
+</archimate:ArchimateDiagramModel>

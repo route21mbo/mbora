@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategie, beleid en sturing - AppSrv"
+    id="id-126a18a1dca74f2b9e3561d0d1e5786f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6ae5498862e146e9b0f994072946d475"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="36"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_b6b9e949-6a59-4696-b41a-18ff0d7acb97.xml#b6b9e949-6a59-4696-b41a-18ff0d7acb97"/>
+  </children>
+</archimate:ArchimateDiagramModel>

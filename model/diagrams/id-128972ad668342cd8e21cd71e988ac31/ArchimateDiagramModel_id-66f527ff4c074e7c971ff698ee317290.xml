@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Juridische ondersteuning - AppSrv"
+    id="id-66f527ff4c074e7c971ff698ee317290">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6053c37af2a143dc983a967f785c77ef">
+    <bounds
+        x="55"
+        y="104"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_88e4bbb6-5bfc-4a68-ba43-bd7e06b56695.xml#88e4bbb6-5bfc-4a68-ba43-bd7e06b56695"/>
+  </children>
+</archimate:ArchimateDiagramModel>

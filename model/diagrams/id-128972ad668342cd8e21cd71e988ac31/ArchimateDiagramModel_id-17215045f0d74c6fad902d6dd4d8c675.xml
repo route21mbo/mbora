@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tactisch inrichten; het team organiseren en ontwikkelen - AppSrv"
+    id="id-17215045f0d74c6fad902d6dd4d8c675">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f02bab0c9cfc465a82ad1f6c7a4f2e4b"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="36"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_9b8c0a18-990a-43bc-b1f7-33ac87cfebce.xml#9b8c0a18-990a-43bc-b1f7-33ac87cfebce"/>
+  </children>
+</archimate:ArchimateDiagramModel>
