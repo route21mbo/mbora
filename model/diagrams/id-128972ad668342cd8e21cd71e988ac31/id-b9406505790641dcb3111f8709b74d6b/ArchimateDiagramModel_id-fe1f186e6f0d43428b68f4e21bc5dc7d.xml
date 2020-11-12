@@ -703,17 +703,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-47bf8832c69a4204b42b1d6017de3cfb"
-      textAlignment="1"
-      content="Eigenlijk spreken we niet van BPV-contracten maar van overeenkomsten">
-    <bounds
-        x="642"
-        y="927"
-        width="97"
-        height="106"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-8bfaa051a3c146b68547df4b0bd6dcf8"
       textAlignment="1"
       content="Of valt dit onder BPV-contractbeheer?">
