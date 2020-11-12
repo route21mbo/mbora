@@ -406,8 +406,8 @@
       textAlignment="1"
       content="Ondersteuning leerbeperking&#xD;&#xA;toegevoegd">
     <bounds
-        x="635"
-        y="794"
+        x="642"
+        y="780"
         width="110"
         height="58"/>
   </children>
@@ -707,7 +707,7 @@
       textAlignment="1"
       content="Eigenlijk spreken we niet van BPV-contracten maar van overeenkomsten">
     <bounds
-        x="648"
+        x="642"
         y="927"
         width="97"
         height="106"/>
@@ -718,8 +718,8 @@
       textAlignment="1"
       content="Of valt dit onder BPV-contractbeheer?">
     <bounds
-        x="636"
-        y="851"
+        x="642"
+        y="852"
         width="121"
         height="61"/>
   </children>
