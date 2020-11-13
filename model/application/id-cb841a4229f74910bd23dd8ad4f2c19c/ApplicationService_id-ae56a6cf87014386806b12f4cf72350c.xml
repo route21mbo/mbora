@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Competenties en kennisbeheer"
+    name="Meten studievoortgang (peilstokmeting)"
     id="id-ae56a6cf87014386806b12f4cf72350c"
-    documentation="Het inzichtelijk maken van de voortgang van de student m.b.t. diens competenties en kennis van de student inzichtelijk te maken (evolueert tijdens het leerproces op basis van bheaalde formatieve resultaten)"/>
+    documentation="Het inzichtelijk maken van de voortgang van de student op basis van diens behaalde resultaten.&#xD;&#xA;"/>

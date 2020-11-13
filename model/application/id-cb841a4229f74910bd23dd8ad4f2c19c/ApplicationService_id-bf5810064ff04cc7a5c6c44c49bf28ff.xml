@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opleidingsonderdeel aanvraagbeheer"
+    name="Beheren inschrijvingen"
     id="id-bf5810064ff04cc7a5c6c44c49bf28ff"
-    documentation="Biedt ondersteuning voor het proces omtrent aanvragen van opleidingsonderdelen&#xD;&#xA;&#xD;&#xA;*Aanvragen van examendeelname, keuzedeel kwalificatie, certifceerbare eenheid of generiek examen onderdeel&#xD;&#xA;*Inclusief eventuele anvragen van herkansingen&#xD;&#xA;* Het beoordelen/inwilligen van een verzoek tot examendeelname, keuzedeel kwalificatie, certifceerbare eenheid of generiek examen onderdeel&#xD;&#xA;*Het beoordelen/inwilligen van een eventueel verzoek tot herkansingdeelname"/>
+    documentation="Het administreren van inschrijvingen (en evt. contracten) voor een opleiding, een keuzedeel, een examen, een herkansing."/>
