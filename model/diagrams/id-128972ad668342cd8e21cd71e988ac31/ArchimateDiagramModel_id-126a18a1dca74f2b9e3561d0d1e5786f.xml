@@ -145,7 +145,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-43c1d92ae43e4d9eb60a990e30f711d5"
-      targetConnections="id-a03da31df03e4e379f62f0a246eefef5">
+      targetConnections="id-a03da31df03e4e379f62f0a246eefef5 id-dee3dafe5109464daaee5c9971fc4373">
     <bounds
         x="300"
         y="252"
@@ -222,5 +222,43 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-e796baec6ccb4d0899a9b7de4a161dfa.xml#id-e796baec6ccb4d0899a9b7de4a161dfa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-caee251d7b724dbfbf31c469437ad5a5"
+      fillColor="#80ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-dee3dafe5109464daaee5c9971fc4373"
+        source="id-caee251d7b724dbfbf31c469437ad5a5"
+        target="id-43c1d92ae43e4d9eb60a990e30f711d5">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-e1d483c5b02a4e9699a4de2e2a4b5a36.xml#id-e1d483c5b02a4e9699a4de2e2a4b5a36"/>
+    </sourceConnections>
+    <bounds
+        x="624"
+        y="288"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-a626605f148c484a9f051fd1aa517708.xml#id-a626605f148c484a9f051fd1aa517708"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d48c3281132643bdbc5d4044ef55c6fc"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <bounds
+        x="624"
+        y="408"
+        width="116"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-a98c112216bb458284d02aebc3718ebc.xml#id-a98c112216bb458284d02aebc3718ebc"/>
   </children>
 </archimate:ArchimateDiagramModel>
