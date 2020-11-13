@@ -245,20 +245,4 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-a626605f148c484a9f051fd1aa517708.xml#id-a626605f148c484a9f051fd1aa517708"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d48c3281132643bdbc5d4044ef55c6fc"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <bounds
-        x="624"
-        y="408"
-        width="116"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-a98c112216bb458284d02aebc3718ebc.xml#id-a98c112216bb458284d02aebc3718ebc"/>
-  </children>
 </archimate:ArchimateDiagramModel>
