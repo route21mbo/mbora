@@ -343,7 +343,7 @@
     </sourceConnections>
     <bounds
         x="348"
-        y="1044"
+        y="1002"
         width="217"
         height="277"/>
     <children
@@ -429,7 +429,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="1284"
+        y="1212"
         width="157"
         height="55"/>
     <archimateElement
@@ -630,7 +630,7 @@
     </sourceConnections>
     <bounds
         x="924"
-        y="1068"
+        y="1026"
         width="157"
         height="55"/>
     <archimateElement
@@ -660,7 +660,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e005e799ca37411b95f42064fc935004">
+      id="id-e005e799ca37411b95f42064fc935004"
+      fillColor="#ff0000">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b443a46ddad2439898458e6becb9fe9c"
@@ -728,7 +729,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="1176"
+        y="1134"
         width="157"
         height="55"/>
     <archimateElement
@@ -750,7 +751,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="1068"
+        y="1026"
         width="157"
         height="55"/>
     <archimateElement
@@ -807,7 +808,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-f122c41390434d1ab884eb7d60345656"
       textAlignment="1"
-      content="Suggesties Rene:&#xD;&#xA;&#xD;&#xA;Rood: graag overleg&#xD;&#xA;&#xD;&#xA;To be continued (ben er nog niet helemaal doorheen)">
+      content="Suggesties / vragen Rene:&#xD;&#xA;&#xD;&#xA;Rood: graag overleg&#xD;&#xA;&#xD;&#xA;Studentinfo tonen ook koppelen aan analyseren en beoordelen leeresultaten..?&#xD;&#xA;&#xD;&#xA;Wat is Uitvoeren onderwijs activiteiten...?&#xD;&#xA;&#xD;&#xA;Enquetediensten koppelen aan Monitoren effectiviteit onderwijs activiteiten..?&#xD;&#xA;&#xD;&#xA;Leermiddelenlijstpublicatie en leermiddelen verkoop kan ik niet goed kwijt.... Discussie nodig. Meer iets voor &quot;voortraject&quot; maar weet niet waar&#xD;&#xA;&#xD;&#xA;Ondersteuning leerbeperking toevoegen....?&#xD;&#xA;&#xD;&#xA;Samenwerkingsdiensten nivo hoger koppelen...?&#xD;&#xA;&#xD;&#xA;Plagiaatdetectie: waarom 2 koppelingen...?&#xD;&#xA;&#xD;&#xA;Portfoliobeheer waarom 2 koppelingen...?&#xD;&#xA;&#xD;&#xA;Mediatheek uitleenadministratie toevoegen...?&#xD;&#xA;&#xD;&#xA;Formatief resultatenbeheer toevoegen..?&#xD;&#xA;&#xD;&#xA;Studentbegeleiding toevoegen..?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1054"
         y="166"
