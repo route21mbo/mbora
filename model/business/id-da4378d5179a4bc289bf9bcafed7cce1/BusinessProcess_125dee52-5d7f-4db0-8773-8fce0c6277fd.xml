@@ -2,13 +2,15 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren summatieve resultaat-structuur"
     id="125dee52-5d7f-4db0-8773-8fce0c6277fd"
-    documentation="Vastleggen van examenonderdelen en examens t.b.v. examineren.&#xD;&#xA;">
+    documentation="Vastleggen van examenonderdelen en examens t.b.v. examineren.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen van de examenonderdelen en examenplannen van het onderwijs.&#xD;&#xA;2. Registreren van de examenonderdelen en examenplannen in de summatieve resultaatstructuur in het student informatiesysteem (SIS).&#xD;&#xA;3. Controleren van de juistheid en volledigheid van de summatieve resultaatstructuur&#xD;&#xA;4. Vrijgeven de summatieve resultaatstructuur t.b.v. diplomeren en certificeren.">
   <properties
-      key="Input"/>
+      key="Input"
+      value="Examenonderdelen; examenplannen"/>
   <properties
       key="Proces"/>
   <properties
-      key="Output"/>
+      key="Output"
+      value="Summatieve resultaatstructuur"/>
   <properties
       key="Doel"/>
   <properties

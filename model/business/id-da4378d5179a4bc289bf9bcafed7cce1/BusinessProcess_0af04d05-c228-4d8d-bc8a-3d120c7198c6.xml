@@ -2,13 +2,15 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden keuzedelen"
     id="0af04d05-c228-4d8d-bc8a-3d120c7198c6"
-    documentation="Het aanmelden en registreren van de keuzedelen die de student heeft gemaakt en gaat volgen tijdens de studieloopbaan. De keuzedelen moeten worden geadministreerd in de onderwijsovereenkomst.">
+    documentation="Het aanmelden en registreren van de keuzedelen die de student heeft gemaakt en gaat volgen tijdens de studieloopbaan. De keuzedelen moeten worden geadministreerd in de onderwijsovereenkomst.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen van gemaakte keuzes van de student m.b.t. keuzedelen.&#xD;&#xA;2. Registreren van de gemaakte keuzes in het student informatiesysteem.&#xD;&#xA;">
   <properties
-      key="Input"/>
+      key="Input"
+      value="Opgave keuzedelen"/>
   <properties
       key="Proces"/>
   <properties
-      key="Output"/>
+      key="Output"
+      value="Geregistreerde keuzedelen"/>
   <properties
       key="Doel"/>
   <properties
