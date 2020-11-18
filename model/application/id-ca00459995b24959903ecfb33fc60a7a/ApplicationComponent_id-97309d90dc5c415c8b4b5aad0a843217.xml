@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanwezigheidregistratie systeem"
     id="id-97309d90dc5c415c8b4b5aad0a843217"
-    documentation="Een systeem voor de registratie en uitwisseling van aan- en afwezigheid en (on)georloofd verzuim. Voorziet ook in de koppeling naar het verzuimloket.">
+    documentation="Een systeem voor de registratie, de analyse en uitwisseling van aan- en afwezigheid en (on)georloofd verzuim. Voorziet ook in de koppeling naar het verzuimloket.">
   <properties
       key="Source"
       value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-70d930d2-aa8f-4772-9661-84a5320bd580"/>

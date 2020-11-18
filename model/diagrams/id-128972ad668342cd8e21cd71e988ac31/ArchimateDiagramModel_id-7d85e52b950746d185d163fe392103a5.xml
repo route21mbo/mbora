@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoop- en contractmanagement - AppSrv"
+    id="id-7d85e52b950746d185d163fe392103a5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-afd067275fcb46158b5df577938a2303">
+    <bounds
+        x="63"
+        y="74"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_a96950d5-7f97-4ce7-9c52-be10142e1780.xml#a96950d5-7f97-4ce7-9c52-be10142e1780"/>
+  </children>
+</archimate:ArchimateDiagramModel>

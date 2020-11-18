@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Certificeringscontrole dienst"
+    name="Bepalen diplomarecht"
     id="id-50827b56ca2b4f18a887a7d2acc27554"
-    documentation="Controleert op basis van geregisteerde gegevens of een student in aanmerking komt voor een certificering."/>
+    documentation="Het controleren of een student in aanmerking komt voor een kwalificerend document zoals een certificaat of diploma op basis van diens geregistreerde resultaten."/>

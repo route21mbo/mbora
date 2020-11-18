@@ -512,6 +512,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_30c09d3e-f737-43d2-beb1-e1fc5710f498.xml#30c09d3e-f737-43d2-beb1-e1fc5710f498"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-499806eab6a54bcb825f1368d5b07ca6"
+        source="2e27dcd8-aa1f-4d5a-999f-5493ae88cb50"
+        target="id-020548a78587451697caabb21c1b40cf">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-1f3eb385d60546e49e4eff24bf063cd5.xml#id-1f3eb385d60546e49e4eff24bf063cd5"/>
+    </sourceConnections>
     <bounds
         x="684"
         y="6"
@@ -521,9 +530,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="04a1d8cc-ae1e-431e-ab94-ca4d61cca1ea"
         targetConnections="ec8537d0-259f-41c0-aeb2-26ec197a237e"
-        fillColor="#80ff80">
+        fillColor="#ffffb5">
       <bounds
-          x="12"
+          x="24"
           y="192"
           width="132"
           height="55"/>
@@ -553,28 +562,19 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-1516373323124bff9640b68d0f7d90ba.xml#id-1516373323124bff9640b68d0f7d90ba"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f0932f5f117143c49e69f6afe5cbed2b"
-          source="a5183104-e73e-491b-a8a9-ee15bba35a66"
-          target="id-020548a78587451697caabb21c1b40cf">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-30266494fc4f40ba9f9280caa819805e.xml#id-30266494fc4f40ba9f9280caa819805e"/>
-      </sourceConnections>
       <bounds
           x="12"
           y="36"
           width="301"
-          height="145"/>
+          height="97"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="50b06585-1951-4ed4-a9b9-28ac3f931daa"
           targetConnections="id-64550d5f822d4209a5b802e13d89dd21"
-          fillColor="#00ffff">
+          fillColor="#ffffb5">
         <bounds
             x="156"
-            y="84"
+            y="24"
             width="132"
             height="55"/>
         <archimateElement
@@ -585,21 +585,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-a27fcd7ca18a4d608e83aa7de8b49eda"
           targetConnections="id-c9766337a9e34e54a5fcb158639c7c8d"
-          fillColor="#ff0000">
-        <bounds
-            x="156"
-            y="24"
-            width="132"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-c7bf530eebe5445396cfa04b08406387.xml#id-c7bf530eebe5445396cfa04b08406387"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-020548a78587451697caabb21c1b40cf"
-          targetConnections="id-f0932f5f117143c49e69f6afe5cbed2b"
-          fillColor="#00ffff">
+          fillColor="#ffffb5">
         <bounds
             x="12"
             y="24"
@@ -607,11 +593,25 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-5070c5a267c1463b8830198d6b0d382e.xml#id-5070c5a267c1463b8830198d6b0d382e"/>
+            href="BusinessProcess_id-c7bf530eebe5445396cfa04b08406387.xml#id-c7bf530eebe5445396cfa04b08406387"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_eb892363-3129-4f95-acfa-f511bf0f9253.xml#eb892363-3129-4f95-acfa-f511bf0f9253"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-020548a78587451697caabb21c1b40cf"
+        targetConnections="id-499806eab6a54bcb825f1368d5b07ca6"
+        fillColor="#ffffb5">
+      <bounds
+          x="168"
+          y="192"
+          width="132"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-5070c5a267c1463b8830198d6b0d382e.xml#id-5070c5a267c1463b8830198d6b0d382e"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -649,7 +649,7 @@
         targetConnections="dcbe4c39-3090-4a58-b75c-67e39d878aaa">
       <bounds
           x="12"
-          y="54"
+          y="60"
           width="132"
           height="55"/>
       <archimateElement
@@ -662,7 +662,7 @@
         targetConnections="7e8fe120-c173-4f71-8514-a82a2f7832af">
       <bounds
           x="180"
-          y="54"
+          y="60"
           width="132"
           height="55"/>
       <archimateElement
@@ -769,7 +769,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f34430ac91174725bba45c8f8fe0a24b"
         targetConnections="id-892403618abb43bb86e9d9d5fb6fb41c"
-        fillColor="#80ff80">
+        fillColor="#ffffb5">
       <bounds
           x="12"
           y="342"
@@ -785,7 +785,7 @@
         targetConnections="id-9541aafcfe85433ba448e43adee24775">
       <bounds
           x="12"
-          y="450"
+          y="456"
           width="132"
           height="55"/>
       <archimateElement
@@ -818,16 +818,5 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_6eeef9d7-e04b-464c-a52f-0f5a01e0e041.xml#6eeef9d7-e04b-464c-a52f-0f5a01e0e041"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5751843ed968461e93eded1fa48a657d"
-      textAlignment="1"
-      content="Aanpassings suggesties Elmar:&#xD;&#xA;Rood: 'Beheren digitale toegang' onderbrengen bij 'Beheren ICT werkplek' en 'Beheren applicatie'?&#xD;&#xA;Groen: Ze omvatten hetzelfde. 'Beveiligen van informatie en infrastructuur' aanhouden en 'Beveiligen ICT omgeving'(voorheen 'Beveiligen faciliteiten en ICT') laten vervallen.&#xD;&#xA;Blauw: 'Bewaken gebouwen' naar 'Beheren gebouw'verplaatsen en 'Beheren sleutels' verplaatsen naar 'Beheren en leveren facilitaire services'">
-    <bounds
-        x="540"
-        y="545"
-        width="627"
-        height="123"/>
   </children>
 </archimate:ArchimateDiagramModel>

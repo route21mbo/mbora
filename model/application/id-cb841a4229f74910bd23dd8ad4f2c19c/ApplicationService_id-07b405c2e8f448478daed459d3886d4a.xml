@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verzuimgegevens analyseren &amp; presenteren"
-    id="id-07b405c2e8f448478daed459d3886d4a"/>
+    name="Verzuimgegevens analyseren"
+    id="id-07b405c2e8f448478daed459d3886d4a"
+    documentation="Het analyseren van de geregistreerde aan- en afwezigheidsmeldingen.&#xD;&#xA;&#xD;&#xA;Bijv. vanwege de verplicht melden via het verzuimloket of het detecteren van mogelijke uitval"/>

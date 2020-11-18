@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel management - AppSrv"
+    id="id-951f5f9e37864aefbe04be5bfd8b8059">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0f2a1fa5c535457aa9d3bed4cd30667b">
+    <bounds
+        x="76"
+        y="89"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_385704ff-49ad-4d5f-8747-dccedf1691a9.xml#385704ff-49ad-4d5f-8747-dccedf1691a9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

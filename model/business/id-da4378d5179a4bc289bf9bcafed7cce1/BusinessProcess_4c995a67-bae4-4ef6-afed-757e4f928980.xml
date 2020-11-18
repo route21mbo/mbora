@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publiceren rooster"
     id="4c995a67-bae4-4ef6-afed-757e4f928980"
-    documentation=" Het publiceren van het rooster voor studenten en docenten. Dit gebeurt periodiek en na wijzigingen.&#xD;&#xA;&#xD;&#xA;Het rooster wordt tijdig verstrekt aan studenten en docenten. ">
+    documentation="Het publiceren van het rooster voor studenten en docenten. Dit gebeurt periodiek en na wijzigingen.&#xD;&#xA;&#xD;&#xA;Het rooster wordt tijdig verstrekt aan studenten en docenten. ">
   <properties
       key="Input"
       value="Rooster"/>

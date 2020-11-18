@@ -409,7 +409,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3cb5e863-066d-4bee-bac9-53ca0eeaf356"
-        targetConnections="0b6865d7-efc1-4fa3-a37e-3e92ae18ab9d 96311ecf-e4d2-4bd9-be4e-34d570da67d5">
+        targetConnections="0b6865d7-efc1-4fa3-a37e-3e92ae18ab9d 96311ecf-e4d2-4bd9-be4e-34d570da67d5 id-2086c91734924492b9752d18da1b2884">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="8e496938-5069-4d6b-aca8-2347e2a2dfe0"
@@ -1050,5 +1050,20 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_2b04ca09-372b-40b2-9db0-2889f6cfa6cd.xml#2b04ca09-372b-40b2-9db0-2889f6cfa6cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4b772a9d1fe34b00b06b99e654f431ec"
+      textAlignment="1"
+      content="DV: Wat voor input hebben de subtaken? Erven deze het van het hogere proces?&#xD;&#xA;&#xD;&#xA;Voorstel: Uitvoeren leertaken er tussenuit halen.">
+    <sourceConnections
+        id="id-2086c91734924492b9752d18da1b2884"
+        source="id-4b772a9d1fe34b00b06b99e654f431ec"
+        target="3cb5e863-066d-4bee-bac9-53ca0eeaf356"/>
+    <bounds
+        x="864"
+        y="221"
+        width="185"
+        height="152"/>
   </children>
 </archimate:ArchimateDiagramModel>

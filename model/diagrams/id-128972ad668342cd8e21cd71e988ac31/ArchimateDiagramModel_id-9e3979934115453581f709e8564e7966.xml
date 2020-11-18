@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HRM - AppSrv"
+    id="id-9e3979934115453581f709e8564e7966">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fba9f3c0f300412b88fc54ba52ea17b1">
+    <bounds
+        x="50"
+        y="80"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_b22fc099-d2cb-41c6-a849-787ac56a3c1a.xml#b22fc099-d2cb-41c6-a849-787ac56a3c1a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

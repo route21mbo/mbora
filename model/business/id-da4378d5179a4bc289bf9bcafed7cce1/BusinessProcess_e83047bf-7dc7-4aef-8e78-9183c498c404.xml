@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Checken erkenning leerbedrijf"
-    id="e83047bf-7dc7-4aef-8e78-9183c498c404"/>
+    id="e83047bf-7dc7-4aef-8e78-9183c498c404"
+    documentation="Studenten mogen alleen bpv uitvoeren bij een bedrijf dat een erkenning heeft van SBB.&#xD;&#xA;&#xD;&#xA;Voor aanvang van elke bpv controleert de school of een bpv-bedrijf erkend is. Wanneer dat niet het geval is, vraagt het bedrijf erkenning aan bij SBB, de school kan uitleggen hoe dit werkt. "/>
