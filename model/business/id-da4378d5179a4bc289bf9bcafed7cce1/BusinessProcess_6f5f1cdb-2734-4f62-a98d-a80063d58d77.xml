@@ -2,19 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plaatsen student"
     id="6f5f1cdb-2734-4f62-a98d-a80063d58d77"
-    documentation="Het plaatsen van student in de opleiding. De plaatsing is daarnaast ook de basis voor de juridische verhouding tussen student en instelling die door middel van een onderwijsverbintenis wordt bekrachtigd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Beslissen op basis van het aanmelddossier of de student wordt geplaatst.&#xD;&#xA;2. Mailen van de uitkomst van het plaatsingsbesluit aan de student.&#xD;&#xA;3. Overdragen van het aanmelddossier t.b.v. het opstellen van de onderwijsovereenkomst. &#xD;&#xA;">
+    documentation="Het plaatsen van student in de opleiding. De plaatsing is daarnaast ook de basis voor de juridische verhouding tussen student en instelling die door middel van een onderwijsverbintenis wordt bekrachtigd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Beslissen op basis van het aanmelddossier of de aspirant-student wordt geplaatst.&#xD;&#xA;2. Mailen van de uitkomst van het plaatsingsbesluit aan de aspirant-student.&#xD;&#xA;3. Overdragen van het aanmelddossier t.b.v. het opstellen van de onderwijsovereenkomst. &#xD;&#xA;">
   <properties
       key="Input"
       value="Aanmelddossier"/>
   <properties
-      key="Proces"/>
-  <properties
       key="Output"
-      value="Besluit plaatsing; aanmelddossier"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
+      value="Besluit plaatsing; Aanmelddossier"/>
 </archimate:BusinessProcess>

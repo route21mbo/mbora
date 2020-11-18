@@ -7,14 +7,6 @@
       key="Input"
       value="Aanmelddossier"/>
   <properties
-      key="Proces"/>
-  <properties
       key="Output"
-      value="Aanmelddossier; leerbehoefte; begeleidingsbehoefte; afspraak intake-plusgesprek"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
+      value="Aanmelddossier; Leerbehoefte; Begeleidingsbehoefte; (eventueel) Afspraak intake-plusgesprek; Mogelijk aan te vragen vrijstellingen "/>
 </archimate:BusinessProcess>

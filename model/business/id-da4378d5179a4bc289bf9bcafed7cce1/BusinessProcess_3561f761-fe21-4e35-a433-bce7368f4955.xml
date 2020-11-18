@@ -2,19 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren administratieve intake"
     id="3561f761-fe21-4e35-a433-bce7368f4955"
-    documentation="Deze activiteit wordt uitgevoerd in de volgende gevallen:&#xD;&#xA;* de aspirant student heeft zich aangemeld;&#xD;&#xA;* de student is doorverwezen door een andere instelling of opleiding binnen de instelling;&#xD;&#xA;* de student heeft zich aangemeld naar aanleiding van een opleidingstraject dat door zijn/haar werkgever wordt ingezet.&#xD;&#xA; &#xD;&#xA;De aanmelding via het aanmeldformulier wordt gecontroleerd en verwerkt. Tijdens de verwerking wordt gecheckt of de student toelaatbaar is, beschikt over een geldige verblijfsstatus en mogelijk op uitzonderingsdoelgroepen die door de instelling zijn benoemd. &#xD;&#xA;&#xD;&#xA;De uitkomst van de check kan zijn: &#xD;&#xA;* Aanmelding van de student is gecontroleerd op wettelijke toelaatbaarheid de student wordt doorverwezen voor de onderwijs intake en/of ingeschreven in de opleiding&#xD;&#xA;* De student wordt doorverwezen naar de uitgebreide intake binnen de instelling.&#xD;&#xA;of&#xD;&#xA;* Doorverwijzing door de instelling van potentiële deelnemer naar elders of&#xD;&#xA;*Terugtrekken door potentiële deelnemer wegens gebrek aan belangstelling&quot;&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Bewaken en ontvangen van het Digitaal Doorstroom Dossier.&#xD;&#xA;2. Uitvoeren van de controle op de toelatingseisen/-voorwaarden.&#xD;&#xA;3. Maken afspraken voor het uitvoeren onderwijsintake.&#xD;&#xA;4. Mailen van de afspraak voor het uitvoeren van de onderwijsintake naar de aspirant-student.&#xD;&#xA;">
+    documentation="Deze activiteit wordt uitgevoerd in de volgende gevallen:&#xD;&#xA;* de aspirant student heeft zich aangemeld;&#xD;&#xA;* de student is doorverwezen door een andere instelling of opleiding binnen de instelling;&#xD;&#xA;* de student heeft zich aangemeld naar aanleiding van een opleidingstraject dat door zijn/haar werkgever wordt ingezet.&#xD;&#xA; &#xD;&#xA;De aanmelding via het aanmeldformulier wordt gecontroleerd en verwerkt. Tijdens de verwerking wordt gecheckt of de student toelaatbaar is, beschikt over een geldige verblijfsstatus en mogelijk op uitzonderingsdoelgroepen die door de instelling zijn benoemd. &#xD;&#xA;&#xD;&#xA;De uitkomst van de check kan zijn: &#xD;&#xA;* Aanmelding van de student is gecontroleerd op wettelijke toelaatbaarheid de student wordt doorverwezen voor de onderwijs intake en/of ingeschreven in de opleiding&#xD;&#xA;* De student wordt doorverwezen naar de uitgebreide intake binnen de instelling.&#xD;&#xA;of&#xD;&#xA;* Doorverwijzing door de instelling van potentiële deelnemer naar elders of&#xD;&#xA;*Terugtrekken door potentiële deelnemer wegens gebrek aan belangstelling&quot;&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Bewaken en ontvangen van het Digitaal Doorstroom Dossier.&#xD;&#xA;2. Uitvoeren van de controle op de toelatingseisen/-voorwaarden.&#xD;&#xA;3. Plannen afspraken voor het uitvoeren van de onderwijsintake.&#xD;&#xA;4. Mailen van de afspraak voor het uitvoeren van de onderwijsintake naar de aspirant-student.&#xD;&#xA;">
   <properties
       key="Input"
-      value="Digitaal Doorstroom Dossier, aanmelding"/>
-  <properties
-      key="Proces"/>
+      value="Digitaal Doorstroom Dossier; Aanmelding"/>
   <properties
       key="Output"
-      value="Afspraak onderwijsintake; aanmelddossier"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
+      value="Afspraak onderwijsintake; Aanmelddossier"/>
 </archimate:BusinessProcess>

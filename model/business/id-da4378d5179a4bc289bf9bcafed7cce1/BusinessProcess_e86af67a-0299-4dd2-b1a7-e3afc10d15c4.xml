@@ -2,17 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Extern communiceren werving"
     id="e86af67a-0299-4dd2-b1a7-e3afc10d15c4"
-    documentation="Tijdens de open dagen en via de website, brochures en andere voorlichtingsmateriaal worden de aspirant-studenten geïnformeerd over de opleidingsmogelijkheden op schoolinstelling. Daarnaast worden de decanen van de VO-scholen in de regio ingelicht over het opleidingsaanbod en de geplande voorlichtingsbijeenkomsten.&#xD;&#xA;">
+    documentation="Tijdens de open dagen en via de website, brochures en andere voorlichtingsmateriaal worden de aspirant-studenten geïnformeerd over de opleidingsmogelijkheden op schoolinstelling. Daarnaast worden de decanen van de VO-scholen in de regio ingelicht over het opleidingsaanbod en de geplande voorlichtingsbijeenkomsten.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontwikkelen van voorlichtingsmateriaal over de opleidingsmogelijkheden binnen de onderwijsinstelling in de vorm van brochures, flyers, informatie via websites.&#xD;&#xA;2. Plannen van voorlichtingsbijeenkomsten.&#xD;&#xA;3. Inlichten van decanen van vo-scholen in de regio over het opleidingsaanbod en de voorlichtingsbijeenkomsten.">
   <properties
-      key="Input"/>
+      key="Input"
+      value="Informatie opleidingsaanbod; informatie onderwijsinstelling"/>
   <properties
-      key="Proces"/>
-  <properties
-      key="Output"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
+      key="Output"
+      value="Voorlichtingsmaterialen; Planning voorlichtingsbijeenkomsten; Voorlichting decanen VO-scholen"/>
 </archimate:BusinessProcess>

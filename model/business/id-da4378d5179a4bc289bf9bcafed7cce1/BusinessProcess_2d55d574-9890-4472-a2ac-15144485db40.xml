@@ -7,8 +7,6 @@
       key="Input"
       value="Aanmelding"/>
   <properties
-      key="Proces"/>
-  <properties
       key="Output"
       value="Ontvangstbevestiging aanmelding"/>
 </archimate:BusinessProcess>

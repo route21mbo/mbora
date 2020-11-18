@@ -2,19 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitwisselen met BRON"
     id="b76ae73d-e10b-44c2-8fa5-f16c2e1e104a"
-    documentation="Via BRON worden inschrijvingen, diploma’s en BPV-gegevens van de studenten uitgewisseld met DUO. BRON bestaat uit 2 registers; Onderwijsdeelname (OD) en Onderwijsresultaten (OR). De bekostiging van instellingen is mede afhankelijk van een correcte uitwisseling met BRON. Aanleidingen voor de uitwisseling met BRON: &#xD;&#xA;* nieuwe (of gewijzigde) onderwijsverbintenis;&#xD;&#xA;* nieuwe (of gewijzigde) Bpv-verbintenis;&#xD;&#xA;* uitschrijving met uitvalsreden anders dan diplomering;&#xD;&#xA;* gegevens over diplomering en het behalen van generieke examenonderdelen.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Aanmelden van de student als geplaatste student bij DUO (proces: inschrijven).&#xD;&#xA;2. Aanmelden van BPV van de student bij DUO (BPV-proces).&#xD;&#xA;3. Melden van diplomering/certificering van de student (proces: diplomeren en certificeren).&#xD;&#xA;4. Melden van de uitschrijving van de student (proces: uitschrijven).&#xD;&#xA;&#xD;&#xA;">
+    documentation="Via BRON worden inschrijvingen, diploma’s en BPV-gegevens van de studenten uitgewisseld met DUO. BRON bestaat uit 2 registers; Onderwijsdeelname (OD) en Onderwijsresultaten (OR). De bekostiging van instellingen is mede afhankelijk van een correcte uitwisseling met BRON. Aanleidingen voor de uitwisseling met BRON: &#xD;&#xA;* nieuwe (of gewijzigde) onderwijsverbintenis;&#xD;&#xA;* nieuwe (of gewijzigde) Bpv-verbintenis;&#xD;&#xA;* uitschrijving met uitvalsreden anders dan diplomering;&#xD;&#xA;* gegevens over diplomering en het behalen van generieke examenonderdelen.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Aanmelden van de student als geplaatste student bij DUO (proces: inschrijven) --> start bekostigingsrelatie.&#xD;&#xA;2. Aanmelden van BPV van de student bij DUO (BPV-proces).&#xD;&#xA;3. Melden van diplomering/certificering van de student (proces: diplomeren en certificeren).&#xD;&#xA;4. Melden van de uitschrijving van de student (proces: uitschrijven) --> beeïndiging bekostigingsrelatie.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Input"
       value="Melding inschrijving; Melding BPV; Melding diplomering/certificering; Melding uitschrijving"/>
   <properties
-      key="Proces"/>
-  <properties
       key="Output"
       value="Terugmelding DUO"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
 </archimate:BusinessProcess>
