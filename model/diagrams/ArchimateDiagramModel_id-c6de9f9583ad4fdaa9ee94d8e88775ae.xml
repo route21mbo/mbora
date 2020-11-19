@@ -2311,6 +2311,18 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-3f9a5beaf4a64f36817a559a0d746048.xml#id-3f9a5beaf4a64f36817a559a0d746048"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e14464b83ee1460197a671ecac87d0e4"
+        fillColor="#ff0000">
+      <bounds
+          x="540"
+          width="201"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-10d2c255f63647e1a729d70d10983059.xml#id-10d2c255f63647e1a729d70d10983059"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-e70bd34a44504e778cdb54d4e2973352.xml#id-e70bd34a44504e778cdb54d4e2973352"/>
@@ -4978,7 +4990,7 @@
       fillColor="#80ff80">
     <bounds
         x="24"
-        y="264"
+        y="276"
         width="289"
         height="1429"/>
     <children
@@ -5157,7 +5169,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-56c4953c4a4a4a0da0e18eaf10f690d8"
       textAlignment="1"
-      content="SIS services uitbreiden...?&#xD;&#xA;&#xD;&#xA;Legende :&#xD;&#xA;* = hebben we al ergens&#xD;&#xA;   = die missen we nog&#xD;&#xA;&#xD;&#xA;Uit PVE Osiris-functionaliteit:&#xD;&#xA;* beheren taxonomie&#xD;&#xA;* beheren resultaatstructuren&#xD;&#xA;beheren keuzedelen&#xD;&#xA;* registreren vrijstellingen- &#xD;&#xA;* toekennen voorzieningen&#xD;&#xA;* vastleggen keuzedelen&#xD;&#xA;* vastleggen begeleidingen&#xD;&#xA;registreren incidenten, houding, gedrag&#xD;&#xA;* registrreren aanmeldingen, intake, OOK&#xD;&#xA;factureren&#xD;&#xA;* aanvragen examendeelname&#xD;&#xA;* aanvragen herkansingen&#xD;&#xA;* vastleggen resultaten&#xD;&#xA;* diplomeren studenten&#xD;&#xA;* uitschrijven&#xD;&#xA;* beheren bpv bedrijfsgegevens (zie uitwisselen BRON/ROD)&#xD;&#xA;maken bpv overeenkomsten (generieker maken..?)&#xD;&#xA;beheren groepen (naar plannen..?)&#xD;&#xA;* registreren aar&#xD;&#xA;* verzuimmeldingen&#xD;&#xA;verwerken doorstroomdossiers&#xD;&#xA;* uitwisselen ROD (Bron)&#xD;&#xA;* aanleveren gegs aan derden zoals keurmerk inburgeren">
+      content="SIS services uitbreiden...?&#xD;&#xA;&#xD;&#xA;Legende :&#xD;&#xA;* = hebben we al ergens&#xD;&#xA;   = die missen we nog&#xD;&#xA;&#xD;&#xA;Uit PVE Osiris-functionaliteit:&#xD;&#xA;&#xD;&#xA;* beheren taxonomie&#xD;&#xA;* beheren resultaatstructuren&#xD;&#xA;beheren keuzedelen&#xD;&#xA;* registreren vrijstellingen- &#xD;&#xA;* toekennen voorzieningen&#xD;&#xA;* vastleggen keuzedelen&#xD;&#xA;* vastleggen begeleidingen&#xD;&#xA;registreren incidenten, houding, gedrag&#xD;&#xA;* registrreren aanmeldingen, intake, OOK&#xD;&#xA;factureren&#xD;&#xA;* aanvragen examendeelname&#xD;&#xA;* aanvragen herkansingen&#xD;&#xA;* vastleggen resultaten&#xD;&#xA;* diplomeren studenten&#xD;&#xA;* uitschrijven&#xD;&#xA;* beheren bpv bedrijfsgegevens (zie uitwisselen BRON/ROD)&#xD;&#xA;maken bpv overeenkomsten (generieker maken..?)&#xD;&#xA;beheren groepen (naar plannen..?)&#xD;&#xA;* registreren aar&#xD;&#xA;* verzuimmeldingen&#xD;&#xA;verwerken doorstroomdossiers&#xD;&#xA;* uitwisselen ROD (Bron)&#xD;&#xA;* aanleveren gegs aan derden zoals keurmerk inburgeren&#xD;&#xA;&#xD;&#xA;Uit model Owijs ontwikkelen-AppSrv van Jef:&#xD;&#xA;&#xD;&#xA;Onderwijs- en examenplanbeheer">
     <bounds
         x="24"
         y="1272"

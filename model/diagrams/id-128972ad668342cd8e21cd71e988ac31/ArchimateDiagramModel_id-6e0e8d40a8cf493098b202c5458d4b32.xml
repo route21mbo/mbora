@@ -867,14 +867,14 @@
         source="id-98b9311fe2794bbcad67c54441582185"
         target="id-d34f31cc3f474a08a062db1d57c088ea">
       <bendpoints
-          startX="210"
-          startY="10"
-          endX="670"
-          endY="1534"/>
+          startX="149"
+          startY="9"
+          endX="580"
+          endY="1557"/>
       <bendpoints
-          startX="222"
+          startX="149"
           startY="-1551"
-          endX="670"
+          endX="580"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -1041,15 +1041,15 @@
         source="id-34c2c5b0da3744e9917f65edf5cbee7e"
         target="id-53a1fba5a76b44fa999521faa53c3555">
       <bendpoints
-          startX="137"
+          startX="-200"
           startY="-3"
-          endX="593"
-          endY="585"/>
+          endX="233"
+          endY="393"/>
       <bendpoints
-          startX="149"
-          startY="-579"
-          endX="581"
-          endY="9"/>
+          startX="-200"
+          startY="-399"
+          endX="233"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-4ef57612010644c5a734a1962f515bc5.xml#id-4ef57612010644c5a734a1962f515bc5"/>
@@ -1059,13 +1059,23 @@
         id="id-7249e344e895497a92d461ed2dbfaef9"
         source="id-34c2c5b0da3744e9917f65edf5cbee7e"
         target="id-f4e7680bc1f54cc0ab5ebff8d956d707">
+      <bendpoints
+          startX="-200"
+          startY="9"
+          endX="232"
+          endY="-195"/>
+      <bendpoints
+          startX="-200"
+          startY="201"
+          endX="232"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-43758087565f44aba2b18a64ce1303bf.xml#id-43758087565f44aba2b18a64ce1303bf"/>
     </sourceConnections>
     <bounds
-        x="889"
-        y="2076"
+        x="890"
+        y="1884"
         width="204"
         height="55"/>
     <archimateElement
@@ -1119,9 +1129,9 @@
       id="id-12ff167059a6494d80e74ccfdfa4480c"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Suggestie, opmerkingen Rene:&#xD;&#xA;&#xD;&#xA;Leerarrangementen beheer toegevoegd&#xD;&#xA;&#xD;&#xA;Layout wat gestyled&#xD;&#xA;&#xD;&#xA;Inkoopdiensten appsrv gekoppeld aan werven leermiddelen&#xD;&#xA;&#xD;&#xA;Formatief resultatenbeheer toegevoegd&#xD;&#xA;&#xD;&#xA;Construeren examens zou ik niet koppelen aan Toets of examen voorbereiden (zie de properties)&#xD;&#xA;&#xD;&#xA;Vaststellen examens zou ik niet koppelen aan Toest of examen voorbereiden (zie de properties)&#xD;&#xA;Jef: heb ik ook weggehaald.&#xD;&#xA;&#xD;&#xA;Discussie: Als de OER altijd in het SIS wordt opgeslagen dan missen we mss een dienst (appsrv) in het SIS&#xD;&#xA;&#xD;&#xA;Ik zou BPV overeenkomstenbeheer als ASppsrv vervangen door Relatiebeheer. &#xD;&#xA;&#xD;&#xA;Jef&#xD;&#xA;Ik heb een aan tal appsrv weggehaald die m.i. hier niet thuishoren: &#xD;&#xA;BPV-overeenkomstbeheer bij bepalen benodigde BPV-plaatsen. BPV-overeenkomstbeheer  is een operationeel proces, geen voorbereidend proces. &#xD;&#xA;Toets- of examen planning en inschrijving: hoort niet bij opstellen examenplan&#xD;&#xA;&#xD;&#xA;Nieuwe appsrv in groen&#xD;&#xA;&#xD;&#xA;">
+      content="Suggestie, opmerkingen Rene:&#xD;&#xA;&#xD;&#xA;Construeren examens zou ik niet koppelen aan Toets of examen voorbereiden (zie de properties)&#xD;&#xA;&#xD;&#xA;Discussie: Als de OER altijd in het SIS wordt opgeslagen dan missen we mss een dienst (appsrv) in het SIS&#xD;&#xA;Jef: zie nieuwe appsrv in het groen&#xD;&#xA;&#xD;&#xA;Ik zou BPV overeenkomstenbeheer als ASppsrv vervangen door Relatiebeheer. &#xD;&#xA;&#xD;&#xA;Jef:&#xD;&#xA;&#xD;&#xA;Ik heb een aan tal appsrv weggehaald die m.i. hier niet thuishoren: &#xD;&#xA;- BPV-overeenkomstbeheer bij bepalen benodigde BPV-plaatsen. BPV-overeenkomstbeheer  is een operationeel proces, geen voorbereidend proces. &#xD;&#xA;&#xD;&#xA;- Toets- of examen planning en inschrijving: hoort niet bij opstellen examenplan&#xD;&#xA;&#xD;&#xA;Nieuwe appsrv in groen&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="1308"
+        x="1380"
         y="96"
         width="389"
         height="817"/>
@@ -1135,14 +1145,14 @@
         source="id-949e0fd44c774d9ebd3c6c3deefd3fcc"
         target="id-85440a23070c4ba59ac5d1327b35115b">
       <bendpoints
-          startX="-210"
+          startX="197"
           startY="-3"
-          endX="221"
+          endX="629"
           endY="-1251"/>
       <bendpoints
-          startX="-210"
+          startX="197"
           startY="1245"
-          endX="221"
+          endX="629"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -1217,6 +1227,16 @@
         id="id-b0b6baaf85a74e2fbff342dd6d3f08e2"
         source="id-924c776da9b84a3ab6661ecf4e42005b"
         target="id-55f77d4fe02844699ca634c10852c71b">
+      <bendpoints
+          startX="-198"
+          startY="-15"
+          endX="232"
+          endY="489"/>
+      <bendpoints
+          startX="-198"
+          startY="-507"
+          endX="232"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-6ec26f9388f04b4285702ca43e625008.xml#id-6ec26f9388f04b4285702ca43e625008"/>
@@ -1227,14 +1247,9 @@
         source="id-924c776da9b84a3ab6661ecf4e42005b"
         target="id-695f4ca1b5184f1daa94b04b22789036">
       <bendpoints
-          startX="-259"
-          startY="6"
-          endX="172"
-          endY="-486"/>
-      <bendpoints
-          startX="-259"
-          startY="498"
-          endX="172"
+          startX="-138"
+          startY="-3"
+          endX="292"
           endY="6"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
@@ -1246,14 +1261,14 @@
         source="id-924c776da9b84a3ab6661ecf4e42005b"
         target="id-dc66bc9163e141fda689c5b2640851a0">
       <bendpoints
-          startX="-259"
-          startY="6"
-          endX="172"
-          endY="-555"/>
+          startX="-198"
+          startY="9"
+          endX="232"
+          endY="-51"/>
       <bendpoints
-          startX="-259"
-          startY="558"
-          endX="172"
+          startX="-198"
+          startY="57"
+          endX="232"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -1265,22 +1280,22 @@
         source="id-924c776da9b84a3ab6661ecf4e42005b"
         target="id-a272292c934c440682976351652b3dd9">
       <bendpoints
-          startX="-259"
-          startY="6"
-          endX="172"
-          endY="-1985"/>
+          startX="246"
+          startY="-3"
+          endX="676"
+          endY="-1493"/>
       <bendpoints
-          startX="-259"
-          startY="1986"
-          endX="172"
+          startX="246"
+          startY="1485"
+          endX="676"
           endY="-5"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-522610f06f8e4797853eb767e8746adf.xml#id-522610f06f8e4797853eb767e8746adf"/>
     </sourceConnections>
     <bounds
-        x="891"
-        y="387"
+        x="890"
+        y="888"
         width="201"
         height="55"/>
     <archimateElement
