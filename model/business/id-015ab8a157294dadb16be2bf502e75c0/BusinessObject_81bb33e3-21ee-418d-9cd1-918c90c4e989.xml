@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leertaak"
-    id="81bb33e3-21ee-418d-9cd1-918c90c4e989"/>
+    id="81bb33e3-21ee-418d-9cd1-918c90c4e989"
+    documentation="De leervraag wordt uiteindelijk vastgelegd door een of meerdere onderwijsproducten te selecteren, in de meeste gevallen op aggregatieniveau 2 (leertaak) of 3 (leertraject) van de onderwijscatalogus.&#xD;&#xA;Bron: Triple-A&#xD;&#xA;Link: https://triplea.sambo-ict.nl/wiki/index.php/Formuleren_leervraag_(Use_case)&#xD;&#xA;&#xD;&#xA;Leervraag&#xD;&#xA;Vraag van een deelnemer of opdrachtgever aan een instelling waarin verwoord wordt wat men wil leren. Het formuleren van de leervraag is een activiteit van de begeleider samen met de deelnemer of opdrachtgever waarin de leervraag wordt uitgedrukt in producten uit de onderwijscatalogus (eventueel) aangevuld met additionele wensen en voorwaarden.&#xD;&#xA;Bron: Triple-A&#xD;&#xA;Link: https://triplea.sambo-ict.nl/wiki/index.php/Leervraag&#xD;&#xA;"/>

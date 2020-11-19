@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwalificatie"
-    id="a068d2f1-33b6-4b06-9518-8ecde00ee615"/>
+    id="a068d2f1-33b6-4b06-9518-8ecde00ee615"
+    documentation="De kwalificatie is de combinatie van het basis- en profieldeel uit het kwalificatiedossier. De kwalificatie omvat wat de beginnend beroepsbeoefenaar moet kennen en kunnen als hij gediplomeerd is en start op de arbeidsmarkt.&#xD;&#xA;Bron: Triple-A&#xD;&#xA;Link: https://triplea.sambo-ict.nl/wiki/index.php/Kwalificatie&#xD;&#xA;"/>
