@@ -985,8 +985,8 @@
             endY="71"/>
         <bendpoints
             startX="-237"
-            startY="-78"
-            endX="-3"
+            startY="-85"
+            endX="9"
             endY="71"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
@@ -1038,7 +1038,7 @@
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           fontColor="#000000"
           lineColor="#5c5c5c"
-          fillColor="#b5ffff">
+          fillColor="#ff0000">
         <bounds
             x="36"
             y="108"
@@ -1202,14 +1202,14 @@
           source="id-3c65a40c93ee474c9065f13bac7668e0"
           target="id-ae75adae40a34a42add7245fc3d1b881">
         <bendpoints
-            startX="-21"
-            startY="-108"
-            endX="-303"
+            startX="-33"
+            startY="-138"
+            endX="-315"
             endY="71"/>
         <bendpoints
-            startX="279"
-            startY="-96"
-            endX="-3"
+            startX="267"
+            startY="-138"
+            endX="-15"
             endY="71"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
