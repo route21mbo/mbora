@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijsaanbieder"
-    id="6ea81a60-8e54-4b56-9fec-7bbb285637c7"/>
+    id="6ea81a60-8e54-4b56-9fec-7bbb285637c7"
+    documentation="Een organisatie die door een bevoegd gezag is ingesteld voor het verzorgen van onderwijs.&#xD;&#xA;Bron: DUO&#xD;&#xA;Link: https://www.begrippenxl.nl/duo/nl/page/?uri=http%3A%2F%2Flod.duo.nl%2Fterm%2FOnderwijsaanbieder"/>

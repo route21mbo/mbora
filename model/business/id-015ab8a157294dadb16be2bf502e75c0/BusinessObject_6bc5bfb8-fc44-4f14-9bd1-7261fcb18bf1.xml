@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwalificatiedossier"
-    id="6bc5bfb8-fc44-4f14-9bd1-7261fcb18bf1"/>
+    id="6bc5bfb8-fc44-4f14-9bd1-7261fcb18bf1"
+    documentation="Een document waarin een of meer kwalificaties zijn beschreven.&#xD;&#xA;Bron: DUO&#xD;&#xA;Link: https://www.begrippenxl.nl/duo/nl/page/?uri=http%3A%2F%2Flod.duo.nl%2Fterm%2FKwalificatiedossier"/>

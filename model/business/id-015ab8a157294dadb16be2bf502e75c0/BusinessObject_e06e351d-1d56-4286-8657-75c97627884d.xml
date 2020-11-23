@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aangeboden opleiding"
-    id="e06e351d-1d56-4286-8657-75c97627884d"/>
+    id="e06e351d-1d56-4286-8657-75c97627884d"
+    documentation="Is een Opleidingseenheid die door een Onderwijsaanbieder aangeboden wordt in een bepaald vorm, al dan niet op een bepaalde Onderwijslocatie.&#xD;&#xA;Bron: DUO&#xD;&#xA;Link: https://www.begrippenxl.nl/duo/nl/page/?uri=http%3A%2F%2Flod.duo.nl%2Fterm%2FAangebodenOpleiding"/>
