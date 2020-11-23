@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vaststellen resultaat examen"
-    id="33bfd724-63c9-42df-88a4-6e21b5c54214"/>
+    id="33bfd724-63c9-42df-88a4-6e21b5c54214"
+    documentation="Op basis van de evaluaties van het (verloop van het) examen, eventuele groepsresultaten en de verwerking van de uitkomsten van een eventuele bezwaar- en beroepsprocedure, stelt de examencommissie het resultaat van het examen (oftewel het oordeel over het presteren van de student) vast. Nadat zij het resultaat heeft vastgesteld, informeert zij de betrokkenen. Hierna archiveert de examencommissie het examenresultaat.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Registreren c.q. verzamelen van de resultaten van de afgenomen examens in het studentinformatiesysteem.&#xD;&#xA;2. Controleren van de juistheid en volledigheid van de examenresultaten.&#xD;&#xA;3. Vaststellen van de examenresultaten.&#xD;&#xA;4. Overdragen van de examenresultaten t.b.v. diplomeren en certificeren.">
+  <properties
+      key="Input"
+      value="Examenresultaten"/>
+  <properties
+      key="Output"
+      value="Vastgestelde examenresultaten"/>
+</archimate:BusinessProcess>

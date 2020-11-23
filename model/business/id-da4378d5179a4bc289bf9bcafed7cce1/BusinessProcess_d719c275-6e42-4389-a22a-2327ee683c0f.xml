@@ -2,4 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ondertekenen BPV-overeenkomst"
     id="d719c275-6e42-4389-a22a-2327ee683c0f"
-    documentation="Het is belangrijk dat alle betrokkenen (student, bpv-bedrijf en school) van tevoren op de hoogte zijn van de inhoud van de bpv-overeenkomst. Dan weet iedereen wat er wel of niet van hen wordt verwacht. Om die reden wordt de bpv-overeenkomst in drievoud door de school verstrekt en getekend door alle partijen.&#xD;&#xA;&#xD;&#xA;In verband met mogelijke aansprakelijkheid is het verstandig pas te starten met de bpv als de bpv-overeenkomst is getekend.&#xD;&#xA;&#xD;&#xA;De school stuurt de bpv-overeenkomst ter verificatie naar de Dienst Uitvoering Onderwijs (DUO). "/>
+    documentation="Het is belangrijk dat alle betrokkenen (student, bpv-bedrijf en school) van tevoren op de hoogte zijn van de inhoud van de bpv verbintenis (praktijkovereenkomst). Dan weet iedereen wat er wel of niet van hen wordt verwacht. Om die reden wordt de bpv verbintenis in drievoud door de school verstrekt en getekend door alle partijen. In verband met mogelijke aansprakelijkheid is het verstandig pas te starten met de bpv als de bpv verbintenis is getekend. De school stuurt de overeenkomst ter verificatie naar de Dienst Uitvoering Onderwijs (DUO).&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ondertekenen van de BPV-overeenkomst door de student, BPV-bedrijf en de onderwijsinstelling.&#xD;&#xA;2. Archiveren van de BPV-overeenkomst in de studentadministratie.">
+  <properties
+      key="Input"
+      value="BPV-overeenkomst"/>
+  <properties
+      key="Proces"/>
+  <properties
+      key="Output"
+      value="Ondertekende BPV-overeenkomst"/>
+  <properties
+      key="Doel"/>
+  <properties
+      key="Kaders"/>
+  <properties
+      key="Actoren"/>
+</archimate:BusinessProcess>

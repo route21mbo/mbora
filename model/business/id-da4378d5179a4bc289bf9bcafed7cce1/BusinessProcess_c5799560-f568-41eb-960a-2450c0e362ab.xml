@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorlichten aspirant studenten"
-    id="c5799560-f568-41eb-960a-2450c0e362ab"/>
+    id="c5799560-f568-41eb-960a-2450c0e362ab"
+    documentation="De voorlichters hebben de taak om aspirant studenten goed voor te lichten over hun studiekeuze, door hen een realistisch beeld te schetsen van de opleiding en het beroepenveld. Door goede voorlichting, wordt de kans vergroot dat jongeren een goede studiekeuze maken en wordt de kans op voortijdige uitval verkleind. Daarnaast kan de voorlichting aspirant-studenten helpen een profiel te kiezen op het VO dat aansluit bij de gewenste vervolgopleiding.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;1. Geven van voorlichting aan aspirant-studenten over hun studiekeuze door het schetsen van een realistisch beeld van de opleidng en beroepenveld.&#xD;&#xA;2. Aangeven van de toelatingsvoorwaarden voor het volgen van de opleiding.">
+  <properties
+      key="Input"
+      value="Informatie opleiding en beroepenveld"/>
+  <properties
+      key="Output"
+      value="Geïnformeerde aspirant-studenten"/>
+</archimate:BusinessProcess>

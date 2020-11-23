@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Werven aspirant studenten"
-    id="2eae8ba0-660f-4d6e-a004-ee2e7ab48210"/>
+    id="2eae8ba0-660f-4d6e-a004-ee2e7ab48210"
+    documentation="Na het voorlichten van de aspirant studenten vinden de wervingsactiviteiten plaats. In deze fase maakt de aspirant student een keuze voor een opleiding en bij welke school hij/zij deze opleiding gaat volgen. Aspirant-studenten die aan de vooropleidingseisen voldoen, zich uiterlijk 1 april aanmelden en aan de eventuele verplichte kennismakingsactiviteiten deelnemen, hebben toelatingsrecht tot de mbo-opleiding van hun eerste keuze.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Werven van aspirant-studenten d.m.v. wervingsactiviteiten.&#xD;&#xA;2. Geven van voorlichting aan aspirant-studenten over de intakeprocedure.">
+  <properties
+      key="Input"
+      value="Verwervingsmateriaal; Informatie intakeprocedure"/>
+  <properties
+      key="Output"
+      value="Geworven aspirant-studenten"/>
+</archimate:BusinessProcess>

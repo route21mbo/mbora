@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ondertekenen onderwijs-overeenkomst"
-    id="dc470ba4-332c-40a4-88df-51e937b39cb8"/>
+    id="dc470ba4-332c-40a4-88df-51e937b39cb8"
+    documentation="Na aanmelding, intake en plaatsing ontvangt de student van de instelling een onderwijsverbintenis voor de opleiding. Dit is een overeenkomst tussen de student en de onderwijsinstelling. Student en instelling ondertekenen de verbintenis om de inschrijving te bevestigen. Na ontvangst van de door de student ondertekende OOK wordt de student daadwerkelijk ingeschreven en als ingeschreven student bij DUO gemeld.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ondertekenen van de onderwijsovereenkomst door de student en de onderwijsinstelling.&#xD;&#xA;2. Archiveren van de onderwijsovereenkomst in het Studentinformatiesysteem.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Onderwijsovereenkomst"/>
+  <properties
+      key="Output"
+      value="Ondergetekende onderwijsovereenkomst"/>
+</archimate:BusinessProcess>

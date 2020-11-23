@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerken wijzigingen administratieve gegevens student"
-    id="a1e99e98-666c-4c7f-98d4-7a43b1c4afbc"/>
+    id="a1e99e98-666c-4c7f-98d4-7a43b1c4afbc"
+    documentation="Het verwerken van allerlei administratieve mutaties van de gegevens van de student tijdens de studieloopbaan. Voorbeelden zijn mutaties in N.A.W.-gegevens, tussentijdse aanpassingen c.q aanvullingen van de onderwijsovereenkomst. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES;&#xD;&#xA;1. Ontvangen van de mutatie van een gegeven van de student.&#xD;&#xA;2. Wijzigen van het gegeven van de student in het student informatiesysteem.&#xD;&#xA;3. Eventueel controleren van de juistheid van de mutaties.&#xD;&#xA;4. Bepalen of de onderwijsovereenkomst of BPV-overeenkomst moet worden aangepast of aangevuld.&#xD;&#xA;5. Eventueel informeren van de student over de uitgevoerde mutatie.">
+  <properties
+      key="Input"
+      value="Verzoek tot mutatie studentgegevens"/>
+  <properties
+      key="Output"
+      value="Geactualiseerde studentgegevens"/>
+</archimate:BusinessProcess>

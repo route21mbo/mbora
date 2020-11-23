@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen BPV-overeenkomst"
     id="4982da2a-ebaf-41e2-bad7-30c88e297d04"
-    documentation="Voor de start van de bpv sluit de student een bpv-overeenkomst, ook wel praktijkovereenkomst genoemd, met de school en de werkgever. Daarin zijn de wederzijdse rechten en plichten vastgelegd.&#xD;&#xA;&#xD;&#xA;Een belangrijke voorwaarde voor het verwerken van wijzigingen tijdens de bpv is dat de partijen die de eerste bpv-overeenkomst hebben ondertekend, niet veranderen. Dan kan met een extra bpv-blad worden gewerkt als er sprake is van een wijziging. In andere situaties wordt een nieuwe bpv-overeenkomst afgesloten. "/>
+    documentation="Voor de start van de BPV sluit de student een praktijkovereenkomst met de school en de werkgever. Daarin zijn de wederzijdse rechten en plichten vastgelegd.&#xD;&#xA;Een belangrijke voorwaarde voor het verwerken van wijzigingen tijdens de BPV is dat de partijen die de eerste praktijkovereenkomst hebben ondertekend, niet veranderen. Dan kan met een extra BPV-blad worden gewerkt als er sprake is van een wijziging. In andere situaties wordt een nieuwe praktijkovereenkomst afgesloten.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen van het BPV-aanmeldformulier.&#xD;&#xA;2. Registreren van de BPV-plaatsing van de student in het studentinformatiesysteem.&#xD;&#xA;3. Opstellen van de BPV-overeenkomst.&#xD;&#xA;4. Verzenden van de BPV-overeenkomst naar de student met het verzoek deze zelf te ondertekenen en door het BPV-bedrijf te laten ondertekenen. Verzoek is dan om de BPV-overeenkomst te retourneren.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="BPV-aanmeldformulier"/>
+  <properties
+      key="Output"
+      value="BPV-overeenkomst"/>
+</archimate:BusinessProcess>
