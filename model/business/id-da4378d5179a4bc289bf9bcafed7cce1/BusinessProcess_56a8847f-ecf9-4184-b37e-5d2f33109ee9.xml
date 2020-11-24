@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Onderwijsplan"/>
+  <properties
+      key="Proces"
+      value="Opstellen van het onderwijsplan, een samenhangend overzicht waarin per opleiding de leertaken staan die samen een opleiding vormen"/>
 </archimate:BusinessProcess>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oplossen uitvoeringsprobleem"
     id="ba005747-c950-475a-8208-607b951700a7"
-    documentation="Er zijn situaties denkbaar dat het rooster veranderd moet worden ook al is dit vastgesteld voor een bepaalde periode. Een docent kan ziek worden of, om een andere reden, plotseling verhinderd zijn. Een bal vliegt door de ruit van een lokaal, stageplaats is toch niet beschikbaar, de nieuwe pc’s voor het computerlokaal zijn nog niet geleverd etc. Het gaat hier dus om incidenten die veroorzaakt worden door het ontbreken of veranderen van een middel die niet of niet goed voorspelbaar zijn maar die wel gevolgen hebben voor het rooster of voor de in te zetten middelen. Om dit probleem op te lossen kan het rooster of de inzet van middelen kan worden aangepast. Streven is om het vastgestelde rooster zoveel mogelijk intact te houden.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;- Melden ontstane probleem&#xD;&#xA;- Registreren probleem&#xD;&#xA;- Melding doorgeven&#xD;&#xA;- Kenmerken middel bepalen&#xD;&#xA;- Zoeken alternatief &#xD;&#xA;- Alternatief kiezen&#xD;&#xA;- Alternatief realiseren of beslissing nemen laten vervallen onderwijs&#xD;&#xA;- Registreren afhandeling uitvoeringsprobleem&#xD;&#xA;- Publiceren roosterwijziging"/>
+    documentation="Er zijn situaties denkbaar dat het rooster veranderd moet worden ook al is dit vastgesteld voor een bepaalde periode. Een docent kan ziek worden of, om een andere reden, plotseling verhinderd zijn. Een bal vliegt door de ruit van een lokaal, stageplaats is toch niet beschikbaar, de nieuwe pc’s voor het computerlokaal zijn nog niet geleverd etc. Het gaat hier dus om incidenten die veroorzaakt worden door het ontbreken of veranderen van een middel die niet of niet goed voorspelbaar zijn maar die wel gevolgen hebben voor het rooster of voor de in te zetten middelen. Om dit probleem op te lossen kan het rooster of de inzet van middelen kan worden aangepast. Streven is om het vastgestelde rooster zoveel mogelijk intact te houden.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;- Melden ontstane probleem&#xD;&#xA;- Registreren probleem&#xD;&#xA;- Melding doorgeven&#xD;&#xA;- Kenmerken middel bepalen&#xD;&#xA;- Zoeken alternatief &#xD;&#xA;- Alternatief kiezen&#xD;&#xA;- Alternatief realiseren of beslissing nemen laten vervallen onderwijs&#xD;&#xA;- Registreren afhandeling uitvoeringsprobleem&#xD;&#xA;- Publiceren roosterwijziging">
+  <properties
+      key="Input"
+      value="Een onverwachte omstandigheid waardoor een geplande omderwijsactiviteit niet door kan gaan"/>
+  <properties
+      key="Proces"
+      value="Naar aanleiding van gewijzigde omstandigheden aanpassen van het rooster en/of de inzet van mensen en middelen"/>
+  <properties
+      key="Output"
+      value="1) Roosterwijziging, 2) Aangepaste inzet van middelen en/of 3) Aangepaste inzet van mensen"/>
+</archimate:BusinessProcess>

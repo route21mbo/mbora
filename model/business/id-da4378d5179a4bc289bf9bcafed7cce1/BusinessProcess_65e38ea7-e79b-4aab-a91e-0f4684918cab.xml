@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Analyse benodigde inzet van personeel op basis van de te verwachten onderwijsvraag"/>
+  <properties
+      key="Proces"
+      value="Het analyseren van de inzet van de medewerkers ten opzichte van de verwachte onderwijsvraag"/>
 </archimate:BusinessProcess>

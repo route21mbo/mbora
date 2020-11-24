@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beoordelen BPV"
     id="f23b5331-58bf-450a-b11b-6eb09d9471ad"
-    documentation="Het is een diploma-eis dat de bpv voldoende is afgesloten door de student. Dit is ter beoordeling van de school. Daarbij kan het oordeel van de praktijk-opleider vanuit het bpv-bedrijf worden meegenomen. "/>
+    documentation="Het is een diploma-eis dat de bpv voldoende is afgesloten door de student. Dit is ter beoordeling van de school. Daarbij kan het oordeel van de praktijk-opleider vanuit het bpv-bedrijf worden meegenomen. ">
+  <properties
+      key="Input"
+      value="Uitgevoerd en afgesloten BPV"/>
+  <properties
+      key="Proces"
+      value="Beoordelen of BPV-voldoende is afgesloten, conform de diploma-eis"/>
+  <properties
+      key="Output"
+      value="Beoordeling BPV"/>
+</archimate:BusinessProcess>

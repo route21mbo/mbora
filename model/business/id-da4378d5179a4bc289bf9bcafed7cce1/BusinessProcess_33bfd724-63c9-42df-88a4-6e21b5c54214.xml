@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Vastgestelde examenresultaten"/>
+  <properties
+      key="Proces"
+      value="Vaststellen van het examenresultaat door de examencommissie"/>
 </archimate:BusinessProcess>

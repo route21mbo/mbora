@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Geclusterde leertaken ten behoeve van de jaarplanning"/>
+  <properties
+      key="Proces"
+      value="Clusteren van leertaken, d.w.z. het in een periode samen nemen van wat bij elkaar genomen kan worden ten behoeve van de jaarplanning"/>
 </archimate:BusinessProcess>

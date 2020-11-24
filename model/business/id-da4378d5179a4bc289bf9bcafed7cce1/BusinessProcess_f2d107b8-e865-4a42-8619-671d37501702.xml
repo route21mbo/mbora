@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Gealloceerde middelen"/>
+  <properties
+      key="Proces"
+      value="Het daadwerkelijk toewijzen (alloceren) van middelen ten behoeve van het onderwijs van de komende periode"/>
 </archimate:BusinessProcess>

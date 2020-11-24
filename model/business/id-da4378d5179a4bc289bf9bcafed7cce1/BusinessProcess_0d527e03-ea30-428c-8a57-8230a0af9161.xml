@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren roosterwijzigen"
     id="0d527e03-ea30-428c-8a57-8230a0af9161"
-    documentation="Wijzigingen worden tijdig doorgegeven en verwerkt zodat studenten en docenten tijdig geïnformeerd worden.&#xD;&#xA;&#xD;&#xA;Wijzigingen kunnen voortvloeien uit:&#xD;&#xA;- Ziekte&#xD;&#xA;- Beschikbaarheid docent/instructeur&#xD;&#xA;- Wijzigingen in student-, klas-, of groepssamenstellingen&#xD;&#xA;- Wijzigingen in faciliteiten"/>
+    documentation="Wijzigingen worden tijdig doorgegeven en verwerkt zodat studenten en docenten tijdig geïnformeerd worden.&#xD;&#xA;&#xD;&#xA;Wijzigingen kunnen voortvloeien uit:&#xD;&#xA;- Ziekte&#xD;&#xA;- Beschikbaarheid docent/instructeur&#xD;&#xA;- Wijzigingen in student-, klas-, of groepssamenstellingen&#xD;&#xA;- Wijzigingen in faciliteiten">
+  <properties
+      key="Input"
+      value="Een omstandigheid die aanleiding geeft tot het wijzigen van het actuele rooster"/>
+  <properties
+      key="Output"
+      value="1) Roosterwijziging, 2) Aangepaste inzet van middelen en/of 3) Aangepaste inzet van mensen"/>
+  <properties
+      key="Proces"
+      value="Naar aanleiding van een onvoorziene omstandigheid aanpassen van het rooster en/of de inzet van mensen en middelen"/>
+</archimate:BusinessProcess>

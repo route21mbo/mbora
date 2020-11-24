@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melden afwezigheid door student"
     id="ba904fe9-9563-4227-9ac7-76bf000e7435"
-    documentation="Een melding van afwezigheid kan over voorziene of onvoorziene afwezigheid gaan. Een voorbeeld voor voorziene afwezigheid is een bijzonder familiegebeurtenissen of geaccordeerd vakantieverlof. Een voorbeeld voor onvoorziene afwezigheid is een ziekte of problemen met het openbaar vervoer.&#xD;&#xA;&#xD;&#xA;Deze gevallen worden identiek behandeld. Uit de reden van de melding blijkt of de afwezigheid voorzien is geweest of niet. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;- Ontvangen melding afwezigheid&#xD;&#xA;- Registreren melding afwezigheid&#xD;&#xA;- Beoordeling rechtmatigheid afwezigheid"/>
+    documentation="Een melding van afwezigheid kan over voorziene of onvoorziene afwezigheid gaan. Een voorbeeld voor voorziene afwezigheid is een bijzonder familiegebeurtenissen of geaccordeerd vakantieverlof. Een voorbeeld voor onvoorziene afwezigheid is een ziekte of problemen met het openbaar vervoer.&#xD;&#xA;&#xD;&#xA;Deze gevallen worden identiek behandeld. Uit de reden van de melding blijkt of de afwezigheid voorzien is geweest of niet. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;- Ontvangen melding afwezigheid&#xD;&#xA;- Registreren melding afwezigheid&#xD;&#xA;- Beoordeling rechtmatigheid afwezigheid">
+  <properties
+      key="Input"
+      value="Een melding van afwezigheid door de student"/>
+  <properties
+      key="Proces"
+      value="Registratie en beoordeling van de afwezigheidsmelding van een student"/>
+  <properties
+      key="Output"
+      value="Geregistreerde en beoordeelde afwezigheidsmelding"/>
+</archimate:BusinessProcess>

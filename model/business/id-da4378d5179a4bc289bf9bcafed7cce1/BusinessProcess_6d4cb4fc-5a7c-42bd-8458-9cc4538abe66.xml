@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Jaarkalender"/>
+  <properties
+      key="Proces"
+      value="Vaststellen van de jaarkalender op basis van het advies van OCW"/>
 </archimate:BusinessProcess>

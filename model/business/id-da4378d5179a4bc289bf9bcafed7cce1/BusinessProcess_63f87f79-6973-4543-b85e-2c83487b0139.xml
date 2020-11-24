@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Meerjarenplanning"/>
+  <properties
+      key="Proces"
+      value="Het matchen van het onderwijsaanbod, de medewerkers en de faciliteiten, grofmazig uiteengezet over meerdere jaren in een meerjarenplanning"/>
 </archimate:BusinessProcess>

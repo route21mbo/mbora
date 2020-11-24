@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren BPV-plaats"
     id="2ce2a487-482b-418b-9102-696191f1fbee"
-    documentation="Een leerbedrijf kan een of meerdere BPV-plaatsen aanbieden. Deze BPV-plaatsen kunnen verschillen qua kwalificatiedossier en type (oriënterend/taalstage etc.) Wanneer de stamgegevens van het leerbedrijf nog niet zijn vastgelegd moet dit eerst gebeuren. Het aanbod van de BPV-plaats is geen garantie dat deze ook werkelijk (nog) beschikbaar is. Deze check zal in de regel plaatsvinden nadat de BPV match is gemaakt. "/>
+    documentation="Een leerbedrijf kan een of meerdere BPV-plaatsen aanbieden. Deze BPV-plaatsen kunnen verschillen qua kwalificatiedossier en type (oriënterend/taalstage etc.) Wanneer de stamgegevens van het leerbedrijf nog niet zijn vastgelegd moet dit eerst gebeuren. Het aanbod van de BPV-plaats is geen garantie dat deze ook werkelijk (nog) beschikbaar is. Deze check zal in de regel plaatsvinden nadat de BPV match is gemaakt. ">
+  <properties
+      key="Input"
+      value="Potentieel beschikbare BPV-plaats bij een (bekend) BPV-bedrijf"/>
+  <properties
+      key="Proces"
+      value="Registreren BPV-plaats, met de kenmerken die noodzakelik zijn voor de BPV-matching"/>
+  <properties
+      key="Output"
+      value="Geregistreerde BPV-plaats"/>
+</archimate:BusinessProcess>

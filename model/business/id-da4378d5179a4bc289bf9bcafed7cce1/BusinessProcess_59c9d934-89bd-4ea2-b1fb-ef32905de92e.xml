@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren aan- en afwezigheid"
     id="59c9d934-89bd-4ea2-b1fb-ef32905de92e"
-    documentation="De registratie van gesignaleerde afwezigheid is een gedetailleerde registratie ten behoeve van de begeleiding. Vanuit deze gedetailleerde registratie wordt op een hoger aggregatieniveau de geanalyseerde aanwezigheid vastgelegd. "/>
+    documentation="De registratie van gesignaleerde afwezigheid is een gedetailleerde registratie ten behoeve van de begeleiding. Vanuit deze gedetailleerde registratie wordt op een hoger aggregatieniveau de geanalyseerde aanwezigheid vastgelegd. ">
+  <properties
+      key="Input"
+      value="Signalering en rapportage m.b.t. aan- en afwezigheid van studenten"/>
+  <properties
+      key="Proces"
+      value="Analyseren van aan- en afwezigheid ten behoeve van noodzakelik acties in monitoring en begeleiding van studenten"/>
+  <properties
+      key="Output"
+      value="Analyse van de aan- en afwezigheid ten behoeve van de monitoring van de voortgang en de begeleiding van studenten"/>
+</archimate:BusinessProcess>

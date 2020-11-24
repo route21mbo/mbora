@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Benodigde inzet van mensen ten behoeve van de onderwijsvraag voor de komende periode"/>
+  <properties
+      key="Proces"
+      value="Voor het vastgestelde aanbod aan opleidingen bepalen welke inzet van mensen daarvoor nodig is"/>
 </archimate:BusinessProcess>

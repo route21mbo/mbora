@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Analyse benodigde middelen op basis van de te verwachten onderwijsvraag"/>
+  <properties
+      key="Proces"
+      value="Op basis van het beoogde onderwijsaanbod bepalen of de faciliteiten voldoende aanwezig zijn"/>
 </archimate:BusinessProcess>

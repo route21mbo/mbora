@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="(1) Alternieve oplossing in het rooster of (2) Verzoek tot herformuleren arrangement"/>
+  <properties
+      key="Proces"
+      value="Een oplossing zoeken voor arrangementen die niet gepland konden worden, al dan niet met aanpassing van de leervraag of het arrangement"/>
 </archimate:BusinessProcess>

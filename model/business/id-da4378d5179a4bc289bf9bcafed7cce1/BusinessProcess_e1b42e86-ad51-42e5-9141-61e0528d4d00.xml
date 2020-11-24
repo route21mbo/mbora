@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Monitoren voortgang leerroute"
     id="e1b42e86-ad51-42e5-9141-61e0528d4d00"
-    documentation="Tijdens de opleiding wordt de voortgang van de student door alle betrokken docenten in beeld gebracht. Iedere student heeft een studieloopbaanbegeleider. Deze begeleidt de student bij de leerprocessen en ontwikkeling en monitort de studievoortgang. De studieloopbaanbegeleider van de student is betrokken bij het verstrekken van het BSA en het aanvragen van eventuele vrijstellingen. Voor de student is de studieloopbaanbegeleider het eerste aanspreekpunt waar het gaat om voortgang (of stagnatie) in de ontwikkeling in de loopbaan."/>
+    documentation="Tijdens de opleiding wordt de voortgang van de student door alle betrokken docenten in beeld gebracht. Iedere student heeft een studieloopbaanbegeleider. Deze begeleidt de student bij de leerprocessen en ontwikkeling en monitort de studievoortgang. De studieloopbaanbegeleider van de student is betrokken bij het verstrekken van het BSA en het aanvragen van eventuele vrijstellingen. Voor de student is de studieloopbaanbegeleider het eerste aanspreekpunt waar het gaat om voortgang (of stagnatie) in de ontwikkeling in de loopbaan.">
+  <properties
+      key="Input"
+      value="1) Formatieve en summatieve resultaten, 2) Aan- en afwezigheid en 3) Houding, gedrag, motivatie etc."/>
+  <properties
+      key="Proces"
+      value="Op basis van resultaten, aan- en afwezigheid en houding, gedrag en motivatie bepalen of de student voldoende voortgang boekt ten opzichte van de leerroute"/>
+  <properties
+      key="Output"
+      value="Analyse van de voortgang ten opzichte van de persoonlijke leerroute"/>
+</archimate:BusinessProcess>

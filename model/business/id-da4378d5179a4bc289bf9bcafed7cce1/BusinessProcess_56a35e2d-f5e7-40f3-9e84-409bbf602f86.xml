@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melden verzuimloket"
     id="56a35e2d-f5e7-40f3-9e84-409bbf602f86"
-    documentation="Signaleren dat het ongeoorloofd verzuim van een student aan één van de onderstaande voorwaarden voldoet.&#xD;&#xA;- Relatief verzuim: de student is meer dan 16 uur ongeoorloofd afwezig bin-nen een periode van vier weken. Elke keer wanneer deze 16 uur bereikt is, moet u opnieuw een verzuimmelding opvoeren. De einddatum die u door-geeft is de laatste verzuimdag óf de dag dat de 16 uur is bereikt.&#xD;&#xA;- Langdurig relatief verzuim (LRV): de student is langer dan vier weken onge-oorloofd afwezig.&#xD;&#xA;- Luxe verzuim: de student is zonder toegekend verlof buiten de schoolvakanties om op vakantie gegaan.&#xD;&#xA;&#xD;&#xA;Wanneer aan deze voorwaarden is voldaan voor een bepaalde student dan wordt vóór aanmaak van de verzuimmelding aan het verzuimloket een signaal afgegeven aan de mentor. De mentor beoordeelt de verzuimmelding en besluit om het wel of niet te melden. Dit besluit wordt vastgelegd met een toelichting van de mentor. Vervolgens kan de melding worden verzonden naar DUO."/>
+    documentation="Signaleren dat het ongeoorloofd verzuim van een student aan één van de onderstaande voorwaarden voldoet.&#xD;&#xA;- Relatief verzuim: de student is meer dan 16 uur ongeoorloofd afwezig bin-nen een periode van vier weken. Elke keer wanneer deze 16 uur bereikt is, moet u opnieuw een verzuimmelding opvoeren. De einddatum die u door-geeft is de laatste verzuimdag óf de dag dat de 16 uur is bereikt.&#xD;&#xA;- Langdurig relatief verzuim (LRV): de student is langer dan vier weken onge-oorloofd afwezig.&#xD;&#xA;- Luxe verzuim: de student is zonder toegekend verlof buiten de schoolvakanties om op vakantie gegaan.&#xD;&#xA;&#xD;&#xA;Wanneer aan deze voorwaarden is voldaan voor een bepaalde student dan wordt vóór aanmaak van de verzuimmelding aan het verzuimloket een signaal afgegeven aan de mentor. De mentor beoordeelt de verzuimmelding en besluit om het wel of niet te melden. Dit besluit wordt vastgelegd met een toelichting van de mentor. Vervolgens kan de melding worden verzonden naar DUO.">
+  <properties
+      key="Input"
+      value="Signaal met betrekking tot (mogelijk) ongeoorloofd verzuim"/>
+  <properties
+      key="Proces"
+      value="Beoordelen van het (mogelijk) ongeoorloofd verzuim en melden daarvan bij het verzuimloket"/>
+  <properties
+      key="Output"
+      value="Beoordeeld en gemeld ongeoorloofd verzuim"/>
+</archimate:BusinessProcess>

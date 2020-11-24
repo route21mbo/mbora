@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oplossen calamiteit"
     id="a38732a3-3733-4685-abf5-a50b70aa0673"
-    documentation="Onverwachts kunnen zich situaties voordoen waardoor een deel van de middelen niet meer beschikbaar is. Voorbeelden hiervan kunnen zijn dat een docent plotseling langdurig afwezig is, een lokaal waar alle pc’s uit gestolen zijn, het afbranden van een gebouw etc. Ook is het mogelijk dat er bij de roostering van een periode rekening is gehouden met een nieuw gebouw, terwijl bij aanvang van de periode het gebouw nog niet gereed is.&#xD;&#xA;&#xD;&#xA;Calamiteiten kunnen zeer divers zijn wat betreft omvang en impact. Het gaat hier echt om een calamiteit, waardoor de beschikbaarheid van middelen zodanig is gewijzigd dat opnieuw roosteren noodzakelijk is. Situaties waarbij een probleem met een kleine wijziging in het rooster kan worden opgelost, worden afgehandeld in het proces Oplossen uitvoeringsprobleem. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;- Melding van de calamiteit en bepalen actoren&#xD;&#xA;- Aanpassen status beschikbaarheid middelen&#xD;&#xA;- Vervolgacties bepalen&#xD;&#xA;- Een alternatief realiseren &#xD;&#xA;- Herziening van het rooster&#xD;&#xA;- Terugkoppeling van de oplossing&#xD;&#xA;"/>
+    documentation="Onverwachts kunnen zich situaties voordoen waardoor een deel van de middelen niet meer beschikbaar is. Voorbeelden hiervan kunnen zijn dat een docent plotseling langdurig afwezig is, een lokaal waar alle pc’s uit gestolen zijn, het afbranden van een gebouw etc. Ook is het mogelijk dat er bij de roostering van een periode rekening is gehouden met een nieuw gebouw, terwijl bij aanvang van de periode het gebouw nog niet gereed is.&#xD;&#xA;&#xD;&#xA;Calamiteiten kunnen zeer divers zijn wat betreft omvang en impact. Het gaat hier echt om een calamiteit, waardoor de beschikbaarheid van middelen zodanig is gewijzigd dat opnieuw roosteren noodzakelijk is. Situaties waarbij een probleem met een kleine wijziging in het rooster kan worden opgelost, worden afgehandeld in het proces Oplossen uitvoeringsprobleem. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES&#xD;&#xA;- Melding van de calamiteit en bepalen actoren&#xD;&#xA;- Aanpassen status beschikbaarheid middelen&#xD;&#xA;- Vervolgacties bepalen&#xD;&#xA;- Een alternatief realiseren &#xD;&#xA;- Herziening van het rooster&#xD;&#xA;- Terugkoppeling van de oplossing&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Onverwachte omstandigheid dat mensen of middelen niet (meer) beschikbaar zijn"/>
+  <properties
+      key="Proces"
+      value="Naar aanleiding van de calamiteit aanpassen van het rooster en/of de inzet van mensen en middelen"/>
+  <properties
+      key="Output"
+      value="1) Roosterwijziging, 2) Aangepaste inzet van middelen en/of 3) Aangepaste inzet van mensen"/>
+</archimate:BusinessProcess>

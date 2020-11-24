@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Benodigde middelen ten behoeve van de onderwijsvraag voor de komende periode"/>
+  <properties
+      key="Proces"
+      value="Voor het vastgestelde aanbod aan opleidingen bepalen welke middelen daarvoor benodigd zijn"/>
 </archimate:BusinessProcess>

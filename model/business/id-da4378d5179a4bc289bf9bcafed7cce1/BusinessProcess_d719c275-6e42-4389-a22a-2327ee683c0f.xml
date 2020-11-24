@@ -7,14 +7,9 @@
       key="Input"
       value="BPV-overeenkomst"/>
   <properties
-      key="Proces"/>
+      key="Proces"
+      value="Ondertekenen BPV-overeenkomst door student, instelling en BPV-bedrijf"/>
   <properties
       key="Output"
       value="Ondertekende BPV-overeenkomst"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
 </archimate:BusinessProcess>

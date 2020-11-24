@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Gepubliceerd rooster"/>
+  <properties
+      key="Proces"
+      value="Beschikbaar stellen van het rooster aan studenten en medewerkers"/>
 </archimate:BusinessProcess>

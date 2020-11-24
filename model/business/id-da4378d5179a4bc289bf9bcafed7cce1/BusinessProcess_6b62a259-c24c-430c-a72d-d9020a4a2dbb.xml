@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Schatting van het aantal studenten, klassen en leerroutes"/>
+  <properties
+      key="Proces"
+      value="Het inschatten van de aantallen studenten en het daarmee beoogde te faciliteren onderwijs ten behoeve van de meerjarenplanning."/>
 </archimate:BusinessProcess>

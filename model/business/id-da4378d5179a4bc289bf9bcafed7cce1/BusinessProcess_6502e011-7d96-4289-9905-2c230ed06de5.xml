@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Individueel arrangement, bestaand uit concrete leertaken"/>
+  <properties
+      key="Proces"
+      value="De leervraag wordt uitgewerkt naar een concreet, persoonlijk arrangement voor de student, bestaande uit onderwijsproducten"/>
 </archimate:BusinessProcess>

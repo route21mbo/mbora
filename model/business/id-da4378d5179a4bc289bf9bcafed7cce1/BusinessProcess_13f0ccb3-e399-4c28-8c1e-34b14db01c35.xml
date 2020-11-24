@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Gealloceerde medewerkers op onderwijsactiviteiten voor de komende periode"/>
+  <properties
+      key="Proces"
+      value="Het matchen van de beschikbare medewerkers op de benodigde inzet ten behoeve van het onderwijs van de komende periode"/>
 </archimate:BusinessProcess>

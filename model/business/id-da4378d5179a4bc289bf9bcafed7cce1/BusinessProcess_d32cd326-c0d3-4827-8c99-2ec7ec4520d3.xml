@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rapporteren gegevens aan- en afwezigheid"
     id="d32cd326-c0d3-4827-8c99-2ec7ec4520d3"
-    documentation="Vertegenwoordigers van externe partijen hebben behoefte aan informatie omtrent de aanwezigheid van deelnemers, omdat zij verantwoordelijk zijn voor de begeleiding van deelnemers of omdat zij het onderwijs financieren. In deze stap wordt de rapportage opgesteld over de aanwezigheid van de deelnemer. Voor vragen ten aanzien van begeleiding van deelnemers kan worden gedacht aan maatschappelijke dienstverleners, zoals GGD. Voor financiering kan worden gedacht aan werkgevers, klantmanagers gemeente, UWV, re-integratiebedrijven.&#xD;&#xA;&#xD;&#xA;In de aanwezigheidsregistratie zijn de gegevens van deelnemers betreffende hun presentie gedurende een bepaalde tijdsperiode vastgelegd. Vanuit onderwijslogistiek (reserveren) is bekend wanneer en voor welk onderwijsproduct een deelnemer geacht wordt aanwezig te zijn. Door de metingen in tijd af te zetten tegen het tijdraster van de planning kan een analyse worden gemaakt van de aan- en afwezigheid van deelnemers. &#xD;&#xA;"/>
+    documentation="Vertegenwoordigers van externe partijen hebben behoefte aan informatie omtrent de aanwezigheid van deelnemers, omdat zij verantwoordelijk zijn voor de begeleiding van deelnemers of omdat zij het onderwijs financieren. In deze stap wordt de rapportage opgesteld over de aanwezigheid van de deelnemer. Voor vragen ten aanzien van begeleiding van deelnemers kan worden gedacht aan maatschappelijke dienstverleners, zoals GGD. Voor financiering kan worden gedacht aan werkgevers, klantmanagers gemeente, UWV, re-integratiebedrijven.&#xD;&#xA;&#xD;&#xA;In de aanwezigheidsregistratie zijn de gegevens van deelnemers betreffende hun presentie gedurende een bepaalde tijdsperiode vastgelegd. Vanuit onderwijslogistiek (reserveren) is bekend wanneer en voor welk onderwijsproduct een deelnemer geacht wordt aanwezig te zijn. Door de metingen in tijd af te zetten tegen het tijdraster van de planning kan een analyse worden gemaakt van de aan- en afwezigheid van deelnemers. &#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Verzoek van, of afspraak met een externe partij over rapportage van aan- en afwezigheid"/>
+  <properties
+      key="Proces"
+      value="Opstellen rapportage m.b.t. aan- en afwezigheid van een bepaalde groep studenten"/>
+  <properties
+      key="Output"
+      value="Rapportage aan- en afwezigheid"/>
+</archimate:BusinessProcess>

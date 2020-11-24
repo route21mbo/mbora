@@ -2,4 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren BPV-bedrijfsgegevens"
     id="d7319885-5a2c-46c6-9f6b-d2e872b4aef7"
-    documentation="Het registreren van diverse typen leerbedrijven en andere instellingen. Het gaat om de registratie van de gegevens die van belang zijn voor:&#xD;&#xA;- Het matchingsproces (bijv. reisafstand)&#xD;&#xA;- De bekostiging&#xD;&#xA;- Het opstellen van de BPV-overeenkomst &#xD;&#xA;&#xD;&#xA;In het geval van een filiaal is er de mogelijkheid om een relatie te leggen met het moederbedrijf. De uitvoeringsrol en de werkgeversrol kunnen bij verschillende bedrijven zijn belegd. Denk daarbij aan het scenario met een uitzendbureau. De relatie BPV bedrijf - detacheringsbedrijf word ook vastgelegd. "/>
+    documentation="Het registreren van diverse typen leerbedrijven en andere instellingen. Het gaat om de registratie van de gegevens die van belang zijn voor:&#xD;&#xA;- Het matchingsproces (bijv. reisafstand)&#xD;&#xA;- De bekostiging&#xD;&#xA;- Het opstellen van de BPV-overeenkomst &#xD;&#xA;&#xD;&#xA;In het geval van een filiaal is er de mogelijkheid om een relatie te leggen met het moederbedrijf. De uitvoeringsrol en de werkgeversrol kunnen bij verschillende bedrijven zijn belegd. Denk daarbij aan het scenario met een uitzendbureau. De relatie BPV bedrijf - detacheringsbedrijf word ook vastgelegd. ">
+  <properties
+      key="Input"
+      value="Contact met een potentieel BPV-bedrijf"/>
+  <properties
+      key="Proces"
+      value="Registreren BPV-bedrijfsgegevens, gekoppeld aan de registratie en erkenning bij SBB"/>
+  <properties
+      value="Geregistreerd BPV-bedrijf"/>
+</archimate:BusinessProcess>
