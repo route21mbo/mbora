@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen leerroute"
-    id="41b88735-45f7-4f61-a6a8-d0dd639339e7"/>
+    id="41b88735-45f7-4f61-a6a8-d0dd639339e7"
+    documentation="Resultaat&#xD;&#xA;* Optimale leerroute (aaneengeschakelde leertaken) voor de student o.b.v. zijn leervraag  en mogelijkheden. Tevens zijn (onderwijs) vrijstellingen bepaald.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Vrijstellingen (voor onderwijs)&#xD;&#xA;* Vastgestelde en vastgelegde leerroute"/>
