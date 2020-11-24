@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besluiten inkopen of construeren"
-    id="4a3a6a76-94b1-4b7f-a3e6-a8f104eb70da"/>
+    id="4a3a6a76-94b1-4b7f-a3e6-a8f104eb70da"
+    documentation="Nadat een mbo-school de keuze heeft gemaakt om een opleiding te starten, herzien of herijken (al dan niet als vast onderdeel van de pdca-cyclus), neemt de school de beslissing over het inkopen of in eigen beheer construeren van de examens.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Verzamel eventueel al bestaand(e) beleid of visie op inkopen of zelf construeren.&#xD;&#xA;* Neem kennis van de wijze waarop de Inspectie van het Onderwijs omgaat met het beoordelen van ingekochte examens. Raadpleeg bijvoorbeeld het document Aanpak beoordeling ingekochte exameninstrumenten en -diensten in 2012, oktober 2011.&#xD;&#xA;* Bekijk het examenplan.&#xD;&#xA;* Bespreek de voor- en nadelen van de keuzemogelijkheden. Gebruik hierbij het servicedocument Aandachtspunten inkoop, zelf of samen construeren.&#xD;&#xA;* Verken de (on)mogelijkheden van het inkopen dan wel zelf construeren. Gebruik hierbij eventueel het Kostenmodel examinering.&#xD;&#xA;* Maak een keuze over welke examens de opleiding inkoopt, welke deze in eigen beheer construeert en welke deze in samenwerking ontwikkelt. Leg de keuze vast.&#xD;&#xA;* Evalueer het proces om te komen tot een beslissing. Zijn de juiste mensen betrokken geweest, hebben we onszelf de juiste vragen gesteld en hoe verliep het keuzeproces? Benoem en beschrijf wat er goed ging en welke verbeterpunten er zijn. Rapporteer de bevindingen aan de examencommissie. Verzamel en registreer deze bevindingen.&#xD;&#xA;">
+  <properties
+      key="Proces"
+      value="Beslissen over het inkopen of in eigen beheer construeren van de examens."/>
+  <properties
+      key="Input"
+      value="Examenplan"/>
+  <properties
+      key="Output"
+      value="Besluit om examens in te kopen of in eigen beheer te construeren"/>
+</archimate:BusinessProcess>

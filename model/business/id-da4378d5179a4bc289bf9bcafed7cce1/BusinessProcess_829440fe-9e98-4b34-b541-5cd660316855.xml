@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vaststellen kaders"
-    id="829440fe-9e98-4b34-b541-5cd660316855"/>
+    id="829440fe-9e98-4b34-b541-5cd660316855"
+    documentation="De visie op examinering is een afgeleide van de algemene visie op de kwaliteit van het onderwijs. De visie geeft richting aan het examenbeleid: de inhoudelijke, procesmatige en organisatorische keuzes.&#xD;&#xA;&#xD;&#xA;Een voorbeeld van een organisatorisch keuze is: ‘we examineren alles zelf’ of ‘we besteden de examinering zoveel mogelijk uit’. Een voorbeeld van een procesmatige keuze is: ‘we betrekken het beroepenveld bij alle processen van de examinering’. De examenvisie van een sector binnen een mbo-school is een afgeleide van de examenvisie van de gehele school.&#xD;&#xA;&#xD;&#xA;Bij het op en bijstellen van de examenvisie baseert de ontwikkelaar zich op eerder opgestelde visiedocumenten over onderwijs en/of examinering en het jaarverslag van de examencommissie van het voorafgaande jaar, inclusief aanbevelingen. Te bepalen relevante partijen wordt een bijdrage gevraagd ten behoeve van het opstellen of bijstellen. Hiertoe kunnen sessies worden belegd met betrokkenen. Doel is te komen tot een kernachtige, herkenbare examenvisie. De examenvisie moet worden vastgesteld, en wordt gedeeld met de rest van de organisatie. &#xD;&#xA;&#xD;&#xA;Nadat de examenvisie, het examenreglement en het handboek examinering zijn opgesteld, stellen degenen die hiervoor bevoegd en verantwoordelijk zijn deze documenten vast. Nu liggen ze voor een bepaalde periode vast en kunt u werken aan de implementatie en uitvoering ervan.">
+  <properties
+      key="Proces"
+      value="Nadat de examenvisie, het examenreglement en het handboek examinering zijn opgesteld, worden de kaders vastgesteld"/>
+  <properties
+      key="Input"
+      value="1) Examenreglement en 2) Handboek examinering"/>
+  <properties
+      key="Output"
+      value="Kaders voor examinering"/>
+</archimate:BusinessProcess>

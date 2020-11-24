@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen leerdoelen opleiding"
-    id="c5078af8-f5cc-40c8-8331-0825ed099eb3"/>
+    id="c5078af8-f5cc-40c8-8331-0825ed099eb3"
+    documentation="Ten behoeve van de ontwikkeling of bijstelling van het opleidingsaanbod worden per opleiding de leerdoelen vastgesteld. Deze zijn enerzijds gebaseerd op de onderwijsvisie en anderzijds op de  de behoefte van (regionale) arbeidsmarkt en potentiële studenten.&#xD;&#xA;&#xD;&#xA;Deze leerdoelen zijn de basis voor het onderwijsplan en het examenplan van een opleiding.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Onderwijsvisie en regionale behoefte arbeidsmarkt"/>
+  <properties
+      key="Output"
+      value="Leerdoelen voor een (te ontwikkelen) opleiding"/>
+  <properties
+      key="Proces"
+      value="Vaststellen leerdoelen voor een (nieuwe) opleiding op basis van de behoefte van arbeidsmarkt, potentiële studenten en regio"/>
+</archimate:BusinessProcess>

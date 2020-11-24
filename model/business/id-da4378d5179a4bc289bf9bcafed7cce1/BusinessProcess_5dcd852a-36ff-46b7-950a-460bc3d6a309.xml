@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkopen examens"
-    id="5dcd852a-36ff-46b7-950a-460bc3d6a309"/>
+    id="5dcd852a-36ff-46b7-950a-460bc3d6a309"
+    documentation="De mbo-school heeft besloten om (een deel van) de examens en/of examendiensten (afname en beoordeling) in te kopen bij een (andere) exameninstelling of een examenleverancier.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Verstrek de opdracht aan de leverancier of exameninstelling die de constructie van examenproducten voor zijn rekening neemt. Het examenplan is hierbij het uitgangspunt.&#xD;&#xA;* Check de offerte/het contract op inkoopvoorwaarden én op onderwijsinhoudelijke onderdelen. Gebruik hierbij eventueel de Controlelijst inkoop examens. Let op: bij inkoop berust de verantwoordelijkheid voor het gebruik van exameninstrumenten en/of examendiensten bij de examencommissie. De inkoper is dus aanspreekbaar op de kwaliteit. Ook in het geval van samenwerking door mbo-scholen rond examinering, blijft de mbo-school verantwoordelijk voor de kwaliteit van de eigen examinering. De Inspectie van het Onderwijs voert het toezicht uit bij de mbo-school die inkoopt of de samenwerking aangaat.&#xD;&#xA;* Teken het contract en benoem een contactpersoon die de contacten onderhoudt, examens ontvangt en deze indient voor vaststelling door de examencommissie.&#xD;&#xA;* Evalueer het inkoopproces, de kwaliteit van de contracten, de samenwerking met de leverancier, et cetera. Benoem en beschrijf wat er goed ging en welke verbeterpunten er zijn. Rapporteer de bevindingen aan de examencommissie. Verzamel en registreer deze bevindingen.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="1) Besluit om (een deel van) de examens extern in te kopen en 2) Examenplan"/>
+  <properties
+      key="Output"
+      value="Ingekochte examens"/>
+  <properties
+      key="Proces"
+      value="Het extern inkopen van examens"/>
+</archimate:BusinessProcess>

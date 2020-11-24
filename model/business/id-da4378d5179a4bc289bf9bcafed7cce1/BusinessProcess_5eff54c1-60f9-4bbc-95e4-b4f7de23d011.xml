@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen examenplan"
-    id="5eff54c1-60f9-4bbc-95e4-b4f7de23d011"/>
+    id="5eff54c1-60f9-4bbc-95e4-b4f7de23d011"
+    documentation="Het examenplan geeft per kwalificatie een overzicht van de examenonderdelen en examens die een mbo-school inzet voor de examinering (kwalificerende beoordeling). Het examenplan geeft inzicht in de onderdelen die een student met een voldoende moet afsluiten om in aanmerking te komen voor een diploma.&#xD;&#xA;&#xD;&#xA;In het examenplan staat binnen welke omgeving (mbo-school of beroepspraktijk) de examens plaatsvinden. Hierbij houdt de school rekening met de praktische haalbaarheid van de examinering binnen de praktijksituatie en de afspraken in het sectoraal examenprofiel. In een examenplan staan de examenonderdelen en examens voor de beroepsgerichte eisen en de generieke taal- en rekeneisen. Ook de wijze waarop een school deze onderdelen examineert, staat in het examenplan.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING PROCESSTAPPEN:&#xD;&#xA;&#xD;&#xA;* Verzamel het examenplan en de verbeterplannen van vorig jaar.&#xD;&#xA;* Verzamel actuele sector- en opleidingspecifieke documenten, zoals het sectorale examenprofiel en het kwalificatiedossier.&#xD;&#xA;* Bekijk samen of er aanleiding is om het examenplan van vorig jaar aan te vullen of bij te stellen.&#xD;&#xA;* Stel het examenplan op of bij. Gebruik hierbij eventueel het servicedocument Format examenplan.&#xD;&#xA;* Leg het bijgestelde examenplan voor aan een aantal externe betrokkenen uit het bedrijfsleven om de herkenbaarheid, organiseerbaarheid en haalbaarheid te toetsen.&#xD;&#xA;* Dien het examenplan in voor vaststelling.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="1) Leerdoelen van de opleiding en 2) Kaders examinering"/>
+  <properties
+      key="Proces"
+      value="Opstellen examenplan met daarin per kwalificatie de examenonderdelen en examens die een student met een voldoende moet afsluiten om in aanmerking te komen voor een diploma."/>
+  <properties
+      key="Output"
+      value="Examenplan"/>
+</archimate:BusinessProcess>

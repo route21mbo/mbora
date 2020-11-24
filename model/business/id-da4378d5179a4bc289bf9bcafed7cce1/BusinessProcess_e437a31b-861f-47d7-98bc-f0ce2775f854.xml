@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen handboek examinering"
-    id="e437a31b-861f-47d7-98bc-f0ce2775f854"/>
+    id="e437a31b-861f-47d7-98bc-f0ce2775f854"
+    documentation="In het handboek examinering beschrijft de mbo-school de visie op examinering: de processen en procedures van de examinering, de taken, verantwoordelijkheden en bevoegdheden van alle betrokkenen bij examinering. Het handboek examinering is toegankelijk voor deze betrokkenen. De informatie moet voor hen snel en eenvoudig beschikbaar zijn. De inhoud van het handboek is afgeleid van de wettelijke kaders, de examenvisie en het examenreglement.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Verzamel de bijgestelde examenvisie, het examenreglement en verbeterplannen van vorig jaar.&#xD;&#xA;* Bekijk of er, gezien de documenten, aanleiding is om het al bestaande handboek examinering aan te passen.&#xD;&#xA;* Pas het handboek examinering aan of stel het handboek op. Gebruik hiervoor het servicedocument Voorbeeld inhoudsopgave handboek examinering.&#xD;&#xA;* Dien het handboek examinering in voor vaststelling.&#xD;&#xA;">
+  <properties
+      key="Proces"
+      value="Beschrijven van de processen en procedures van de examinering, de taken, verantwoordelijkheden en bevoegdheden van alle betrokkenen bij examinering"/>
+  <properties
+      key="Input"
+      value="1) wettelijke kaders, 2) examenvisie en 3) het examenreglement"/>
+  <properties
+      key="Output"
+      value="Handboek examinering"/>
+</archimate:BusinessProcess>

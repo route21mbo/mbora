@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Construeren examens"
-    id="4d357449-fb8e-4a84-94c6-a442d8f7e196"/>
+    id="4d357449-fb8e-4a84-94c6-a442d8f7e196"
+    documentation="De mbo-school heeft besloten om (een deel van de) examens in eigen beheer te construeren.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Bepaal welke constructeurs de school inzet voor het construeren van de examens uit het examenplan. Gebruik de BET Examentoetsen construeren om de taak van de constructeurs te verduidelijken en een duidelijke opdracht te formuleren.&#xD;&#xA;* Stel een plan op voor het construeren (en vaststellen) van de examens. Gebruik hierbij het servicedocument Jaarplanning construeren en vaststellen.&#xD;&#xA;* Verstrek een duidelijke opdracht aan de constructeur(s).&#xD;&#xA;* Verzamel relevante in- en externe documenten. Dat zijn in ieder geval: de landelijke kaders (normenbundel exameninstrumenten, het kwalificatiedossier en het sectorale examenprofiel), het examenplan en de examenvisie.&#xD;&#xA;* Stel een toetsmatrijs op. Gebruik hierbij eventueel het servicedocument Format toetsmatrijs pvb/praktijktoets of het servicedocument Format toetsmatrijs schriftelijk examen.&#xD;&#xA;* Laat de examencommissie de toetsmatrijs vaststellen.&#xD;&#xA;* Ontwikkel het examen, inclusief opdrachten/vragen, antwoordmodel, instructie voor de studenten, organisatoren en beoordelaars. Gebruik in het geval van een proeve van bekwaamheid het servicedocument Construeren van een pvb in acht stappen.&#xD;&#xA;* Dien het examen in ter vaststelling.&#xD;&#xA;* Evalueer het constructieproces, de kwaliteit van de formats, het verloop van het proces en de (eigen) deskundigheid van de constructeurs. Benoem en beschrijf wat er goed ging en welke verbeterpunten er zijn. Rapporteer de bevindingen aan de examencommissie. Verzamel en registreer deze bevindingen.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="1) Besluit om (een deel van) de examens in eigen beheer te construeren en 2) Examenplan"/>
+  <properties
+      key="Proces"
+      value="Het construeren (ontwikkelen) van examens"/>
+  <properties
+      key="Output"
+      value="In eigen beheer geconstrueerde (ontwikkelde) examens"/>
+</archimate:BusinessProcess>

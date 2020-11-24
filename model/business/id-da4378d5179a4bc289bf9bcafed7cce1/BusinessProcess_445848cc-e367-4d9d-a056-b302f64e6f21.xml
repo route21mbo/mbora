@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen examenreglement"
     id="445848cc-e367-4d9d-a056-b302f64e6f21"
-    documentation="OPmerking Jef"/>
+    documentation="Het examenreglement is het juridisch kader dat voor elke student de transparantie en betrouwbaarheid van het examenproces waarborgt. Het examenreglement moet bekend zijn bij de student en op bijvoorbeeld de website van de school staan. In het examenreglement staan de formele regels en afspraken waar iedereen die bij examinering en diplomering betrokken is, zich aan houdt. Er zijn regels en afspraken opgenomen over bijvoorbeeld fraude, herkansingen, bewaartermijnen en beroep. Het gaat om formele, juridische afspraken en kaders.&#xD;&#xA;&#xD;&#xA;MOGELIJKE PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Verzamel de bijgestelde examenvisie, het examenreglement en de verbeterplannen van vorig jaar.&#xD;&#xA;* Bekijk of er, gezien de documenten, aanleiding is om het al bestaande examenreglement aan te passen.&#xD;&#xA;* Pas het examenreglement aan of stel het examenreglement op. Gebruik hiervoor eventueel het servicedocument Handreiking inhoud examenreglement.&#xD;&#xA;* Dien het examenreglement in voor vaststelling.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Visie op onderwijs en exameninering"/>
+  <properties
+      key="Output"
+      value="Examenreglement"/>
+  <properties
+      key="Proces"
+      value="Opstellen van de formele, juridische afspraken en kaders met betrekking tot de examinering"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,15 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vaststellen examens"
-    id="d094f664-46dd-45c1-ac9c-bce5c8604c00"/>
+    id="d094f664-46dd-45c1-ac9c-bce5c8604c00"
+    documentation="Het is de wettelijke taak van de examencommissie om de examenproducten vast te stellen. Hierbij kan zij zich laten adviseren door een vaststellingsadviescommissie.&#xD;&#xA;&#xD;&#xA;Als de mbo-school de uitvoering van de examinering (ofwel de afname van het examen) zelf uitvoert, en dus niet uitbesteedt aan een examenleverancier of een (andere) exameninstelling, stelt de mbo-school de ontwikkelde en ingekochte examenproducten vast.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Bepaal op basis van de in- en externe kwaliteitseisen die de mbo-school aan de examens stelt, wanneer een examen wordt vastgesteld. Beschrijf dit in een vaststellingslijst. Gebruik hiervoor eventueel de servicedocumenten Vaststellingslijst kennisexamen en Vaststellingslijst praktijkexamen.&#xD;&#xA;* De examencommissie/vaststellingscommissie kan voor examens bepalen dat het een examen met een laag risico betreft, bijvoorbeeld als er wordt ingekocht bij gecertificeerde leveranciers. Leg vast aan welke kwaliteitseisen een dergelijk examen minimaal moet voldoen. Gebruik hiervoor eventueel het servicedocument Vaststellingslijst examens met een laag risico.&#xD;&#xA;* Beoordeel de ingediende examens op basis van de vaststellingslijsten.&#xD;&#xA;* Als de examencommissie het examen niet kan vaststellen, voorzie dan de constructeur of de leverancier van feedback. De vaststellingslijst dient hiervoor als basis.&#xD;&#xA;* Stel het examen vast en registreer/administreer dit.&#xD;&#xA;* Evalueer de vaststellingsaanpak, de kwaliteit van de vaststellingslijsten, het verloop van het proces en de deskundigheid van de vaststellers. Benoem en beschrijf wat er goed ging en welke verbeterpunten er zijn. Rapporteer de bevindingen aan de examencommissie.&#xD;&#xA;">
+  <properties
+      key="Proces"
+      value="Vaststellen van de ingekochte of in eigen beheer geconstrueerde examenproducten door de examencommissie"/>
+  <properties
+      key="Input"
+      value="Ingekochte of in eigen beheer geconstrueerde examenproducten"/>
+  <properties
+      key="Output"
+      value="Vastgestelde examenproducten"/>
+</archimate:BusinessProcess>
