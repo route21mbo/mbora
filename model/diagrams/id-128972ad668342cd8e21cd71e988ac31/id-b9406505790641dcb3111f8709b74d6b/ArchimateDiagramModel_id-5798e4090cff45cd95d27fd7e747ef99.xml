@@ -191,7 +191,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8713d06b89424c6f938fdccc4d47e248"
-        targetConnections="id-6f4bca45ed7f40d9b9ead2a3a0ff0db7 id-89de7cf5c56c474e95d427abb6f60cce id-2ca078a27f92492db6f1906ddbba4424 id-b1059cd58a2b4d58b7962ebed25ac598">
+        targetConnections="id-6f4bca45ed7f40d9b9ead2a3a0ff0db7 id-89de7cf5c56c474e95d427abb6f60cce id-2ca078a27f92492db6f1906ddbba4424">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cd24d0a01b664f7b8bd7cfd26f0700da"
@@ -1375,15 +1375,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f064ab35238b46839dbc45fd04d6ee35">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b1059cd58a2b4d58b7962ebed25ac598"
-        source="id-f064ab35238b46839dbc45fd04d6ee35"
-        target="id-8713d06b89424c6f938fdccc4d47e248">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-d2d9e10d20344879b13f67bd6ce38164.xml#id-d2d9e10d20344879b13f67bd6ce38164"/>
-    </sourceConnections>
     <bounds
         x="504"
         y="1392"
