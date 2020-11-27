@@ -240,6 +240,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_8dbd97a0-1253-4261-9a2b-8a0977af8e45.xml#8dbd97a0-1253-4261-9a2b-8a0977af8e45"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f891a3f7-93eb-412d-8be0-4c5c51a4876d"
+        source="3b139fd1-773b-4386-928d-b9b0cd2b4e39"
+        target="adad4985-65d0-440b-8072-3f1d3639dd5f">
+      <bendpoints
+          startX="-12"
+          startY="174"
+          endX="-504"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_5ce96b7f-22be-491c-8c84-7f34fc0af126.xml#5ce96b7f-22be-491c-8c84-7f34fc0af126"/>
+    </sourceConnections>
     <bounds
         x="60"
         y="60"
@@ -284,20 +298,6 @@
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_29816095-b5e1-4208-a36e-cf3a8f32c228.xml#29816095-b5e1-4208-a36e-cf3a8f32c228"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="f891a3f7-93eb-412d-8be0-4c5c51a4876d"
-          source="f117a320-2c07-42e0-9f9d-2caecb7f7f1d"
-          target="adad4985-65d0-440b-8072-3f1d3639dd5f">
-        <bendpoints
-            startX="-12"
-            startY="174"
-            endX="-504"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_5ce96b7f-22be-491c-8c84-7f34fc0af126.xml#5ce96b7f-22be-491c-8c84-7f34fc0af126"/>
       </sourceConnections>
       <bounds
           x="12"
@@ -436,7 +436,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="adad4985-65d0-440b-8072-3f1d3639dd5f"
-        targetConnections="41d1d0da-d1c4-4bb6-b7c5-2845ae19fc91 f891a3f7-93eb-412d-8be0-4c5c51a4876d b1809677-4a01-4cdd-843f-d3e89163d1d1">
+        targetConnections="41d1d0da-d1c4-4bb6-b7c5-2845ae19fc91 b1809677-4a01-4cdd-843f-d3e89163d1d1 f891a3f7-93eb-412d-8be0-4c5c51a4876d">
       <bounds
           x="216"
           y="24"
