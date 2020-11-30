@@ -275,4 +275,15 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-d8aec8c170d845caaa6004d1bf66fd40.xml#id-d8aec8c170d845caaa6004d1bf66fd40"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c73a4f2d088f400daa73ceeeedb6410a"
+      textAlignment="1"
+      content="M&amp;F&#xA;De verantwoording over financien, accountantscontrole, onderwijskwaliteit, etc is nog niet als proces benoemd en moet nog worden toegevoegd. De services kunnen we al wel intekenen als die er zijn.">
+    <bounds
+        x="1032"
+        y="96"
+        width="384"
+        height="180"/>
+  </children>
 </archimate:ArchimateDiagramModel>

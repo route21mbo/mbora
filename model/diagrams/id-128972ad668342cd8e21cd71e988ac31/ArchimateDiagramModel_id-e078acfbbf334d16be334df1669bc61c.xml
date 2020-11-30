@@ -1221,4 +1221,15 @@
         width="481"
         height="481"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-53aa725059b8410eba686f30470d2dce"
+      textAlignment="1"
+      content="&#xA;M&amp;F&#xA;Plagiaat detectie als service onderdeel maken van Inleveren opdrachten?&#xA;&#xA;Tekenen BPV is of met handtekekening, of met electronische tekening. Bij inschrijven is de Service &quot;document waarmerking en ondertekening&quot;. Die kan hier ook.">
+    <bounds
+        x="852"
+        y="552"
+        width="421"
+        height="157"/>
+  </children>
 </archimate:ArchimateDiagramModel>
