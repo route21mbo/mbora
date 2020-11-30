@@ -72,7 +72,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ef956befb5bb44549e0c9f12561db5b2"
-      targetConnections="id-2bace648b99943e780d676edc5d3173b">
+      targetConnections="id-2bace648b99943e780d676edc5d3173b id-af9d7cf264f541f88ea25dbcea673f1d">
     <bounds
         x="336"
         y="48"
@@ -257,5 +257,37 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-f8e06f9d185f462092c3712fce9ae456.xml#id-f8e06f9d185f462092c3712fce9ae456"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-83bc226d685f40e4a24300cb2941d3bc">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-af9d7cf264f541f88ea25dbcea673f1d"
+        source="id-83bc226d685f40e4a24300cb2941d3bc"
+        target="id-ef956befb5bb44549e0c9f12561db5b2">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-a921b023c86a4c8d8a70851c04799571.xml#id-a921b023c86a4c8d8a70851c04799571"/>
+    </sourceConnections>
+    <bounds
+        x="636"
+        y="57"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-0046abd068ee410489bdbde20f058e22.xml#id-0046abd068ee410489bdbde20f058e22"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e320a974f0a94c38b9c435f8fb057a52"
+      textAlignment="1"
+      content="Henry&#xD;&#xA;&#xD;&#xA;30-11-2020 &#xD;&#xA;&#xD;&#xA;Kon geen applicatie service vinden&#xD;&#xA;&#xD;&#xA;Teamplan kan op basis van A3 methodiek, BMC etc.&#xD;&#xA;&#xD;&#xA;Ook naar aanleiding van teamplaat onderwijskwaliteit (TPO)&#xD;&#xA;&#xD;&#xA;Hier als mogelijke naam PDCA applicatieservice opgenomen &#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="888"
+        y="60"
+        width="216"
+        height="252"/>
   </children>
 </archimate:ArchimateDiagramModel>
