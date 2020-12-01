@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Examenplanbeheer"
-    id="id-f4e19e98e25d447faf5e91f263fbd9b5"/>
+    id="id-f4e19e98e25d447faf5e91f263fbd9b5"
+    documentation="Beheert per kwalificatie  de examenonderdelen, examens en examencontext die een mbo-school inzet voor de examinering "/>
