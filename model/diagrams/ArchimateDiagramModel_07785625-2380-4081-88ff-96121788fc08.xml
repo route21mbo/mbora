@@ -914,20 +914,22 @@
           source="763df78b-a3f9-4914-a10a-36165485e20a"
           target="89f42557-4129-4263-8671-4fba00b329c5">
         <bendpoints
-            startX="324"
-            endX="-456"
-            endY="150"/>
+            startX="408"
+            startY="-3"
+            endX="-372"
+            endY="114"/>
         <bendpoints
-            startX="648"
-            endX="-132"
-            endY="150"/>
+            startX="408"
+            startY="-63"
+            endX="-372"
+            endY="54"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_a2f5be76-f434-4930-b101-8f252bbe2c88.xml#a2f5be76-f434-4930-b101-8f252bbe2c88"/>
       </sourceConnections>
       <bounds
           x="12"
-          y="96"
+          y="60"
           width="145"
           height="61"/>
       <archimateElement
