@@ -279,11 +279,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c73a4f2d088f400daa73ceeeedb6410a"
       textAlignment="1"
-      content="M&amp;F&#xA;De verantwoording over financien, accountantscontrole, onderwijskwaliteit, etc is nog niet als proces benoemd en moet nog worden toegevoegd. De services kunnen we al wel intekenen als die er zijn.">
+      content="M&amp;F&#xA;De verantwoording over financien, accountantscontrole, onderwijskwaliteit, etc is nog niet als proces benoemd en moet nog worden toegevoegd. De services kunnen we al wel intekenen als die er zijn.&#xD;&#xA;&#xD;&#xA;Arjan:&#xD;&#xA;Financieel verantwoorden bestaat, zie view 'Financieel Management', echter men heeft gekozen omdat geen onderdeel te maken van extern verantwoorden, zoals je in de view kan zien is er sprake van een trigger geen compositie of aggregatie.&#xD;&#xA;We hadden eerder afgesproken om alleen de processen en diens deelprocessen uit te werken, die ook terug komen in het HPM. Dan is voor financieel verantwoorden niet het geval.&#xD;&#xA;&#xD;&#xA;Idem voor onderwijskwaliteit, deze heeft men ondergebracht bij 'Strategie, beleid en sturing'.&#xD;&#xA;&#xD;&#xA;Overigens vind ik wel dat die zaken terug moeten (gaan) komen bij extern verantwoorden, als ik de rijksoverheid site bevraag dan stelt deze dat alle scholen minimaal:&#xD;&#xA;- Jaarverslag &amp; financieel beleid rapporteren&#xD;&#xA;- Alle zaken op aanvraag inspectie van het onderwijs&#xD;&#xA;- Rapporteren welke interne toezicht plaatsvind betreffende kwaliteit onderwijs&#xD;&#xA;- Aantonen dat de scholen over interne financiele deskundigheid/competentie beschikt&#xD;&#xA;&#xD;&#xA;Kortom hiervoor moeten we eerst met werkgroep 2 gaan praten.">
     <bounds
         x="1032"
         y="96"
-        width="384"
-        height="180"/>
+        width="673"
+        height="385"/>
   </children>
 </archimate:ArchimateDiagramModel>
