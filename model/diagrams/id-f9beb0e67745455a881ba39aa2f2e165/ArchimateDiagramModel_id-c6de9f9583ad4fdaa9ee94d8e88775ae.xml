@@ -936,7 +936,7 @@
         <bounds
             x="36"
             y="36"
-            width="181"
+            width="193"
             height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
@@ -4555,7 +4555,7 @@
             x="36"
             y="36"
             width="181"
-            height="49"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-9aef35badc24454a8de223643fb9d65e.xml#id-9aef35badc24454a8de223643fb9d65e"/>

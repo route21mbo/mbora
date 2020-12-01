@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijscatalogus beheersysteem"
+    name="Opleidingscatalogus beheersysteem"
     id="id-b0cf92157e804967a84dc7cdbb1147dc"
     documentation="Een systeem voor de  registratie en het beheer van de verzameling opleidingen en cursussen van de instellling; ook wel het onderwijsaanbod genoemd.">
   <properties
