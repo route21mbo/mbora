@@ -71,7 +71,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f2cd53ae3a924fcf8273765de9daa7c0"
-        targetConnections="id-36124bff4c094f02b88800fad7307ee3 id-50151ea815fe4d51ad4a3cacb81774f6">
+        targetConnections="id-36124bff4c094f02b88800fad7307ee3 id-50151ea815fe4d51ad4a3cacb81774f6 id-553a0f6c4dfd4f7881278de982b64f2c">
       <bounds
           x="48"
           y="36"
@@ -297,7 +297,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-7c1edc72d8244badb54fd7c552d3b9da"
-          targetConnections="id-fafe035b594f44f5bfe6fcf70c340e4e">
+          targetConnections="id-fafe035b594f44f5bfe6fcf70c340e4e id-acd077f0ffc44afe992348ffdf71c62c id-e5be135a341f4f50b868e0a58c918a2e">
         <bounds
             x="12"
             y="264"
@@ -323,7 +323,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-36fd86219b354029bde5f4cad91148b2"
-          targetConnections="id-521eee8d2f6144c7ab787fc8290eb433">
+          targetConnections="id-521eee8d2f6144c7ab787fc8290eb433 id-2b5901e3358c40f4ae95fdd68f7ca988">
         <bounds
             x="12"
             y="48"
@@ -471,8 +471,14 @@
         source="id-e59446454a0344e7816d423a200d1d6e"
         target="id-0e9e15c97f5d4786923d8c25d2afc434">
       <bendpoints
+          startX="117"
+          startY="-3"
+          endX="441"
+          endY="-690"/>
+      <bendpoints
+          startX="117"
           startY="693"
-          endX="324"
+          endX="441"
           endY="6"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -517,9 +523,28 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-c008dbc321ff4b65a891c20022f83f93.xml#id-c008dbc321ff4b65a891c20022f83f93"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2b5901e3358c40f4ae95fdd68f7ca988"
+        source="id-6f45ef3077cb474fb3c7436a158eab7b"
+        target="id-36fd86219b354029bde5f4cad91148b2">
+      <bendpoints
+          startX="-150"
+          startY="12"
+          endX="171"
+          endY="-279"/>
+      <bendpoints
+          startX="-150"
+          startY="288"
+          endX="171"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-e6345ccc2db048df8ce07b4c86d85250.xml#id-e6345ccc2db048df8ce07b4c86d85250"/>
+    </sourceConnections>
     <bounds
-        x="573"
-        y="252"
+        x="564"
+        y="264"
         width="180"
         height="48"/>
     <archimateElement
@@ -538,17 +563,13 @@
         id="id-d95103141a9542c7b39058dad4ced26c"
         source="id-c1c4ba7925714ff99fd08777adbf6048"
         target="id-d75fcb03fdb042e08050599a8ea6640d">
-      <bendpoints
-          startX="-168"
-          endX="156"
-          endY="93"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-d21d7dee2f1f44f8b25465bd279ae017.xml#id-d21d7dee2f1f44f8b25465bd279ae017"/>
     </sourceConnections>
     <bounds
         x="573"
-        y="336"
+        y="192"
         width="180"
         height="48"/>
     <archimateElement
@@ -561,8 +582,8 @@
       textAlignment="1"
       content="Elmar: 24-11-21 aanpassing i.r.t. deelprocessen view alumnibeheer&#xD;&#xA;- Inschrijven alumni voorzien van 1 nieuw deelproces 'verkrijgen intersses en voorkeuren en het bestaande deelproces Registreren Kennis en ervaring&#xD;&#xA;&#xD;&#xA;Services misschien aanpassen in meer specifiek CRM services?&#xD;&#xA;&#xD;&#xA; ">
     <bounds
-        x="780"
-        y="377"
+        x="804"
+        y="372"
         width="421"
         height="92"/>
   </children>
@@ -572,9 +593,75 @@
       textAlignment="1"
       content="Elmar: 24-11-21 aanpassing i.r.t. deelprocessen view alumnibeheer&#xD;&#xA;- Deelprocessen van Samenwerking met Alumni hernoemt&#xD;&#xA;- Deelprocessen van Samenwerking met Alumni aangevuld met 'Informeren over instelling ontwikkelingen' en 'uitvragen kwaliteit van onderwijs'&#xD;&#xA; ">
     <bounds
-        x="780"
+        x="816"
         y="732"
         width="421"
         height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-35b0d4d45b494f1b99877c1c31f7869b"
+      fillColor="#ff0000">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-553a0f6c4dfd4f7881278de982b64f2c"
+        source="id-35b0d4d45b494f1b99877c1c31f7869b"
+        target="id-f2cd53ae3a924fcf8273765de9daa7c0">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-b44b601142ff46159ce0e7c47633af5d.xml#id-b44b601142ff46159ce0e7c47633af5d"/>
+    </sourceConnections>
+    <bounds
+        x="576"
+        y="12"
+        width="193"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-f57a1d9eaf3b4fd6b43d23af9067b224.xml#id-f57a1d9eaf3b4fd6b43d23af9067b224"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f913d96645a84cfaa349ab4de9ac36ae"
+      fillColor="#ff0000">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-acd077f0ffc44afe992348ffdf71c62c"
+        source="id-f913d96645a84cfaa349ab4de9ac36ae"
+        target="id-7c1edc72d8244badb54fd7c552d3b9da">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-c6337dc64f694c2b8495a3b7c558371d.xml#id-c6337dc64f694c2b8495a3b7c558371d"/>
+    </sourceConnections>
+    <bounds
+        x="551"
+        y="768"
+        width="205"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-5054aa3dfa514bfebf111b8810b3f2e6.xml#id-5054aa3dfa514bfebf111b8810b3f2e6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d826a49eb3d94f90a433ed03e3ffba67"
+      fillColor="#ff0000">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e5be135a341f4f50b868e0a58c918a2e"
+        source="id-d826a49eb3d94f90a433ed03e3ffba67"
+        target="id-7c1edc72d8244badb54fd7c552d3b9da">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-fcc50e7b119e4f96801d31d8f2327298.xml#id-fcc50e7b119e4f96801d31d8f2327298"/>
+    </sourceConnections>
+    <bounds
+        x="551"
+        y="840"
+        width="199"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-1dc0eafe76d74b12a44bd01911026c22.xml#id-1dc0eafe76d74b12a44bd01911026c22"/>
   </children>
 </archimate:ArchimateDiagramModel>
