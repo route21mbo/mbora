@@ -1192,12 +1192,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a24daa83d9404c45a1f4108af3aeec8a"
       textAlignment="1"
-      content="Suggesties Rene:&#xD;&#xA;&#xD;&#xA;Proces Inzetten middelen ontbrak&#xD;&#xA;&#xD;&#xA;Portaaldienst extern weglaten&#xA;M&amp;F: Niet deze weghalen, maar juist &quot;Opleidingsaanbod aanbieden&quot;. Zie onze notities bij &quot;Instroom&quot; &#xD;&#xA;&#xD;&#xA;Relatie tussen Student basis gegs beheren en aanmelden keuzedelen gelegd (een nivootje lager dan het was)&#xD;&#xA;&#xD;&#xA;BPV matching zit volgens mij niet in deze view daarom de srv rood gemaakt&#xD;&#xA;&#xD;&#xA;Enkele dubbele relaties in proces AAR verwijderd&#xD;&#xA;&#xD;&#xA;Nwe srv Beheren inschrijving geplot. Die vervang dan soms stud basisgegs beheren&#xD;&#xA;&#xD;&#xA;Discussie nodig:  Srv aanmelden opleiding vs Proces aanmelden module&#xD;&#xA;&#xD;&#xA;Relatie weghalen tussen Leerarrangementenbeheer en Afhandelen niet planbare arrangementen...?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Suggesties Rene:&#xD;&#xA;&#xD;&#xA;Proces Inzetten middelen ontbrak&#xD;&#xA;&#xD;&#xA;Portaaldienst extern weglaten&#xD;&#xA;&#xA;M&amp;F: Niet deze weghalen, maar juist &quot;Opleidingsaanbod aanbieden&quot;. Zie onze notities bij &quot;Instroom&quot; &#xD;&#xA;&#xD;&#xA;Relatie tussen Student basis gegs beheren en aanmelden keuzedelen gelegd (een nivootje lager dan het was)&#xD;&#xA;&#xD;&#xA;BPV matching zit volgens mij niet in deze view daarom de srv rood gemaakt&#xD;&#xA;&#xD;&#xA;Enkele dubbele relaties in proces AAR verwijderd&#xD;&#xA;&#xD;&#xA;Nwe srv Beheren inschrijving geplot. Die vervang dan soms stud basisgegs beheren&#xD;&#xA;&#xD;&#xA;Discussie nodig:  Srv aanmelden opleiding vs Proces aanmelden module&#xD;&#xA;&#xD;&#xA;Relatie weghalen tussen Leerarrangementenbeheer en Afhandelen niet planbare arrangementen...?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1164"
         y="61"
-        width="443"
-        height="198"/>
+        width="445"
+        height="252"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
