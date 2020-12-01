@@ -624,7 +624,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-35d75628722a441d8f93bc10d256f6d6"
-        targetConnections="id-aed2b9242e0e4f47a6b48be989af45e1 id-e2ec34fbaafe417fb917eb6c02f7e09e id-a5a9f142ed6149be8edf7c5bd7595b41">
+        targetConnections="id-aed2b9242e0e4f47a6b48be989af45e1 id-e2ec34fbaafe417fb917eb6c02f7e09e">
       <bounds
           x="12"
           y="132"
@@ -929,10 +929,10 @@
         source="id-6427247f35af495582570141c9dd452e"
         target="id-83e4cef66fb94d83a4247e025739da71">
       <bendpoints
-          startX="30"
+          startX="-18"
           startY="801"
-          endX="930"
-          endY="21"/>
+          endX="882"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-718c00f5a08e4afc9e8b01a9ee7d4a38.xml#id-718c00f5a08e4afc9e8b01a9ee7d4a38"/>
@@ -950,20 +950,6 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-157b2d43ebe5476787c521df44bf300b.xml#id-157b2d43ebe5476787c521df44bf300b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a5a9f142ed6149be8edf7c5bd7595b41"
-        source="id-6427247f35af495582570141c9dd452e"
-        target="id-35d75628722a441d8f93bc10d256f6d6">
-      <bendpoints
-          startX="-42"
-          startY="105"
-          endX="858"
-          endY="9"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-6af742c6f89a43118a067f68e376d208.xml#id-6af742c6f89a43118a067f68e376d208"/>
     </sourceConnections>
     <bounds
         x="1284"
@@ -1192,7 +1178,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a24daa83d9404c45a1f4108af3aeec8a"
       textAlignment="1"
-      content="Suggesties Rene:&#xD;&#xA;&#xD;&#xA;Proces Inzetten middelen ontbrak&#xD;&#xA;&#xD;&#xA;Portaaldienst extern weglaten&#xD;&#xA;&#xA;M&amp;F: Niet deze weghalen, maar juist &quot;Opleidingsaanbod aanbieden&quot;. Zie onze notities bij &quot;Instroom&quot; &#xD;&#xA;&#xD;&#xA;Relatie tussen Student basis gegs beheren en aanmelden keuzedelen gelegd (een nivootje lager dan het was)&#xD;&#xA;&#xD;&#xA;BPV matching zit volgens mij niet in deze view daarom de srv rood gemaakt&#xD;&#xA;&#xD;&#xA;Enkele dubbele relaties in proces AAR verwijderd&#xD;&#xA;&#xD;&#xA;Nwe srv Beheren inschrijving geplot. Die vervang dan soms stud basisgegs beheren&#xD;&#xA;&#xD;&#xA;Discussie nodig:  Srv aanmelden opleiding vs Proces aanmelden module&#xD;&#xA;&#xD;&#xA;Relatie weghalen tussen Leerarrangementenbeheer en Afhandelen niet planbare arrangementen...?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Suggesties Rene:&#xD;&#xA;&#xD;&#xA;Proces Inzetten middelen ontbrak&#xD;&#xA;&#xD;&#xA;Portaaldienst extern weglaten&#xD;&#xA;&#xA;M&amp;F: Niet deze weghalen, maar juist &quot;Opleidingsaanbod publicatie&quot;. Zie onze notities bij &quot;Instroom&quot; &#xD;&#xA;&#xD;&#xA;Relatie tussen Student basis gegs beheren en aanmelden keuzedelen gelegd (een nivootje lager dan het was)&#xD;&#xA;&#xD;&#xA;BPV matching zit volgens mij niet in deze view daarom de srv rood gemaakt&#xD;&#xA;&#xD;&#xA;Enkele dubbele relaties in proces AAR verwijderd&#xD;&#xA;&#xD;&#xA;Nwe srv Beheren inschrijving geplot. Die vervang dan soms stud basisgegs beheren&#xD;&#xA;&#xD;&#xA;Discussie nodig:  Srv aanmelden opleiding vs Proces aanmelden module&#xD;&#xA;&#xD;&#xA;Relatie weghalen tussen Leerarrangementenbeheer en Afhandelen niet planbare arrangementen...?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1164"
         y="61"

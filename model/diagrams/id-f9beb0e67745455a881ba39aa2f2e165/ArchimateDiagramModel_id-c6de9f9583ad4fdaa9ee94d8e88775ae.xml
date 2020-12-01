@@ -3694,7 +3694,7 @@
             x="36"
             y="36"
             width="181"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-fc66a20fd29f40bcaebab3b2132a2a4d.xml#id-fc66a20fd29f40bcaebab3b2132a2a4d"/>
