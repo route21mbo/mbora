@@ -556,23 +556,6 @@
         href="ApplicationService_id-f9eaf80f377d4a6bb7f89294f3f888f1.xml#id-f9eaf80f377d4a6bb7f89294f3f888f1"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0724bbf3c4a24b428b712d43c71439c4"
-      targetConnections="id-7bf87001e5fe4833b1ada2e183a5d671"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <bounds
-        x="573"
-        y="156"
-        width="180"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-3cf4e1b171e24424aac0851800e428d3.xml#id-3cf4e1b171e24424aac0851800e428d3"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-2ddea685252d474e85328693514896fd"
       textAlignment="1"
@@ -582,27 +565,6 @@
         y="377"
         width="421"
         height="92"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9c1bbd5d39074187a77bdac7fbf947af"
-      textAlignment="1"
-      content="'Opleidingsaanbod aanbieden' kan weg omdat dit eerst verwees naar het deelproces 'opleiding aanbieden' van 'Alumnibeheer'. 'opleiding aanbieden' is verwijdert als deelproces omdat het feitelijk verwijst naar de werving activiteiten van het Hoofdproces instroom van het onderwijs.">
-    <sourceConnections
-        id="id-7bf87001e5fe4833b1ada2e183a5d671"
-        source="id-9c1bbd5d39074187a77bdac7fbf947af"
-        target="id-0724bbf3c4a24b428b712d43c71439c4">
-      <bendpoints
-          startX="-183"
-          startY="-39"
-          endX="117"
-          endY="-39"/>
-    </sourceConnections>
-    <bounds
-        x="792"
-        y="137"
-        width="343"
-        height="93"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

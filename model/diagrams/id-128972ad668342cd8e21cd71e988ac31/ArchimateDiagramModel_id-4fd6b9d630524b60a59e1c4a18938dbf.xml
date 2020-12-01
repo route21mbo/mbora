@@ -173,7 +173,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-201a6bcdec964d699bab55045da1a45a"
-      targetConnections="id-98916a1a2cab41ed9f6bef279471184f id-58676580075e4c33875e981a3dc473d7 id-4e1e2596cc4043a1afdf2556b90e52a1 id-9f98ccd9918046098ec451d3051cffff id-89662bb858e044528ae63ccc85300dee id-00e1724c8017429ab1cedcfeb7c2bfa5">
+      targetConnections="id-98916a1a2cab41ed9f6bef279471184f id-58676580075e4c33875e981a3dc473d7 id-4e1e2596cc4043a1afdf2556b90e52a1 id-9f98ccd9918046098ec451d3051cffff id-89662bb858e044528ae63ccc85300dee">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f088ec81591d48cd98276910d5fe4242"
@@ -253,7 +253,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-af922fa113134da4becf8c0801bf2bc3"
-        targetConnections="id-8bf0c3b52c9d4a8892f28d9c9b5c048d id-31caf2ee118d4e9c8c526d300439d80c id-2fd5aa0dd6af465fb9dd6380910c6d33">
+        targetConnections="id-8bf0c3b52c9d4a8892f28d9c9b5c048d id-2fd5aa0dd6af465fb9dd6380910c6d33">
       <bounds
           x="25"
           y="156"
@@ -374,7 +374,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ec454dd070f14fddabe95fc5ac0c0515">
+      id="id-ec454dd070f14fddabe95fc5ac0c0515"
+      targetConnections="id-0b58c0b031de4a708fd72e7f804649c7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-58676580075e4c33875e981a3dc473d7"
@@ -524,16 +525,16 @@
       id="id-7676e63db62c45818fac7016ac3f9901">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-31caf2ee118d4e9c8c526d300439d80c"
+        id="id-0b58c0b031de4a708fd72e7f804649c7"
         source="id-7676e63db62c45818fac7016ac3f9901"
-        target="id-af922fa113134da4becf8c0801bf2bc3">
+        target="id-ec454dd070f14fddabe95fc5ac0c0515">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-eec041e4613c4048979242a6e19319f0.xml#id-eec041e4613c4048979242a6e19319f0"/>
+          href="ServingRelationship_id-36874ee8df294cfeaf3452aaa5f534b8.xml#id-36874ee8df294cfeaf3452aaa5f534b8"/>
     </sourceConnections>
     <bounds
-        x="720"
-        y="669"
+        x="924"
+        y="864"
         width="157"
         height="55"/>
     <archimateElement
@@ -549,41 +550,17 @@
         source="id-e6125b3fe8364d14842fdf0cd3a48ff4"
         target="id-201a6bcdec964d699bab55045da1a45a">
       <bendpoints
-          startX="-5"
-          startY="-38"
-          endX="336"
-          endY="240"/>
-      <bendpoints
-          startX="-185"
-          startY="-38"
-          endX="156"
-          endY="240"/>
+          startX="-102"
+          startY="-3"
+          endX="252"
+          endY="12"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-7a91e680ccdb48ebb9199333ccd13c3c.xml#id-7a91e680ccdb48ebb9199333ccd13c3c"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-00e1724c8017429ab1cedcfeb7c2bfa5"
-        source="id-e6125b3fe8364d14842fdf0cd3a48ff4"
-        target="id-201a6bcdec964d699bab55045da1a45a">
-      <bendpoints
-          startX="-161"
-          startY="-2"
-          endX="183"
-          endY="235"/>
-      <bendpoints
-          startX="-269"
-          startY="-2"
-          endX="75"
-          endY="235"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-9bab3e64e2044942bcc2e38a27781320.xml#id-9bab3e64e2044942bcc2e38a27781320"/>
-    </sourceConnections>
     <bounds
-        x="720"
-        y="948"
+        x="732"
+        y="672"
         width="157"
         height="55"/>
     <archimateElement
@@ -804,7 +781,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-92f7595c50e64d83b73c74a867ac1fea"
       textAlignment="1"
-      content="M&amp;F: &quot;Studieroutebeheer&quot; lijkt sysnponiem van &quot;Lerroutebeheer&quot; Ons voorstel bijInstroom is om dat onder &quot;Beheerdienst Onderwijs Student&quot; te laten vallen.&#xA;&#xA;Plagiaat controle laten vallen onder &quot;Inleveren opdrachten&quot;.">
+      content="M&amp;F: &quot;Studieroutebeheer&quot; lijkt sysnponiem van &quot;Lerroutebeheer&quot; Ons voorstel bijInstroom is om dat onder &quot;Beheerdienst Onderwijs Student&quot; te laten vallen.&#xD;&#xA;&#xD;&#xA;Plagiaat controle laten vallen onder &quot;Inleveren opdrachten&quot;.&#xD;&#xA;&#xD;&#xA;Arjan: Lesroutebeheer was een service van versie 0.1 die niet goed verwijdert is, dit is gecorrigeerd.&#xA;&#xA;">
     <bounds
         x="1008"
         y="708"

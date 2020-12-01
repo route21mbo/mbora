@@ -164,7 +164,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eb31a8c6fbf442c09f4c2c192b044134"
-      targetConnections="id-9e14b9d48ce54a86870ccce572d8a5ad id-c94be23856da4f1c95ed6c593a3baea4 id-f251bc225b744ec792be66b6d9f2baab">
+      targetConnections="id-9e14b9d48ce54a86870ccce572d8a5ad id-c94be23856da4f1c95ed6c593a3baea4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8295083e45f24e64a4b73609e8bb8868"
@@ -209,7 +209,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cc4a450545ec49909c11832bc75de313"
-        targetConnections="id-df830a157d3e42c4b95242b24e4d41d4 id-e627e39a5fc94c78b3516dad6dc71ef5 id-8295083e45f24e64a4b73609e8bb8868">
+        targetConnections="id-df830a157d3e42c4b95242b24e4d41d4 id-8295083e45f24e64a4b73609e8bb8868">
       <bounds
           x="24"
           y="240"
@@ -430,15 +430,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7aafd84c3f6140edaee1f2e4e58e3f8d">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f251bc225b744ec792be66b6d9f2baab"
-        source="id-7aafd84c3f6140edaee1f2e4e58e3f8d"
-        target="id-eb31a8c6fbf442c09f4c2c192b044134">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-9bab3e64e2044942bcc2e38a27781320.xml#id-9bab3e64e2044942bcc2e38a27781320"/>
-    </sourceConnections>
     <bounds
         x="457"
         y="84"
@@ -451,15 +442,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a25d241fb9564daeb47c8e6782b0b594">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e627e39a5fc94c78b3516dad6dc71ef5"
-        source="id-a25d241fb9564daeb47c8e6782b0b594"
-        target="id-cc4a450545ec49909c11832bc75de313">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-f8ffd9976b8f45649b429cddabed49d3.xml#id-f8ffd9976b8f45649b429cddabed49d3"/>
-    </sourceConnections>
     <bounds
         x="457"
         y="158"
