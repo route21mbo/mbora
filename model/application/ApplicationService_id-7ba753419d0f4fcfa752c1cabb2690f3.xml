@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cohortbeheer"
+    id="id-7ba753419d0f4fcfa752c1cabb2690f3"
+    documentation="Het beheren van groep van deelnemers (cohort) die onder hetzelfde onderwijs en examenregelement vallen."/>
