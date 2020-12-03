@@ -1281,6 +1281,16 @@
         id="id-1302afdcb2884750abcbd858dc21f797"
         source="id-466f7d71ebc84f489b4ff28860e7a5a7"
         target="id-10ddcc6c2e4a4329b201fa692f5f7792">
+      <bendpoints
+          startX="128"
+          startY="-3"
+          endX="132"
+          endY="-183"/>
+      <bendpoints
+          startX="128"
+          startY="189"
+          endX="132"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-d85abcc7106941b4916c18aa9c65b8d6.xml#id-d85abcc7106941b4916c18aa9c65b8d6"/>
