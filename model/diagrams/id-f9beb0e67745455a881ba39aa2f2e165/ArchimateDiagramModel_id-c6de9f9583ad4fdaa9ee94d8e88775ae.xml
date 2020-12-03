@@ -2028,15 +2028,6 @@
         </sourceConnections>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-344a6a604f0c4ff29368a963d4ceccbf"
-            source="id-90c3458d1e3f4f858ef15c0541301a63"
-            target="id-962107df21474ef0bea133ee4e86e6d9">
-          <archimateRelationship
-              xsi:type="archimate:AssignmentRelationship"
-              href="AssignmentRelationship_id-4dcc667d3c3f4cb0a3f6d4b9634baa5d.xml#id-4dcc667d3c3f4cb0a3f6d4b9634baa5d"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-bd68bfdedb2a40c29dad0f70c99068f6"
             source="id-90c3458d1e3f4f858ef15c0541301a63"
             target="id-82aa3f8c574d4ae1a941e4155b98594a">
@@ -2140,7 +2131,6 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-962107df21474ef0bea133ee4e86e6d9"
-            targetConnections="id-344a6a604f0c4ff29368a963d4ceccbf"
             fillColor="#b5ffff">
           <bounds
               x="36"
