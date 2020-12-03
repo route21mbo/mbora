@@ -455,15 +455,6 @@
       fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0bd86f89f69d4f9cb12c14902eee1492"
-        source="id-e31367e05f5c4dcfa27dc6487abc152b"
-        target="id-1db0b4a804104159b707281ca01e06f4">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-2c09be8f314e4d069eeed7ee22b41673.xml#id-2c09be8f314e4d069eeed7ee22b41673"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-eaf60f9098d9475fbe01d14d32605917"
         source="id-e31367e05f5c4dcfa27dc6487abc152b"
         target="id-b4ba315e38f24978810398f6a7bed406">
@@ -480,6 +471,15 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-1e8d97eef6cd4e00a2ebc8a36db18850.xml#id-1e8d97eef6cd4e00a2ebc8a36db18850"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0bd86f89f69d4f9cb12c14902eee1492"
+        source="id-e31367e05f5c4dcfa27dc6487abc152b"
+        target="id-33b61454e21645f189b550e7fd1d9123">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-2c09be8f314e4d069eeed7ee22b41673.xml#id-2c09be8f314e4d069eeed7ee22b41673"/>
     </sourceConnections>
     <bounds
         x="679"
@@ -1051,7 +1051,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1db0b4a804104159b707281ca01e06f4"
-      targetConnections="id-0bd86f89f69d4f9cb12c14902eee1492 id-92bcb60e7bb2433aab9bd159a2d57fd6">
+      targetConnections="id-92bcb60e7bb2433aab9bd159a2d57fd6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-41b169dd365f4cef99d3b09f1276b33a"
@@ -1135,7 +1135,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-33b61454e21645f189b550e7fd1d9123"
-        targetConnections="id-cce7728640224646815c3810c29e3340">
+        targetConnections="id-cce7728640224646815c3810c29e3340 id-0bd86f89f69d4f9cb12c14902eee1492">
       <bounds
           x="36"
           y="228"
