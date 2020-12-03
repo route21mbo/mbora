@@ -208,9 +208,10 @@
         source="id-1674eabbe1804b0a906d78e3bfe68574"
         target="id-5da29ad3b0eb40c5b02d66b56ae567f9">
       <bendpoints
-          startX="-150"
+          startX="-151"
+          startY="12"
           endX="156"
-          endY="-75"/>
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-fc8a4d8cfe7e46408746af31501ddae1.xml#id-fc8a4d8cfe7e46408746af31501ddae1"/>
@@ -234,8 +235,8 @@
           href="ServingRelationship_id-3ab5fddf38184dab81ed69ff12c6c996.xml#id-3ab5fddf38184dab81ed69ff12c6c996"/>
     </sourceConnections>
     <bounds
-        x="625"
-        y="168"
+        x="624"
+        y="180"
         width="181"
         height="49"/>
     <archimateElement
@@ -473,25 +474,19 @@
         href="ApplicationService_id-a2c45ed82859480a8d1b8be1e4288e2a.xml#id-a2c45ed82859480a8d1b8be1e4288e2a"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d58fc24446774db88e5d65854fc418f3"
-      textAlignment="1"
-      content="Henry&#xD;&#xA;&#xD;&#xA;30-11-2020&#xD;&#xA;&#xD;&#xA;Mis nog een onderdeel om de strategie te ondersteunen en organisatie doelstellingen te realiseren. &#xD;&#xA;&#xD;&#xA;Op basis van bijvoorbeel een BMC of Balanced Scorecard. &#xD;&#xA;&#xD;&#xA;Gaarne even afstemming&#xD;&#xA;&#xD;&#xA;Arjan&#xD;&#xA;Zie nieuwe service (groen)">
-    <bounds
-        x="960"
-        y="48"
-        width="193"
-        height="253"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0822a1ad57184bbca1ccd3afd5b8fae9"
-      fillColor="#00ff00">
+      fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c58ed4cffbcc434b9281fdefe751a5a3"
         source="id-0822a1ad57184bbca1ccd3afd5b8fae9"
         target="id-5da29ad3b0eb40c5b02d66b56ae567f9">
+      <bendpoints
+          startX="-139"
+          startY="66"
+          endX="168"
+          endY="-15"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-df8966429ef54596b24ebf9eca2fb78f.xml#id-df8966429ef54596b24ebf9eca2fb78f"/>
