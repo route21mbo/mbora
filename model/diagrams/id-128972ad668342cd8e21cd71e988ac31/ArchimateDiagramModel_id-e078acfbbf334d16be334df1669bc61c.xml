@@ -1109,11 +1109,6 @@
         target="id-a871152f676d4c5c8c1af88bff4052ff">
       <bendpoints
           startX="-159"
-          startY="9"
-          endX="156"
-          endY="69"/>
-      <bendpoints
-          startX="-159"
           startY="-39"
           endX="156"
           endY="21"/>
