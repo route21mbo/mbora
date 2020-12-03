@@ -57,9 +57,9 @@
         target="id-38460fb9cf9043329867ecf4801ed72c">
       <bendpoints
           startX="180"
-          startY="26"
-          endX="-132"
-          endY="-16"/>
+          startY="15"
+          endX="-144"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_68a98e43-1839-48ad-a5b5-884dbff95ff5.xml#68a98e43-1839-48ad-a5b5-884dbff95ff5"/>
@@ -628,8 +628,8 @@
       id="id-f47a5928e96a4e95b1193b8cec15ab35"
       fillColor="#ff0000">
     <bounds
-        x="2111"
-        y="497"
+        x="1050"
+        y="402"
         width="145"
         height="49"/>
     <archimateElement
