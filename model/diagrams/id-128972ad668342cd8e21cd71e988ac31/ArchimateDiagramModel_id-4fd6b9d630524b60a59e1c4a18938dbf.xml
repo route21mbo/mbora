@@ -559,8 +559,8 @@
           href="ServingRelationship_id-7a91e680ccdb48ebb9199333ccd13c3c.xml#id-7a91e680ccdb48ebb9199333ccd13c3c"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="672"
+        x="720"
+        y="660"
         width="157"
         height="55"/>
     <archimateElement
@@ -602,8 +602,8 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="600"
-        width="169"
+        y="588"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -723,7 +723,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="534"
+        y="528"
         width="157"
         height="55"/>
     <archimateElement
