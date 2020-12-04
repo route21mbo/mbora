@@ -1045,6 +1045,16 @@
         id="id-e5c170cbc68e4ff9aa3cda1d052d2dc9"
         source="id-34c2c5b0da3744e9917f65edf5cbee7e"
         target="id-18ea5cc96ff040dc9462334ce193ee95">
+      <bendpoints
+          startX="-140"
+          startY="21"
+          endX="292"
+          endY="-387"/>
+      <bendpoints
+          startX="-140"
+          startY="405"
+          endX="292"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-6ae77cee55a6475da5618054f3af527e.xml#id-6ae77cee55a6475da5618054f3af527e"/>

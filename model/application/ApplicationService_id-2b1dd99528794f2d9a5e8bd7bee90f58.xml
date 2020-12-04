@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student self service"
+    id="id-2b1dd99528794f2d9a5e8bd7bee90f58"
+    documentation="Het bieden van self service functionaliteit zoals het doorgeven van adreswijziging, afwezigheid melden, fiets reserveren enz..."/>

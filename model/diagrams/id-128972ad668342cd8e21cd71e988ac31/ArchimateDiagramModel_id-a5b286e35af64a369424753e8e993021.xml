@@ -48,7 +48,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-27f09ab6704445d5b2141c185e8a5a9f"
-      targetConnections="id-1d64ccce94d441e2bfaa7cf3622b6953 id-d60f447633ca4f2695b6f4af1b468afe">
+      targetConnections="id-1d64ccce94d441e2bfaa7cf3622b6953">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f2db651d24434c3c92c807905ca0a5ef"
@@ -126,29 +126,13 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a072bc0985e94bb59c5d5b013a5c17c4">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d60f447633ca4f2695b6f4af1b468afe"
-        source="id-a072bc0985e94bb59c5d5b013a5c17c4"
-        target="id-27f09ab6704445d5b2141c185e8a5a9f">
-      <bendpoints
-          startY="93"
-          endX="246"
-          endY="-108"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-fa57f15ce7c04f05bbac42b8e04ed68e.xml#id-fa57f15ce7c04f05bbac42b8e04ed68e"/>
-    </sourceConnections>
+      id="id-a072bc0985e94bb59c5d5b013a5c17c4"
+      fillColor="#ff0000">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1e256efce3774095b0f4e611984980c0"
         source="id-a072bc0985e94bb59c5d5b013a5c17c4"
         target="id-2f046af5278543cab31688c8f36b2ad8">
-      <bendpoints
-          startY="-63"
-          endX="246"
-          endY="7"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-2aa675de62bf4020bb19535c8639256d.xml#id-2aa675de62bf4020bb19535c8639256d"/>
@@ -174,7 +158,7 @@
     </sourceConnections>
     <bounds
         x="624"
-        y="192"
+        y="132"
         width="181"
         height="55"/>
     <archimateElement
@@ -282,7 +266,7 @@
       textAlignment="1"
       content="M&amp;F&#xA;De verantwoording over financien, accountantscontrole, onderwijskwaliteit, etc is nog niet als proces benoemd en moet nog worden toegevoegd. De services kunnen we al wel intekenen als die er zijn.&#xD;&#xA;&#xD;&#xA;Arjan:&#xD;&#xA;Financieel verantwoorden bestaat, zie view 'Financieel Management', echter men heeft gekozen omdat geen onderdeel te maken van extern verantwoorden, zoals je in de view kan zien is er sprake van een trigger geen compositie of aggregatie.&#xD;&#xA;We hadden eerder afgesproken om alleen de processen en diens deelprocessen uit te werken, die ook terug komen in het HPM. Dan is voor financieel verantwoorden niet het geval.&#xD;&#xA;&#xD;&#xA;Idem voor onderwijskwaliteit, deze heeft men ondergebracht bij 'Strategie, beleid en sturing'.&#xD;&#xA;&#xD;&#xA;Overigens vind ik wel dat die zaken terug moeten (gaan) komen bij extern verantwoorden, als ik de rijksoverheid site bevraag dan stelt deze dat alle scholen minimaal:&#xD;&#xA;- Jaarverslag &amp; financieel beleid rapporteren&#xD;&#xA;- Alle zaken op aanvraag inspectie van het onderwijs&#xD;&#xA;- Rapporteren welke interne toezicht plaatsvind betreffende kwaliteit onderwijs&#xD;&#xA;- Aantonen dat de scholen over interne financiele deskundigheid/competentie beschikt&#xD;&#xA;&#xD;&#xA;Kortom hiervoor moeten we eerst met werkgroep 2 gaan praten.">
     <bounds
-        x="912"
+        x="852"
         y="72"
         width="553"
         height="649"/>

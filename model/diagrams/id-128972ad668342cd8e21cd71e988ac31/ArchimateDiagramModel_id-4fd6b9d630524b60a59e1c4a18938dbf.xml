@@ -120,7 +120,7 @@
         targetConnections="id-a01fea82a340493cbc795dcb46905616 id-e5b9ad4b1bd546ec826ec51d8bdb0b2e">
       <bounds
           x="24"
-          y="258"
+          y="192"
           width="164"
           height="55"/>
       <archimateElement
@@ -130,7 +130,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1d98823eca1940c195d4b0882abf61ff"
-        targetConnections="id-cb7ca409deb34ef6812fbcd7172628ff id-abb5b61ebaa642e3a95472f3ac96898c">
+        targetConnections="id-cb7ca409deb34ef6812fbcd7172628ff">
       <bounds
           x="24"
           y="126"
@@ -159,7 +159,7 @@
         targetConnections="id-08c6e6e54a104062accf0eba6084f585">
       <bounds
           x="24"
-          y="192"
+          y="264"
           width="164"
           height="55"/>
       <archimateElement
@@ -173,7 +173,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-201a6bcdec964d699bab55045da1a45a"
-      targetConnections="id-98916a1a2cab41ed9f6bef279471184f id-58676580075e4c33875e981a3dc473d7 id-4e1e2596cc4043a1afdf2556b90e52a1 id-9f98ccd9918046098ec451d3051cffff id-89662bb858e044528ae63ccc85300dee">
+      targetConnections="id-98916a1a2cab41ed9f6bef279471184f id-58676580075e4c33875e981a3dc473d7 id-4e1e2596cc4043a1afdf2556b90e52a1 id-9f98ccd9918046098ec451d3051cffff id-89662bb858e044528ae63ccc85300dee id-cb6f35a5235d44f990581ec3a8f4c569 id-23d9582abc4f43039653f2168f4ada46 id-04e5b98075fb45e78b40fe2cc9d56eb8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f088ec81591d48cd98276910d5fe4242"
@@ -227,7 +227,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6a3268ad6fb74a85a5ab6771922b982b"
-        targetConnections="id-f088ec81591d48cd98276910d5fe4242 id-8779a571c821424f9bd54b0a99d526ee id-cfc518c7d09840be853e661b91b586a7 id-cdc0dd0deccd421fb34482963702b5e9">
+        targetConnections="id-f088ec81591d48cd98276910d5fe4242 id-8779a571c821424f9bd54b0a99d526ee id-cdc0dd0deccd421fb34482963702b5e9">
       <bounds
           x="25"
           y="60"
@@ -253,7 +253,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-af922fa113134da4becf8c0801bf2bc3"
-        targetConnections="id-8bf0c3b52c9d4a8892f28d9c9b5c048d id-2fd5aa0dd6af465fb9dd6380910c6d33">
+        targetConnections="id-2fd5aa0dd6af465fb9dd6380910c6d33">
       <bounds
           x="25"
           y="156"
@@ -358,7 +358,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-211ff4167b58458ba92ff536af018429"
-        targetConnections="id-920e99c7289f46ac854736ac51dde103">
+        targetConnections="id-920e99c7289f46ac854736ac51dde103 id-a00238358878489094400acc0ba3378a">
       <bounds
           x="24"
           y="204"
@@ -448,38 +448,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-355e6877df92437d8351b416b4740af8"
-      fillColor="#ff0000">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-cfc518c7d09840be853e661b91b586a7"
-        source="id-355e6877df92437d8351b416b4740af8"
-        target="id-6a3268ad6fb74a85a5ab6771922b982b">
-      <bendpoints
-          startX="-113"
-          startY="-2"
-          endX="230"
-          endY="-74"/>
-      <bendpoints
-          startX="-113"
-          startY="58"
-          endX="230"
-          endY="-14"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-6420ea60a2ba452392a07b4aa8129f41.xml#id-6420ea60a2ba452392a07b4aa8129f41"/>
-    </sourceConnections>
-    <bounds
-        x="720"
-        y="444"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-baacdb166b2d46c5907eae43bb3c6916.xml#id-baacdb166b2d46c5907eae43bb3c6916"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99f4a5b05cec41728030046e5a906707">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -492,33 +460,12 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="300"
+        y="288"
         width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-bbee7e46711840dbaafe4099812fceea.xml#id-bbee7e46711840dbaafe4099812fceea"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b65672b7e23d4484b1e7e267c386bac1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-abb5b61ebaa642e3a95472f3ac96898c"
-        source="id-b65672b7e23d4484b1e7e267c386bac1"
-        target="id-1d98823eca1940c195d4b0882abf61ff">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-1e75984639dd48f7becbeba21376573a.xml#id-1e75984639dd48f7becbeba21376573a"/>
-    </sourceConnections>
-    <bounds
-        x="720"
-        y="216"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-72e6bd67219e4768801d50bbb883ad48.xml#id-72e6bd67219e4768801d50bbb883ad48"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -587,27 +534,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-4f64bf438e3e4eeca44d291e31fae1bf.xml#id-4f64bf438e3e4eeca44d291e31fae1bf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ba80d2f0fff6411f8657d9a8a5abdc13">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-8bf0c3b52c9d4a8892f28d9c9b5c048d"
-        source="id-ba80d2f0fff6411f8657d9a8a5abdc13"
-        target="id-af922fa113134da4becf8c0801bf2bc3">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-71356e5ebcb24dff878457c9712a0456.xml#id-71356e5ebcb24dff878457c9712a0456"/>
-    </sourceConnections>
-    <bounds
-        x="720"
-        y="588"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-064e8ca6bf3b4835ad221fba7b803ace.xml#id-064e8ca6bf3b4835ad221fba7b803ace"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -723,7 +649,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="528"
+        y="516"
         width="157"
         height="55"/>
     <archimateElement
@@ -736,7 +662,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ff0000">
+      fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9f98ccd9918046098ec451d3051cffff"
@@ -759,10 +685,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-f122c41390434d1ab884eb7d60345656"
       textAlignment="1"
-      content="Suggesties / vragen Rene:&#xD;&#xA;&#xD;&#xA;Rood: graag overleg&#xD;&#xA;&#xD;&#xA;Studentinfo tonen ook koppelen aan analyseren en beoordelen leeresultaten..?&#xD;&#xA;&#xD;&#xA;Wat is Uitvoeren onderwijs activiteiten...?&#xD;&#xA;&#xD;&#xA;Enquetediensten koppelen aan Monitoren effectiviteit onderwijs activiteiten..?&#xD;&#xA;&#xD;&#xA;Leermiddelenlijstpublicatie en leermiddelen verkoop kan ik niet goed kwijt.... Discussie nodig. Meer iets voor &quot;voortraject&quot; maar weet niet waar&#xA;&#xD;&#xA;M&amp;F: Eens. Hier lijkt het niet goede plaats, terugleggen bij de procesgroep lijkt me het beste.&#xD;&#xA;&#xD;&#xA;Ondersteuning leerbeperking toevoegen....?&#xD;&#xA;&#xD;&#xA;Samenwerkingsdiensten nivo hoger koppelen...?&#xD;&#xA;&#xD;&#xA;Plagiaatdetectie: waarom 2 koppelingen...?&#xD;&#xA;&#xD;&#xA;Portfoliobeheer waarom 2 koppelingen...?&#xD;&#xA;&#xD;&#xA;Mediatheek uitleenadministratie toevoegen...?&#xD;&#xA;&#xD;&#xA;Formatief resultatenbeheer toevoegen..?&#xD;&#xA;&#xD;&#xA;Studentbegeleiding toevoegen..?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Suggesties / vragen Rene:&#xD;&#xA;&#xD;&#xA;Rood: graag overleg&#xD;&#xA;&#xD;&#xA;Studentinfo tonen ook koppelen aan analyseren en beoordelen leeresultaten..?&#xD;&#xA;&#xD;&#xA;Wat is Uitvoeren onderwijs activiteiten...?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Leermiddelenlijstpublicatie en leermiddelen verkoop kan ik niet goed kwijt.... Discussie nodig. Meer iets voor &quot;voortraject&quot; maar weet niet waar&#xA;&#xD;&#xA;M&amp;F: Eens. Hier lijkt het niet goede plaats, terugleggen bij de procesgroep lijkt me het beste.&#xD;&#xA;&#xD;&#xA;Ondersteuning leerbeperking toevoegen....?&#xD;&#xA;&#xD;&#xA;Samenwerkingsdiensten nivo hoger koppelen...?&#xD;&#xA;&#xD;&#xA;Plagiaatdetectie: waarom 2 koppelingen...?&#xD;&#xA;&#xD;&#xA;Portfoliobeheer waarom 2 koppelingen...?&#xD;&#xA;&#xD;&#xA;Mediatheek uitleenadministratie toevoegen...?&#xD;&#xA;&#xD;&#xA;Formatief resultatenbeheer toevoegen..?&#xD;&#xA;&#xD;&#xA;Studentbegeleiding toevoegen..?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="1054"
-        y="166"
+        x="912"
+        y="168"
         width="411"
         height="368"/>
   </children>
@@ -772,8 +698,8 @@
       textAlignment="1"
       content="M&amp;F: Narrowcasting heeft niets met onderwijsuitvoeren te maken lijkt ons. ">
     <bounds
-        x="1054"
-        y="48"
+        x="912"
+        y="60"
         width="411"
         height="91"/>
   </children>
@@ -783,9 +709,86 @@
       textAlignment="1"
       content="M&amp;F: &quot;Studieroutebeheer&quot; lijkt sysnponiem van &quot;Lerroutebeheer&quot; Ons voorstel bijInstroom is om dat onder &quot;Beheerdienst Onderwijs Student&quot; te laten vallen.&#xD;&#xA;&#xD;&#xA;Plagiaat controle laten vallen onder &quot;Inleveren opdrachten&quot;.&#xD;&#xA;&#xD;&#xA;Arjan: Lesroutebeheer was een service van versie 0.1 die niet goed verwijdert is, dit is gecorrigeerd.&#xA;&#xA;">
     <bounds
-        x="1008"
-        y="708"
+        x="912"
+        y="552"
         width="301"
         height="133"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4a7a1b6377f04b4ebd09a753af7cc83f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cb6f35a5235d44f990581ec3a8f4c569"
+        source="id-4a7a1b6377f04b4ebd09a753af7cc83f"
+        target="id-201a6bcdec964d699bab55045da1a45a">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-3ef58692a5934534aac253296cf1c0dd.xml#id-3ef58692a5934534aac253296cf1c0dd"/>
+    </sourceConnections>
+    <bounds
+        x="720"
+        y="591"
+        width="154"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-bd0efddf3fc84c1f978d139c4eaecfc6.xml#id-bd0efddf3fc84c1f978d139c4eaecfc6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ef6e6acf7b2b46e78c46816e046555a3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-04e5b98075fb45e78b40fe2cc9d56eb8"
+        source="id-ef6e6acf7b2b46e78c46816e046555a3"
+        target="id-201a6bcdec964d699bab55045da1a45a">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-b6054841f27c46388bcb4027b47c1efa.xml#id-b6054841f27c46388bcb4027b47c1efa"/>
+    </sourceConnections>
+    <bounds
+        x="719"
+        y="456"
+        width="156"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-1dbdc1964e434e96b222dfc0adba39b5.xml#id-1dbdc1964e434e96b222dfc0adba39b5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e1db49fd45e54a8297d7b48f8a15568e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a00238358878489094400acc0ba3378a"
+        source="id-e1db49fd45e54a8297d7b48f8a15568e"
+        target="id-211ff4167b58458ba92ff536af018429">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-5734aec533fb4f8982044327ea869d90.xml#id-5734aec533fb4f8982044327ea869d90"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-23d9582abc4f43039653f2168f4ada46"
+        source="id-e1db49fd45e54a8297d7b48f8a15568e"
+        target="id-201a6bcdec964d699bab55045da1a45a">
+      <bendpoints
+          startX="-348"
+          startY="-2"
+          endX="180"
+          endY="276"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-479f272a4ec4455b8954b7db2bd1a674.xml#id-479f272a4ec4455b8954b7db2bd1a674"/>
+    </sourceConnections>
+    <bounds
+        x="924"
+        y="936"
+        width="156"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-b4a36c71bd624c4da30929c12d597ae8.xml#id-b4a36c71bd624c4da30929c12d597ae8"/>
   </children>
 </archimate:ArchimateDiagramModel>
