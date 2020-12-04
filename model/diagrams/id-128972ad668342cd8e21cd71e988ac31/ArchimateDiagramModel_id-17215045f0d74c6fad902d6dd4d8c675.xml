@@ -299,9 +299,10 @@
         source="id-c9eeef306b9a4afcac54c0efc282cd15"
         target="id-a75e78d14b6e421ba756f695e9d9f918">
       <bendpoints
-          startX="132"
+          startX="136"
+          startY="-3"
           endX="414"
-          endY="-278"/>
+          endY="-315"/>
       <bendpoints
           startX="136"
           startY="309"

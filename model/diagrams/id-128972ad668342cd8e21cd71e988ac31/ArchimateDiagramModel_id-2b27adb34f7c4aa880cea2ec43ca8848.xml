@@ -42,14 +42,15 @@
         source="id-c454ae1be5384fd99fd69b8a6a437002"
         target="id-a39731e25977407dbb501a03b3ef570b">
       <bendpoints
-          startX="174"
-          startY="6"
-          endX="-144"
-          endY="-180"/>
+          startX="150"
+          startY="30"
+          endX="-168"
+          endY="-210"/>
       <bendpoints
-          startX="174"
-          startY="186"
-          endX="-144"/>
+          startX="150"
+          startY="222"
+          endX="-168"
+          endY="-18"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_15edc17d-b9d4-4f0b-b8f9-b0a27be6adb8.xml#15edc17d-b9d4-4f0b-b8f9-b0a27be6adb8"/>
@@ -106,7 +107,7 @@
         x="360"
         y="324"
         width="169"
-        height="49"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_5517de2f-996a-44f6-b972-30dc89ff19dd.xml#5517de2f-996a-44f6-b972-30dc89ff19dd"/>
