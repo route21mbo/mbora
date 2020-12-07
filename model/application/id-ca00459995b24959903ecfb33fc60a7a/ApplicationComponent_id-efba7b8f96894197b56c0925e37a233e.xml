@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning analytics systeem"
+    id="id-efba7b8f96894197b56c0925e37a233e"
+    documentation="Een geheel van systemen waarin leeractiviteiten van studenten (LTI - Learning Track Information) worden opgeslagen (LRS - Learning Record Store), geanalyseerd en gepresenteerd.&#xD;&#xA;&#xD;&#xA;Toelichting:&#xD;&#xA;Er is een overlap met data analytics,  echter in dit geval zijn het systemen toegespitst op het leerproces van studenten. In de markt zijn dit verschillende systemen."/>
