@@ -255,17 +255,6 @@
         href="ApplicationService_id-1dc0eafe76d74b12a44bd01911026c22.xml#id-1dc0eafe76d74b12a44bd01911026c22"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-e0ad9d84add34846a0325f6dc1658a87"
-      textAlignment="1"
-      content="Arjan&#xD;&#xA;Enquetedienst vervangen door onderzoekstoepassing Beheer&#xD;&#xA;Voorstel Practoraatgegevensbeheer verwijderen, geleverde dienst wordt reeds vervult door kennisbeheer">
-    <bounds
-        x="1128"
-        y="48"
-        width="277"
-        height="301"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d53cc1094bd44a1b8bdb4489fadfc026"
       fillColor="#ff0000">
