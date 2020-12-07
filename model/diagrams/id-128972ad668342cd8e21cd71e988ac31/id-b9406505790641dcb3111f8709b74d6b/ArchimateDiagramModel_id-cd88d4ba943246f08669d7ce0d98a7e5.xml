@@ -310,42 +310,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-1055252d5b084f6a8931564aa7b7f086"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-5202c6da452645e8a7a30e36ec05abd8"
-          source="id-1055252d5b084f6a8931564aa7b7f086"
-          target="id-b2d79421077a4396b3eeaccb3e797aee">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-2766d528190c417b84e941b4b3e17092.xml#id-2766d528190c417b84e941b4b3e17092"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-065267f137464de78d91ab144c580de4"
-          source="id-1055252d5b084f6a8931564aa7b7f086"
-          target="id-6c3061448c0e4b7081f959a89a5a8b87">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-620edd724ec84acfafb1c5da52d9d583.xml#id-620edd724ec84acfafb1c5da52d9d583"/>
-      </sourceConnections>
-      <bounds
-          x="288"
-          y="55"
-          width="181"
-          height="42"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-54d4ede56239493abe6dd912f69ec460.xml#id-54d4ede56239493abe6dd912f69ec460"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6c3061448c0e4b7081f959a89a5a8b87"
-        targetConnections="id-065267f137464de78d91ab144c580de4">
+        id="id-6c3061448c0e4b7081f959a89a5a8b87">
       <bounds
           x="408"
           y="132"
@@ -357,8 +322,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-b2d79421077a4396b3eeaccb3e797aee"
-        targetConnections="id-5202c6da452645e8a7a30e36ec05abd8">
+        id="id-b2d79421077a4396b3eeaccb3e797aee">
       <bounds
           x="221"
           y="132"
