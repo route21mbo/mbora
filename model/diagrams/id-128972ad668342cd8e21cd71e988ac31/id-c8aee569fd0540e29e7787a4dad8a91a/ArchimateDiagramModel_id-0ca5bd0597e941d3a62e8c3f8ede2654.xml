@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAR - AppSrv"
+    name="AAR ketenproces - AppSrv"
     id="id-0ca5bd0597e941d3a62e8c3f8ede2654">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -64,7 +64,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1004dc5b67ee41648c06022b9977f530"
-        targetConnections="id-bc22d3ecb57147e6aa94c4f2b92b9683 id-e2a4a101978749b5bf49b2a3bd2815f9 id-247c7641758a41789d03a168d3fc0246">
+        targetConnections="id-bc22d3ecb57147e6aa94c4f2b92b9683 id-247c7641758a41789d03a168d3fc0246 id-4cd229fd81da455c90f335a6e857fe7f">
       <bounds
           x="24"
           y="60"
@@ -474,27 +474,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4af8464f70fa4b8f92021e6337955095">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e2a4a101978749b5bf49b2a3bd2815f9"
-        source="id-4af8464f70fa4b8f92021e6337955095"
-        target="id-1004dc5b67ee41648c06022b9977f530">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-ed2665adfb3d4632ae061cd2dd5c3698.xml#id-ed2665adfb3d4632ae061cd2dd5c3698"/>
-    </sourceConnections>
-    <bounds
-        x="457"
-        y="372"
-        width="145"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-c2b9609770a94ff781fc687898ab9019.xml#id-c2b9609770a94ff781fc687898ab9019"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-38944f0edca64afcabc56c17a299947c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -640,5 +619,30 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-07b405c2e8f448478daed459d3886d4a.xml#id-07b405c2e8f448478daed459d3886d4a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b61f0b0afea945e290a792c27f88403d"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4cd229fd81da455c90f335a6e857fe7f"
+        source="id-b61f0b0afea945e290a792c27f88403d"
+        target="id-1004dc5b67ee41648c06022b9977f530">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-a51d2d4f0ab14caf8fe94c86481b65d1.xml#id-a51d2d4f0ab14caf8fe94c86481b65d1"/>
+    </sourceConnections>
+    <bounds
+        x="458"
+        y="372"
+        width="144"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-2b1dd99528794f2d9a5e8bd7bee90f58.xml#id-2b1dd99528794f2d9a5e8bd7bee90f58"/>
   </children>
 </archimate:ArchimateDiagramModel>
