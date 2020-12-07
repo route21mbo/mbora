@@ -680,10 +680,10 @@
         source="id-478dce862a834ddf8e55c7c3fe5b6de2"
         target="id-6929f9b52402487a99a006726ce45e48">
       <bendpoints
-          startX="-78"
-          startY="682"
-          endX="522"
-          endY="10"/>
+          startX="-7"
+          startY="681"
+          endX="594"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-e4acc6cc02034670885f0daa81fdda3d.xml#id-e4acc6cc02034670885f0daa81fdda3d"/>
@@ -694,9 +694,9 @@
         source="id-478dce862a834ddf8e55c7c3fe5b6de2"
         target="id-7737a3df602940d78b25ad4299381850">
       <bendpoints
-          startX="-18"
-          startY="-494"
-          endX="582"
+          startX="-7"
+          startY="-495"
+          endX="594"
           endY="72"/>
       <bendpoints
           startX="-474"
@@ -962,7 +962,7 @@
           href="ServingRelationship_id-bd8b89ad01c24a9ead7410885eea33df.xml#id-bd8b89ad01c24a9ead7410885eea33df"/>
     </sourceConnections>
     <bounds
-        x="708"
+        x="717"
         y="72"
         width="180"
         height="52"/>
@@ -1119,23 +1119,10 @@
       textAlignment="1"
       content="M&amp;F: Portaaldienst voor Afwezigheidsmelding hier weg; dat is een individuele invulling van hoe de Afwezigheidsmeldingsdienst wordt ingevuld. ">
     <bounds
-        x="1392"
-        y="612"
+        x="1140"
+        y="270"
         width="229"
         height="109"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1d1d3d5c74464bfda7b0589a1ca431f6"
-      fillColor="#ff0000">
-    <bounds
-        x="1475"
-        y="911"
-        width="168"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-d8f3f6ce877d456e99b2cb5892793a59.xml#id-d8f3f6ce877d456e99b2cb5892793a59"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
