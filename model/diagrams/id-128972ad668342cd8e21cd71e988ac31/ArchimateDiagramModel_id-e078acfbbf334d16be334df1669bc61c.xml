@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BPV (detailed) - AppSrv"
+    name="BPV ketenproces - AppSrv"
     id="id-e078acfbbf334d16be334df1669bc61c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
