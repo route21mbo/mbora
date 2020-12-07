@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AAR - AppSrv"
+    name="AAR ketenproces - AppSrv"
     id="id-0ca5bd0597e941d3a62e8c3f8ede2654">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
