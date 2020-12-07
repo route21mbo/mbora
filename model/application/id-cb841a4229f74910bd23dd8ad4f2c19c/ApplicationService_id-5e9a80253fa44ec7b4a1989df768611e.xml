@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Student begeleiding"
+    name="Studentbegeleiding"
     id="id-5e9a80253fa44ec7b4a1989df768611e"
-    documentation="Het volgen en begeleiden van leerlingen in hun leertraject&#xD;&#xA;&#xD;&#xA;Beter: Registreren begeleidingsgesprekken"/>
+    documentation="Het volgen en begeleiden van studenten in hun leertraject. Focus ligt op de mentorbegeleiding en niet op de inhoudelijke begeleiding door een docent.&#xD;&#xA;"/>

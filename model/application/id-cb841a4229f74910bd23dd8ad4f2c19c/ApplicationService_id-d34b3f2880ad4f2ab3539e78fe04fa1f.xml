@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Strategisch Planbeheer"
+    name="Strategiebepaling"
     id="id-d34b3f2880ad4f2ab3539e78fe04fa1f"
-    documentation="Ondersteunt de strategieplanning gemaakt door de instellingen en diens realistatie"/>
+    documentation="Het bepalen en modelleren van strategie-elementen, zoals marktdrivers, doelen, missies, principes, waardetoevoeging, sterkten/zwaktes, bedoelingen, strategie, resultaten."/>

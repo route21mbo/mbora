@@ -151,7 +151,7 @@
           x="24"
           y="36"
           width="120"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_27ef94e8-6ca3-4c79-9940-2deda96d87e5.xml#27ef94e8-6ca3-4c79-9940-2deda96d87e5"/>
@@ -162,7 +162,7 @@
         targetConnections="id-9ba0dacb6c894767a483907ce47b8660 id-59d68be040ff492ebf18c63c5a60a3c6">
       <bounds
           x="24"
-          y="108"
+          y="120"
           width="120"
           height="55"/>
       <archimateElement
@@ -384,7 +384,7 @@
     <bounds
         x="672"
         y="900"
-        width="145"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"

@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toets- en examenafnamesysteem"
+    name="Toets- en examenafname systeem"
     id="id-5ee574012aa74789990065a96745c2ba"
     documentation="Systeem voor het afnemen van toetsen en examens, denk  aan een veilige afnameomgeving (BLDC - bootable lock down client)&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Safetyboot&#xD;&#xA;Facet&#xD;&#xA;QMP"/>

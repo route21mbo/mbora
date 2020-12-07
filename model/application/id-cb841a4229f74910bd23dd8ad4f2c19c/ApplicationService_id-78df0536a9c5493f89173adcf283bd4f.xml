@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product- en dienstencatalogus"
+    id="id-78df0536a9c5493f89173adcf283bd4f"
+    documentation="Service die zorgt draagt voor de producten en diensten die door de instelling worden geleverd (&quot;de menu kaart&quot; waaruit gekozen kan worden)"/>
