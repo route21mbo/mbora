@@ -72,7 +72,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ef956befb5bb44549e0c9f12561db5b2"
-      targetConnections="id-2bace648b99943e780d676edc5d3173b id-c357c4e28c694970a37ba2bbae719a1f">
+      targetConnections="id-2bace648b99943e780d676edc5d3173b id-c357c4e28c694970a37ba2bbae719a1f id-5c273d12c3244f7ab769b4548f7ad366">
     <bounds
         x="336"
         y="48"
@@ -147,7 +147,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a75e78d14b6e421ba756f695e9d9f918"
-        targetConnections="id-74403283caee4337ad11b27694f630d1 id-3c5b02bb01e642d48c92d5fef70fe7c9 id-fb855d1e6cd845b481d31103e1eeba8d id-a84fdad9911f438f9daa18ceec3d890e">
+        targetConnections="id-74403283caee4337ad11b27694f630d1 id-3c5b02bb01e642d48c92d5fef70fe7c9 id-a84fdad9911f438f9daa18ceec3d890e">
       <bounds
           x="12"
           y="204"
@@ -261,32 +261,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-336bebc83ede4b199acd2d4089a94462"
-      fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-fb855d1e6cd845b481d31103e1eeba8d"
-        source="id-336bebc83ede4b199acd2d4089a94462"
-        target="id-a75e78d14b6e421ba756f695e9d9f918">
-      <bendpoints
-          startY="-48"
-          endX="282"
-          endY="15"/>
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-4f07f31407db4778a77d8411367bf385.xml#id-4f07f31407db4778a77d8411367bf385"/>
-    </sourceConnections>
-    <bounds
-        x="624"
-        y="432"
-        width="169"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-d34b3f2880ad4f2ab3539e78fe04fa1f.xml#id-d34b3f2880ad4f2ab3539e78fe04fa1f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c9eeef306b9a4afcac54c0efc282cd15">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -328,7 +302,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-017100f5e32c42e98bbf48a493aa9a62"
-      fillColor="#b5ffff">
+      fillColor="#ff0000">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bfd61c83b6bb400b8083199eca66ad5a"
@@ -338,6 +312,15 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-bd45284f3d074ffcb2e61e1403dfb9e3.xml#id-bd45284f3d074ffcb2e61e1403dfb9e3"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5c273d12c3244f7ab769b4548f7ad366"
+        source="id-017100f5e32c42e98bbf48a493aa9a62"
+        target="id-ef956befb5bb44549e0c9f12561db5b2">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-fa2d98d7f37142f68bfaf169166f052c.xml#id-fa2d98d7f37142f68bfaf169166f052c"/>
+    </sourceConnections>
     <bounds
         x="620"
         y="204"
@@ -346,5 +329,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-cfe33312cedc4d35bd113e2b968bf6ea.xml#id-cfe33312cedc4d35bd113e2b968bf6ea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0de5727101984c3d8a49153a9bd61c99"
+      font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Rene: te verrwarrend onderscheid tussen meerjarenplan en planning...&#xD;&#xA;&#xD;&#xA;De omschrijving van Teamplan opstellen.... lijkt ook de operationele planning zoals maken van plan van inzet te omvatten.....">
+    <bounds
+        x="932"
+        y="326"
+        width="269"
+        height="179"/>
   </children>
 </archimate:ArchimateDiagramModel>

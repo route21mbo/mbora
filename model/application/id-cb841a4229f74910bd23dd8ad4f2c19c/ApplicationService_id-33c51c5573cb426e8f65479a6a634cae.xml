@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Learning Record Storage"
+    name="Learning record storage"
     id="id-33c51c5573cb426e8f65479a6a634cae"
     documentation="Een dienst voor het verzamelen en opslaan van learning track information (LTI-records)"/>
