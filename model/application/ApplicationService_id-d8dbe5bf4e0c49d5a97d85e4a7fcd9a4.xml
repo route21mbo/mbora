@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service catalogusbeheer"
+    id="id-d8dbe5bf4e0c49d5a97d85e4a7fcd9a4"
+    documentation="Ondersteunt het vastleggen van afspraken tussen partijen, vaak tussen de ICT en de organisatie. Denk aan de Service Level Agreement, de DNO, ..."/>

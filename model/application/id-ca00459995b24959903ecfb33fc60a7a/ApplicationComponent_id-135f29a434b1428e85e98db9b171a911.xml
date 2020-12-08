@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Storagebeheersysteem"
     id="id-135f29a434b1428e85e98db9b171a911"
-    documentation="Systeem voor het beheer van de centrale storage-apparatuur in het netwerk zoals een SAN of NAS.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;EMC&#xD;&#xA;HP&#xD;&#xA;Dell">
+    documentation="Systeem voor het beheer van de centrale storage-apparatuur in het netwerk zoals een SAN, NAS, Datawarehouse of datalake.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;EMC&#xD;&#xA;HP&#xD;&#xA;Dell">
   <properties
       key="Source"
       value="None"/>

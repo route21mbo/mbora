@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren resultaatstructuur"
+    name="Resultaatstructuur Beheer"
     id="id-b321390d78024a1b81737621a209fd3a"
     documentation="Het bepalen en vastleggen wanneer een student geslaagd is; de wijze van beoordeling van examens van een opleiding (de cesuur) .&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;wijze beoordeling (cijfers of ovg)&#xD;&#xA;weging &#xD;&#xA;minimum resultaat &#xD;&#xA;&#xD;&#xA;"/>
