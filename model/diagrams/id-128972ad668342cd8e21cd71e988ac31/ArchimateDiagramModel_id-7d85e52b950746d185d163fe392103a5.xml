@@ -32,8 +32,9 @@
           endY="-456"/>
       <bendpoints
           startX="141"
-          startY="499"
-          endX="-144"/>
+          startY="355"
+          endX="-144"
+          endY="-144"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_250d78e6-7494-482d-9f2b-15c11e22c1ff.xml#250d78e6-7494-482d-9f2b-15c11e22c1ff"/>
