@@ -26,14 +26,15 @@
         source="id-afd067275fcb46158b5df577938a2303"
         target="id-4a360d00416f43b89092644d57147e79">
       <bendpoints
-          startX="117"
+          startX="141"
           startY="-5"
-          endX="-96"
-          endY="-456"/>
+          endX="-144"
+          endY="-504"/>
       <bendpoints
           startX="141"
-          startY="499"
-          endX="-144"/>
+          startY="355"
+          endX="-144"
+          endY="-144"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_250d78e6-7494-482d-9f2b-15c11e22c1ff.xml#250d78e6-7494-482d-9f2b-15c11e22c1ff"/>

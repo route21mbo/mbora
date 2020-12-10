@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Database Management Systeem"
+    name="Datamanagement Systeem"
     id="id-f707aef5875b4fe0b5cd3066bd2d741d"
     documentation="Een systeem voor het beheren van databanken&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;Creeeren en configureren&#xD;&#xA;Toegangsverlening&#xD;&#xA;Monitoring&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;MS SQL server&#xD;&#xA;Oracle&#xD;&#xA;MySQL">
   <properties
