@@ -912,10 +912,15 @@
           endX="351"
           endY="-480"/>
       <bendpoints
-          startX="-138"
-          startY="141"
-          endX="303"
-          endY="-396"/>
+          startX="-222"
+          startY="45"
+          endX="219"
+          endY="-456"/>
+      <bendpoints
+          startX="-222"
+          startY="429"
+          endX="219"
+          endY="-72"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-0285d330377d4e63a4121a05f555ede9.xml#id-0285d330377d4e63a4121a05f555ede9"/>

@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijs- en examenreglement beheer (OER)"
+    name="Onderwijs- en examenreglement beheer (OER) / Onderwijs- en examenplan beheer"
     id="id-10d2c255f63647e1a729d70d10983059"
     documentation="Het administreren van de programmering en structurering van een opleiding (veelal per cohort).&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;volgorde en inhoud onderwijsactiviteiten&#xD;&#xA;kerntaken&#xD;&#xA;keuzedelen&#xD;&#xA;examenplan (wat wordt hoe en wanneer geëxamineerd)&#xD;&#xA;diploma-eisen&#xD;&#xA;&#xD;&#xA;Discussie: is dit des SIS of des Opleidingencatalogusbeheer&#xD;&#xA;"/>

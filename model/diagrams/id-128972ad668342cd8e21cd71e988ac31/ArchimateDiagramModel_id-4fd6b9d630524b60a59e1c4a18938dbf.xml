@@ -491,7 +491,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e005e799ca37411b95f42064fc935004"
-      fillColor="#ff0000">
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b443a46ddad2439898458e6becb9fe9c"
@@ -618,7 +618,7 @@
       id="id-f122c41390434d1ab884eb7d60345656"
       font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="&#xD;&#xA;&#xD;&#xA;Leermiddelenlijstpublicatie en leermiddelen verkoop kan ik niet goed kwijt.... Discussie nodig. Meer iets voor &quot;voortraject&quot; maar weet niet waar&#xA;&#xD;&#xA;M&amp;F: Eens. Hier lijkt het niet goede plaats, terugleggen bij de procesgroep lijkt me het beste.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="&#xD;&#xA;&#xD;&#xA;Leermiddelenlijstpublicatie en leermiddelen verkoop kan ik niet goed kwijt.... Discussie nodig. Meer iets voor &quot;voortraject&quot; maar weet niet waar &lt;-- is ondergebracht bij ontwikkelen&#xA;&#xD;&#xA;M&amp;F: Eens. Hier lijkt het niet goede plaats, terugleggen bij de procesgroep lijkt me het beste.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1013"
         y="426"
