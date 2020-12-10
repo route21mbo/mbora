@@ -1835,8 +1835,8 @@
             href="RealizationRelationship_id-d086f35210814ef492047cb5ff34c29d.xml#id-d086f35210814ef492047cb5ff34c29d"/>
       </sourceConnections>
       <bounds
-          x="1836"
-          y="36"
+          x="1524"
+          y="44"
           width="241"
           height="284"/>
       <children
@@ -1921,7 +1921,7 @@
           x="24"
           y="44"
           width="685"
-          height="284"/>
+          height="304"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-90c3458d1e3f4f858ef15c0541301a63"
@@ -2251,8 +2251,8 @@
             href="RealizationRelationship_id-3bd45e10254742728aa0b478d12c883c.xml#id-3bd45e10254742728aa0b478d12c883c"/>
       </sourceConnections>
       <bounds
-          x="2100"
-          y="36"
+          x="1800"
+          y="45"
           width="217"
           height="178"/>
       <children
@@ -2310,8 +2310,8 @@
             href="RealizationRelationship_id-cda2e66169f6456cb13637de08c0c770.xml#id-cda2e66169f6456cb13637de08c0c770"/>
       </sourceConnections>
       <bounds
-          x="1572"
-          y="36"
+          x="996"
+          y="276"
           width="241"
           height="72"/>
       <children
@@ -2352,8 +2352,8 @@
             href="RealizationRelationship_id-007951296ff64148ac4734246c134e27.xml#id-007951296ff64148ac4734246c134e27"/>
       </sourceConnections>
       <bounds
-          x="1572"
-          y="140"
+          x="1260"
+          y="44"
           width="241"
           height="180"/>
       <children
@@ -2440,7 +2440,7 @@
           x="732"
           y="44"
           width="241"
-          height="284"/>
+          height="304"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-16c55a2f15dc4e7a9e692d3a69d3729d"
