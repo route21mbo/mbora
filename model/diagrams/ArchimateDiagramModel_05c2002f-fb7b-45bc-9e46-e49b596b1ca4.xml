@@ -652,9 +652,9 @@
           id="eed828ca-d836-4bd6-954d-2b3868af32cb"
           targetConnections="89adff2e-b3ca-433b-980d-f6e2c458c910">
         <bounds
-            x="36"
+            x="24"
             y="36"
-            width="120"
+            width="145"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -665,9 +665,9 @@
           id="1a18fec1-63b8-4637-9f0e-a9c4700042f8"
           targetConnections="56afc155-5dc3-4e7c-bd45-25c4eae4914c">
         <bounds
-            x="36"
+            x="24"
             y="96"
-            width="120"
+            width="145"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
