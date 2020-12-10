@@ -3976,6 +3976,17 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-135f29a434b1428e85e98db9b171a911.xml#id-135f29a434b1428e85e98db9b171a911"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-af03c76f2d764e25b1b98fbbbf77f23a"
+        textAlignment="1"
+        content="Rene: MI&amp;DM kan mijns inziens weg">
+      <bounds
+          x="1212"
+          y="360"
+          width="133"
+          height="73"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-d678ced3c5d44e45a913a9b5b8ee3894.xml#id-d678ced3c5d44e45a913a9b5b8ee3894"/>
@@ -4672,7 +4683,7 @@
             href="RealizationRelationship_id-f5f3c8f4ed4a4f0facdf8f796c1b7881.xml#id-f5f3c8f4ed4a4f0facdf8f796c1b7881"/>
       </sourceConnections>
       <bounds
-          x="1092"
+          x="840"
           y="49"
           width="599"
           height="108"/>
@@ -4743,7 +4754,7 @@
             href="RealizationRelationship_id-3728734923f44d42b7cbf5dbec90ce14.xml#id-3728734923f44d42b7cbf5dbec90ce14"/>
       </sourceConnections>
       <bounds
-          x="564"
+          x="300"
           y="49"
           width="241"
           height="108"/>
@@ -4785,7 +4796,7 @@
             href="RealizationRelationship_id-66b1e0da05f44df088213e849b6ea655.xml#id-66b1e0da05f44df088213e849b6ea655"/>
       </sourceConnections>
       <bounds
-          x="828"
+          x="564"
           y="49"
           width="241"
           height="108"/>
@@ -4825,7 +4836,7 @@
             href="RealizationRelationship_id-fc6566fac15148f485cd24464e2b3106.xml#id-fc6566fac15148f485cd24464e2b3106"/>
       </sourceConnections>
       <bounds
-          x="303"
+          x="36"
           y="49"
           width="241"
           height="108"/>
