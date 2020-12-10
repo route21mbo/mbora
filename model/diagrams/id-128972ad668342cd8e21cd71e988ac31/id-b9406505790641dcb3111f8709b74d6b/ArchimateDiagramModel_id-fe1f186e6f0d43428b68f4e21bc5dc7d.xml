@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Student begeleiden - AppSrv"
+    name="Student begeleiden - AppSrv (oud)"
     id="id-fe1f186e6f0d43428b68f4e21bc5dc7d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
