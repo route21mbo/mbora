@@ -155,9 +155,9 @@
         source="id-c3c23dfa9ae5457090a1395ed43bdbc8"
         target="id-634269250b634524abf8003372cc374e">
       <bendpoints
-          startX="-114"
+          startX="-126"
           startY="9"
-          endX="161"
+          endX="149"
           endY="-39"/>
       <bendpoints
           startX="-126"
@@ -174,9 +174,9 @@
         source="id-c3c23dfa9ae5457090a1395ed43bdbc8"
         target="id-24b978f7c71440ebb700b2fdd3a7bb45">
       <bendpoints
-          startX="-114"
+          startX="-126"
           startY="-3"
-          endX="161"
+          endX="149"
           endY="21"/>
       <bendpoints
           startX="-126"
