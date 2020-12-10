@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden module"
     id="013069f8-c22c-4714-9903-700acc9e367d"
-    documentation="In het gepubliceerde rooster kunnen leertaken zijn geroosterd waarvoor studenten zich kunnen aanmelden. Dit kan onderdeel zijn van hun persoonlijk arrangement (leerroute).&#xD;&#xA;&#xD;&#xA;De student moet zich actief aanmelden voor zo'n geroosterde module, bijvoorbeeld omdatr er een maximum aantal studenten kan worden toegelaten, of omdat studenten aan bepaalde voorwaarden moeten voldoen.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Jef/Rene aanmelden geroosterde activiteit">
+    documentation="In het gepubliceerde rooster kunnen leertaken zijn geroosterd waarvoor studenten zich kunnen aanmelden. Dit kan onderdeel zijn van hun persoonlijk arrangement (leerroute).&#xD;&#xA;&#xD;&#xA;De student moet zich actief aanmelden voor zo'n geroosterde module, bijvoorbeeld omdatr er een maximum aantal studenten kan worden toegelaten, of omdat studenten aan bepaalde voorwaarden moeten voldoen.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Jef/Rene: wijzigen in aanmelden geroosterde activiteit">
   <properties
       key="Input"
       value="Gepubliceerd rooster, waarin modules zijn opgenomen waarvoor studenten zich kunnen aanmelden"/>

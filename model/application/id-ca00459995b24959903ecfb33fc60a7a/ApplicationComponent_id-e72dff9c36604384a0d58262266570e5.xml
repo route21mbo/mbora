@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Documentwaarmerking en -onderteken systeem"
+    name="Documentwaarmerking en -ondertekensysteem"
     id="id-e72dff9c36604384a0d58262266570e5"
     documentation="Een systeem ter ondersteuning van het waarmerken van documenten, zoals het zorgdragen voor een digitale handtekening.&#xD;&#xA;&#xD;&#xA;bijvoorbeeld:&#xD;&#xA;Evado&#xD;&#xA;DocuSign">
   <properties

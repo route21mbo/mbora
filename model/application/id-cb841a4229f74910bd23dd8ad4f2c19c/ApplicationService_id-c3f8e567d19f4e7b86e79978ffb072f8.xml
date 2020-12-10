@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderzoekstoepassing Beheer"
+    name="Onderzoekstoepassing beheer"
     id="id-c3f8e567d19f4e7b86e79978ffb072f8"
-    documentation="Integreert de verschillende onderzoekstoepassingingsdiensten, zoals enquetes, interviews, opnames, focusgroepen, ..."/>
+    documentation="Verleent diensten voor het verzamelen en visualiseren van onderzoeksgegevens, zoals enquetes, interviews, opnames, focusgroepen, A/B testing"/>

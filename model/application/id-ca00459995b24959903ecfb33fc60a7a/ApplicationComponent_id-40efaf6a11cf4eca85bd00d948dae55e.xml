@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leer Management systeem (LMS)"
+    name="Leer management systeem (LMS)"
     id="id-40efaf6a11cf4eca85bd00d948dae55e"
     documentation="Een systeem voor het beheren van leercontent en het ondersteunen van de interactie tussen student en docent&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;het creeren van content&#xD;&#xA;het arrangeren/organiseren van content, &#xD;&#xA;aanbieden aan (groepen)studenten, &#xD;&#xA;interactie/communicatie met studenten (uitnodigen, autoriseren, huiswerk indienen, afspraken vastleggen), &#xD;&#xA;werken in projecten,&#xD;&#xA;aanbieden assesments, quizzen,&#xD;&#xA;bijhouden voortgang en formatieve resultaten&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;CumLaude&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Dit begrip migreert richting een Learning Experience Platform">
   <properties
