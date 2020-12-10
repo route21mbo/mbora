@@ -12,10 +12,10 @@
         source="id-fba9f3c0f300412b88fc54ba52ea17b1"
         target="id-64c2d00ead7f4a8aa5d6e6feee9a000a">
       <bendpoints
-          startX="84"
-          startY="3"
-          endX="-108"
-          endY="-168"/>
+          startX="132"
+          startY="-6"
+          endX="-206"
+          endY="-150"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_8a9182a4-746e-4565-972e-3d9dde193e5b.xml#8a9182a4-746e-4565-972e-3d9dde193e5b"/>
@@ -27,9 +27,9 @@
         target="id-43ad5539dd7346728b626ca8f5d246d8">
       <bendpoints
           startX="168"
-          startY="10"
-          endX="-169"
-          endY="-502"/>
+          startY="-6"
+          endX="-170"
+          endY="-515"/>
       <bendpoints
           startX="168"
           startY="414"
@@ -46,9 +46,9 @@
         target="id-228bb806f9b449cd97a5e900c6121d9c">
       <bendpoints
           startX="144"
-          startY="30"
+          startY="-6"
           endX="-194"
-          endY="-756"/>
+          endY="-792"/>
       <bendpoints
           startX="144"
           startY="702"
@@ -64,10 +64,10 @@
         source="id-fba9f3c0f300412b88fc54ba52ea17b1"
         target="id-645973a8ed6048df97427e40cba5e536">
       <bendpoints
-          startX="-168"
-          startY="-29"
-          endX="191"
-          endY="-41"/>
+          startX="-144"
+          startY="-30"
+          endX="214"
+          endY="-54"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-2f18770615c0497f90707dc02fcec60f.xml#id-2f18770615c0497f90707dc02fcec60f"/>
@@ -79,9 +79,9 @@
         target="id-0f2ded2487e640809ea016b8c5ca236d">
       <bendpoints
           startX="-156"
-          startY="-5"
-          endX="203"
-          endY="-252"/>
+          startY="-30"
+          endX="202"
+          endY="-288"/>
       <bendpoints
           startX="-156"
           startY="211"
@@ -98,9 +98,9 @@
         target="id-64ed68caf3604cbe866b9df531683e4e">
       <bendpoints
           startX="-132"
-          startY="19"
-          endX="226"
-          endY="-492"/>
+          startY="-30"
+          endX="225"
+          endY="-552"/>
       <bendpoints
           startX="-132"
           startY="415"
@@ -117,9 +117,9 @@
         target="id-8205ac69e07a4c919d3926abaf2d9641">
       <bendpoints
           startX="-108"
-          startY="43"
+          startY="-30"
           endX="248"
-          endY="-720"/>
+          endY="-804"/>
       <bendpoints
           startX="-108"
           startY="750"

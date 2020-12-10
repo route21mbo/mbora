@@ -16,8 +16,8 @@
       <bendpoints
           startX="144"
           startY="6"
-          endX="-132"
-          endY="-258"/>
+          endX="-156"
+          endY="-246"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_543bf46d-83c5-4a8d-aae2-71cb51dc3ae0.xml#543bf46d-83c5-4a8d-aae2-71cb51dc3ae0"/>
@@ -29,9 +29,9 @@
         target="id-d03358d458ff4454b6b311b9872e5c32">
       <bendpoints
           startX="168"
-          startY="30"
+          startY="6"
           endX="-132"
-          endY="-708"/>
+          endY="-732"/>
       <bendpoints
           startX="168"
           startY="642"
@@ -147,19 +147,6 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_27ef94e8-6ca3-4c79-9940-2deda96d87e5.xml#27ef94e8-6ca3-4c79-9940-2deda96d87e5"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e28f1aa2ded045568d125a5b59e03408"
-        targetConnections="id-eb628a1ecd6f4e84a46d37e3091d60e7">
-      <bounds
-          x="24"
-          y="132"
-          width="169"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_1cb54f0a-dd56-4aeb-8dbc-6842c5a1d43c.xml#1cb54f0a-dd56-4aeb-8dbc-6842c5a1d43c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -322,7 +309,7 @@
           href="ServingRelationship_id-8dd6db4713bb438aabfc294ec3432169.xml#id-8dd6db4713bb438aabfc294ec3432169"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="654"
         y="900"
         width="193"
         height="55"/>
@@ -364,8 +351,8 @@
           href="ServingRelationship_id-a428fa68c6ea4cc9bff9220e096696bf.xml#id-a428fa68c6ea4cc9bff9220e096696bf"/>
     </sourceConnections>
     <bounds
-        x="672"
-        y="738"
+        x="660"
+        y="732"
         width="181"
         height="55"/>
     <archimateElement
@@ -385,7 +372,7 @@
           href="ServingRelationship_id-4f460026df5342b2aab8dcc89c068de7.xml#id-4f460026df5342b2aab8dcc89c068de7"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="660"
         y="324"
         width="181"
         height="55"/>
@@ -406,7 +393,7 @@
           href="ServingRelationship_id-3da8aa89cda64ab7995ddbb0290e80d4.xml#id-3da8aa89cda64ab7995ddbb0290e80d4"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="660"
         y="612"
         width="181"
         height="55"/>
@@ -428,7 +415,7 @@
           href="ServingRelationship_id-b32ee6ed2ab74aed968075caa848dae7.xml#id-b32ee6ed2ab74aed968075caa848dae7"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="660"
         y="468"
         width="181"
         height="55"/>
@@ -449,7 +436,7 @@
           href="ServingRelationship_id-c36fb8d07e5d46298aa45511ff51fc38.xml#id-c36fb8d07e5d46298aa45511ff51fc38"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="660"
         y="540"
         width="181"
         height="55"/>
@@ -467,6 +454,11 @@
         target="id-358359c45aa5422e99fb54c785e07e03">
       <bendpoints
           startX="-150"
+          startY="-18"
+          endX="156"
+          endY="60"/>
+      <bendpoints
+          startX="-150"
           startY="-84"
           endX="156"/>
       <archimateRelationship
@@ -475,18 +467,14 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-eb628a1ecd6f4e84a46d37e3091d60e7"
-        source="id-ad6eeacf98a846a688de6a96181dfa2c"
-        target="id-e28f1aa2ded045568d125a5b59e03408">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-bef11113da4e470db5ab42299caef45d.xml#id-bef11113da4e470db5ab42299caef45d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c67a3de4511b4a7e9f684b4d615ffa3c"
         source="id-ad6eeacf98a846a688de6a96181dfa2c"
         target="id-ab5053f566054deca5912f58cbb35dfb">
+      <bendpoints
+          startX="-150"
+          startY="18"
+          endX="156"
+          endY="-51"/>
       <bendpoints
           startX="-150"
           startY="60"
