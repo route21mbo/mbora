@@ -367,8 +367,8 @@
             href="CompositionRelationship_id-ea61668f911f4cfaa875003a472e0a92.xml#id-ea61668f911f4cfaa875003a472e0a92"/>
       </sourceConnections>
       <bounds
-          x="312"
-          y="419"
+          x="36"
+          y="420"
           width="241"
           height="100"/>
       <children
@@ -546,8 +546,8 @@
             href="CompositionRelationship_id-f90ebe0c37e049a49fdc7c421d3aea39.xml#id-f90ebe0c37e049a49fdc7c421d3aea39"/>
       </sourceConnections>
       <bounds
-          x="36"
-          y="420"
+          x="312"
+          y="421"
           width="241"
           height="97"/>
       <children
@@ -707,6 +707,17 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-1e0a385a92834276b4caacbd44ac8171.xml#id-1e0a385a92834276b4caacbd44ac8171"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-daa52cf5118441c38a916110611edf21"
+        textAlignment="1"
+        content="Portaaldiensten (intern)  opsplitsen? in:&#xD;&#xA;- Medewerkerportaal&#xD;&#xA;- Studentportaal">
+      <bounds
+          x="582"
+          y="415"
+          width="253"
+          height="109"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -3290,7 +3301,7 @@
         <bounds
             x="37"
             y="180"
-            width="156"
+            width="168"
             height="36"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
