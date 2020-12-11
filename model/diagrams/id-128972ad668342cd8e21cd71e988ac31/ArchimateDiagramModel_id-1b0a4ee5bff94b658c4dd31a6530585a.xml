@@ -589,7 +589,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-494d9e9724f440fcb168e9654c876335"
-      targetConnections="id-1f626fb146ba4ede9c3161dc2c5f376e id-3789d5fba2e545709b98b3bfa52dfc12">
+      targetConnections="id-1f626fb146ba4ede9c3161dc2c5f376e id-7aa6327f0a444a508f211313bcb10eb3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-21355c99c72241a38e1b0cac17d9f49e"
@@ -646,7 +646,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f0fd4da3868f4d0685e50e5be238420a"
-      targetConnections="id-1ebfca53a97945c38e98c62162ba8e17 id-ff473b8d99a94db094e64f962688e9d8">
+      targetConnections="id-1ebfca53a97945c38e98c62162ba8e17 id-79ea74dbce544de8b54edb41a6d8c850">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-525c1a4d0f7c47c6ab329adbd5e76c4e"
@@ -1448,21 +1448,21 @@
       fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ff473b8d99a94db094e64f962688e9d8"
+        id="id-79ea74dbce544de8b54edb41a6d8c850"
         source="id-53b1093e496448eea1a0a32778388d96"
         target="id-f0fd4da3868f4d0685e50e5be238420a">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-865e82f7fd4c4faeb084593ac6330c97.xml#id-865e82f7fd4c4faeb084593ac6330c97"/>
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-9b55cd41977f4887b1e822d426c640b7.xml#id-9b55cd41977f4887b1e822d426c640b7"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3789d5fba2e545709b98b3bfa52dfc12"
+        id="id-7aa6327f0a444a508f211313bcb10eb3"
         source="id-53b1093e496448eea1a0a32778388d96"
         target="id-494d9e9724f440fcb168e9654c876335">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-acdf00777f654feda982cfe02c933481.xml#id-acdf00777f654feda982cfe02c933481"/>
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-be77b3e119be48c784ad9790235cc319.xml#id-be77b3e119be48c784ad9790235cc319"/>
     </sourceConnections>
     <bounds
         x="-180"
