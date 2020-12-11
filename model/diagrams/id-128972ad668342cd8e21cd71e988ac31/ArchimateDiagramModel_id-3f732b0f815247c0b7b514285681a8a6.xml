@@ -276,4 +276,16 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-c3f8e567d19f4e7b86e79978ffb072f8.xml#id-c3f8e567d19f4e7b86e79978ffb072f8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e6dc000a113f4abdafd99836e99f257b"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Domein onderzoek is voor zowel de proces als de applicatie kant geparkeerd">
+    <bounds
+        x="132"
+        y="-36"
+        width="877"
+        height="61"/>
+  </children>
 </archimate:ArchimateDiagramModel>

@@ -695,7 +695,7 @@
         target="id-7737a3df602940d78b25ad4299381850">
       <bendpoints
           startX="-42"
-          startY="-435"
+          startY="-429"
           endX="630"
           endY="-24"/>
       <archimateRelationship
@@ -704,7 +704,7 @@
     </sourceConnections>
     <bounds
         x="1056"
-        y="696"
+        y="690"
         width="180"
         height="55"/>
     <archimateElement
