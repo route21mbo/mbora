@@ -142,8 +142,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-a498ea6fc4a5433fa7786f838852f0b4"
-        targetConnections="id-46c3c09a15b64926aa1080059b8be68b">
+        id="id-a498ea6fc4a5433fa7786f838852f0b4">
       <bounds
           x="386"
           y="204"
@@ -359,44 +358,6 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-26688463b54842aeaf3d61bab6ee3833"
-          source="id-4f7e7b432213429a807955bb053d8867"
-          target="id-a21efdd82156483496a37653cab24f14">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-e4acc6cc02034670885f0daa81fdda3d.xml#id-e4acc6cc02034670885f0daa81fdda3d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-46c3c09a15b64926aa1080059b8be68b"
-          source="id-4f7e7b432213429a807955bb053d8867"
-          target="id-a498ea6fc4a5433fa7786f838852f0b4">
-        <bendpoints
-            startX="484"
-            startY="-4"
-            endX="699"
-            endY="-782"/>
-        <bendpoints
-            startX="484"
-            startY="20"
-            endX="699"
-            endY="-758"/>
-        <bendpoints
-            startX="484"
-            startY="848"
-            endX="699"
-            endY="70"/>
-        <bendpoints
-            startX="-212"
-            startY="848"
-            endX="3"
-            endY="70"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-43ee5a1dbd9e4e92a7f6b5732a77c77f.xml#id-43ee5a1dbd9e4e92a7f6b5732a77c77f"/>
-      </sourceConnections>
       <bounds
           x="576"
           y="48"
@@ -758,8 +719,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a21efdd82156483496a37653cab24f14"
-      targetConnections="id-26688463b54842aeaf3d61bab6ee3833">
+      id="id-a21efdd82156483496a37653cab24f14">
     <bounds
         x="656"
         y="768"
