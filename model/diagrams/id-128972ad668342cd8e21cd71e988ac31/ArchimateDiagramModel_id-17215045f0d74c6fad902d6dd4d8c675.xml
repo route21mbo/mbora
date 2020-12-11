@@ -28,15 +28,15 @@
         source="id-f02bab0c9cfc465a82ad1f6c7a4f2e4b"
         target="id-ba8b52fbc08b4c019464f6515c3831ab">
       <bendpoints
-          startX="168"
-          startY="2"
-          endX="-120"
-          endY="-174"/>
+          startX="156"
+          startY="-10"
+          endX="-150"
+          endY="-210"/>
       <bendpoints
-          startX="132"
-          startY="146"
-          endX="-108"
-          endY="-6"/>
+          startX="156"
+          startY="182"
+          endX="-150"
+          endY="-18"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_fecfd128-2f16-4662-937e-1b8532414a01.xml#fecfd128-2f16-4662-937e-1b8532414a01"/>
@@ -47,15 +47,15 @@
         source="id-f02bab0c9cfc465a82ad1f6c7a4f2e4b"
         target="id-3f63f64e12424ed6bc98da17bc961bb5">
       <bendpoints
-          startX="120"
-          startY="14"
-          endX="-120"
-          endY="-378"/>
+          startX="156"
+          startY="-10"
+          endX="-150"
+          endY="-450"/>
       <bendpoints
-          startX="132"
-          startY="386"
-          endX="-156"
-          endY="-6"/>
+          startX="156"
+          startY="422"
+          endX="-150"
+          endY="-18"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_ce6dc27a-eca5-45f2-ac61-21b0ce1d3401.xml#ce6dc27a-eca5-45f2-ac61-21b0ce1d3401"/>
