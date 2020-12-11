@@ -107,7 +107,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-88ebeb6fee444532b4f784c3dad548ba"
-      targetConnections="id-a786858d18ea47598241b5325b5492ac">
+      targetConnections="id-a786858d18ea47598241b5325b5492ac id-5039934b543b49bcb33500310f44c060">
     <bounds
         x="324"
         y="108"
@@ -120,7 +120,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b350b94e7574ee384830b032dd234e0"
-      targetConnections="id-8f89e5a297fc4f8b94155ca50e162e91">
+      targetConnections="id-8f89e5a297fc4f8b94155ca50e162e91 id-e6882f90fd1043f381b28aa6e621b860 id-93234716be7a4acfb0db9613b11acb26">
     <bounds
         x="324"
         y="246"
@@ -310,8 +310,8 @@
       textAlignment="1"
       content="Henry&#xD;&#xA;&#xD;&#xA;2-12-2020&#xD;&#xA;&#xD;&#xA;Aangevuld&#xD;&#xA;&#xD;&#xA;To be continued.....">
     <bounds
-        x="780"
-        y="108"
+        x="852"
+        y="112"
         width="193"
         height="169"/>
   </children>
@@ -335,5 +335,77 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-0449df600f474b1bad9e2c8b1d880e53.xml#id-0449df600f474b1bad9e2c8b1d880e53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a89268b78b724824b33c71296696cce0"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5039934b543b49bcb33500310f44c060"
+        source="id-a89268b78b724824b33c71296696cce0"
+        target="id-88ebeb6fee444532b4f784c3dad548ba">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-238866854a7d4b7da29a5c2ccdc165e0.xml#id-238866854a7d4b7da29a5c2ccdc165e0"/>
+    </sourceConnections>
+    <bounds
+        x="624"
+        y="112"
+        width="169"
+        height="48"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-0d6c3771eea846deb7292e69b855f024.xml#id-0d6c3771eea846deb7292e69b855f024"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-30fc8c2da48145e59f4841ecb105ab39"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e6882f90fd1043f381b28aa6e621b860"
+        source="id-30fc8c2da48145e59f4841ecb105ab39"
+        target="id-9b350b94e7574ee384830b032dd234e0">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-8fa0ca17ddac4a608dd06e16257a101e.xml#id-8fa0ca17ddac4a608dd06e16257a101e"/>
+    </sourceConnections>
+    <bounds
+        x="624"
+        y="204"
+        width="169"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-aba3e8163e6949129745e79ef34e80db.xml#id-aba3e8163e6949129745e79ef34e80db"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6937a74ebc704a4fa54f047b1e0fa330"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-93234716be7a4acfb0db9613b11acb26"
+        source="id-6937a74ebc704a4fa54f047b1e0fa330"
+        target="id-9b350b94e7574ee384830b032dd234e0">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-4e91bae318894c85b32722f64d622f23.xml#id-4e91bae318894c85b32722f64d622f23"/>
+    </sourceConnections>
+    <bounds
+        x="624"
+        y="268"
+        width="169"
+        height="45"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-d2736eda2c964694b9c991804a2cea8e.xml#id-d2736eda2c964694b9c991804a2cea8e"/>
   </children>
 </archimate:ArchimateDiagramModel>
