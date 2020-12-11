@@ -874,12 +874,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-8b8ae0cd0ded494bac0197dea26f307c"
       textAlignment="1"
-      content="Henry&#xD;&#xA;&#xD;&#xA;1-12-2020&#xD;&#xA;&#xD;&#xA;Even afstemming of en zo ja we dit op deze wijze willen &quot;wegzetten&quot;.">
+      content="Henry&#xD;&#xA;&#xD;&#xA;1-12-2020&#xD;&#xA;&#xD;&#xA;Even afstemming of en zo ja we dit op deze wijze willen &quot;wegzetten&quot;.&#xD;&#xA;&#xD;&#xA;Arjan:&#xD;&#xA;* 'Product en dienstcatalogus' krijgt zijn beslag in de service 'serrvicemanagement' (zie omschrijving). Wel zou men die service kunnen splitsten zodat er een aparte Product &amp; dienstcatalogus onstaat. Dissucie nodig.&#xD;&#xA;* Persoonlijk zou ik 'Product- en dienstniveau' niet apart noemen, lijkt meer een stap in de automatisering van de al genoemde 'Product- en dienstencatalogus'&#xD;&#xA;* 'Basis ICT voorzieningen' vind ik persoonlijk te generiek. Deze staat al als een domein opgenomen.&#xD;&#xA;* 'Generieke ICT voorzieningen' bestaat al in vorm van een domein, genaamd 'Generieke applicaties', dit soort applicaties hoef je niet te modelleren, omdat elk proces in zekere maten gebruik maakt van 'generieke applicaties'&#xD;&#xA;* '... toepassingne onderwijs' vind ik persoonlijk te algemeen.&#xD;&#xA;* Idem voor 'business applicaties'&#xD;&#xA;&#xD;&#xA;* De generieke services, zoals document beheer, zou ik niet noemen, zie * vier.">
     <bounds
         x="1752"
         y="96"
         width="324"
-        height="204"/>
+        height="529"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1124,7 +1124,7 @@
     <bounds
         x="1260"
         y="495"
-        width="168"
+        width="193"
         height="46"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -1145,7 +1145,7 @@
     <bounds
         x="1260"
         y="624"
-        width="168"
+        width="193"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -1166,7 +1166,7 @@
     <bounds
         x="1260"
         y="555"
-        width="168"
+        width="193"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
