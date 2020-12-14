@@ -302,7 +302,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-017100f5e32c42e98bbf48a493aa9a62"
-      fillColor="#ff0000">
+      fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bfd61c83b6bb400b8083199eca66ad5a"
@@ -329,18 +329,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-cfe33312cedc4d35bd113e2b968bf6ea.xml#id-cfe33312cedc4d35bd113e2b968bf6ea"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-0de5727101984c3d8a49153a9bd61c99"
-      font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      content="Rene: te verrwarrend onderscheid tussen meerjarenplan en planning...&#xD;&#xA;&#xD;&#xA;De omschrijving van Teamplan opstellen.... lijkt ook de operationele planning zoals maken van plan van inzet te omvatten.....">
-    <bounds
-        x="932"
-        y="326"
-        width="269"
-        height="179"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
