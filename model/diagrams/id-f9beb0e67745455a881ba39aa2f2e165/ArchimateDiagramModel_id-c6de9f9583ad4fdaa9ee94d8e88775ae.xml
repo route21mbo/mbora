@@ -715,9 +715,9 @@
         content="Portaaldiensten (intern)  opsplitsen? in:&#xD;&#xA;- Medewerkerportaal&#xD;&#xA;- Studentportaal">
       <bounds
           x="582"
-          y="426"
+          y="439"
           width="253"
-          height="109"/>
+          height="96"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
