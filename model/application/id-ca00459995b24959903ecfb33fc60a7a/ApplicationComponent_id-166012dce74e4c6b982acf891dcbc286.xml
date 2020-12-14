@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business intelligence"
     id="id-166012dce74e4c6b982acf891dcbc286"
-    documentation="Een systeem voor het verzamelen, analyseren , voorspellen en presenteren van gegevens, o.a. voor het maken van beslissingen (decision making)&#xD;&#xA;&#xD;&#xA;Van hindsight, naar insight tot foresight:&#xD;&#xA;wat gebeurde er&#xD;&#xA;waarom gebeurde dit&#xD;&#xA;wat zou er gebeuren&#xD;&#xA;hoe kunnen we het laten gebeuren&#xD;&#xA;&#xD;&#xA;Dit omvat ondermeer:&#xD;&#xA;Datamining&#xD;&#xA;Datawarehouse&#xD;&#xA;AI - machine learning&#xD;&#xA;Dashboards&#xD;&#xA;is onderdeel van data science&#xD;&#xA;&#xD;&#xA;">
+    documentation="Een systeem voor het verzamelen, analyseren , voorspellen en presenteren van gegevens, o.a. voor het maken van beslissingen (decision making)&#xD;&#xA;&#xD;&#xA;Van hindsight, naar insight tot foresight:&#xD;&#xA;* wat gebeurde er&#xD;&#xA;* waarom gebeurde dit&#xD;&#xA;* wat zou er gebeuren&#xD;&#xA;* hoe kunnen we het laten gebeuren&#xD;&#xA;&#xD;&#xA;Dit omvat ondermeer:&#xD;&#xA;* Datamining&#xD;&#xA;* Datawarehouse&#xD;&#xA;* AI - machine learning&#xD;&#xA;* Dashboards&#xD;&#xA;* is onderdeel van data science&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Source"
       value="https://en.wikipedia.org/wiki/Business_intelligence"/>
