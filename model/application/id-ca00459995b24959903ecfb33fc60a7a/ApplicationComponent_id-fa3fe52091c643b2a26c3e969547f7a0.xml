@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IAM-systemen"
     id="id-fa3fe52091c643b2a26c3e969547f7a0"
-    documentation="Verzamelbegrip van systemen die zorgdragen voor het:&#xD;&#xA;beheren van digitale identiteiten&#xD;&#xA;beheren autorisaties&#xD;&#xA;authenticeren van gebruikers&#xD;&#xA;faciliteren van het inlogproces&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Ximex&#xD;&#xA;AD&#xD;&#xA;ADFS&#xD;&#xA;Eduroam (extern/federatie)&#xD;&#xA;SurfConext (extern/federatie)">
+    documentation="Verzamelbegrip van systemen die zorgdragen voor het:&#xD;&#xA;beheren van digitale identiteiten&#xD;&#xA;beheren autorisaties&#xD;&#xA;authenticeren van gebruikers&#xD;&#xA;faciliteren van het inlogproces&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Ximex&#xD;&#xA;RedSpider&#xD;&#xA;AD(azure)&#xD;&#xA;ADFS&#xD;&#xA;Eduroam (extern/federatie)&#xD;&#xA;SurfConext (extern/federatie)">
   <properties
       key="Source"
       value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>

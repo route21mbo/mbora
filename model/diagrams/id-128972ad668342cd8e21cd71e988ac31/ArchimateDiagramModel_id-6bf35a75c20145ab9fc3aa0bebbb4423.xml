@@ -502,15 +502,15 @@
         source="id-4ff5d2766ade40988f9e8037ab1ac969"
         target="id-cc7050b58abc4601a93847c2c304904b">
       <bendpoints
-          startX="-138"
-          startY="-8"
-          endX="174"
-          endY="46"/>
+          startX="-150"
+          startY="-9"
+          endX="162"
+          endY="45"/>
       <bendpoints
-          startX="-138"
-          startY="-44"
-          endX="174"
-          endY="10"/>
+          startX="-150"
+          startY="-45"
+          endX="162"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-a75ebde5d5d04184bd3c76565e89a193.xml#id-a75ebde5d5d04184bd3c76565e89a193"/>
@@ -666,7 +666,7 @@
       textAlignment="1"
       content="M&amp;F&#xA;&#xA;Informatie is ook folders etc. Dat valt niet onder portaaldiensten. De service zou dan bijv Repro kunnen zijn.&#xA;&#xA;SiS:&#xA;Beheerdienst Basisgegevens Student&#xA;Beheerdienst Onderwijs- en Begeleidinggegevens Student daar kan &quot;Leerarrangementen beheer&quot; dan ook onder vallen. (Leerroute en voortgang)&#xA;Beheerdienst Ondersteuninggegevens Student&#xA;&#xA;Beheerdienst Onderwijsgegevens (OER, Arrangementen, etc)&#xA;Beheerdienst Docentgegevens etc. ">
     <bounds
-        x="876"
+        x="910"
         y="84"
         width="425"
         height="313"/>

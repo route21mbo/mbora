@@ -28,15 +28,15 @@
         source="id-444eb593a65d4d42a9439dedb9224147"
         target="id-c8eb2b90633c4619a04023bef9371cb8">
       <bendpoints
-          startX="144"
+          startX="156"
           startY="-6"
-          endX="-116"
+          endX="-120"
           endY="-372"/>
       <bendpoints
-          startX="144"
-          startY="302"
-          endX="-116"
-          endY="30"/>
+          startX="156"
+          startY="198"
+          endX="-120"
+          endY="-168"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_3953c8e2-d322-4aaa-ab1d-08afce13df43.xml#3953c8e2-d322-4aaa-ab1d-08afce13df43"/>
@@ -47,15 +47,15 @@
         source="id-444eb593a65d4d42a9439dedb9224147"
         target="id-3cf9900aa0cd49c992682c0e70260e9d">
       <bendpoints
-          startX="144"
+          startX="156"
           startY="-6"
-          endX="-116"
-          endY="-840"/>
+          endX="-120"
+          endY="-786"/>
       <bendpoints
-          startX="144"
-          startY="614"
-          endX="-116"
-          endY="18"/>
+          startX="156"
+          startY="618"
+          endX="-120"
+          endY="-162"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_490d968e-36c0-43f5-89ad-b337170b732a.xml#490d968e-36c0-43f5-89ad-b337170b732a"/>
@@ -66,20 +66,20 @@
         source="id-444eb593a65d4d42a9439dedb9224147"
         target="id-2e812add121c429cbb70c1966a78ecb1">
       <bendpoints
-          startX="144"
+          startX="156"
           startY="-6"
-          endX="-116"
-          endY="-1134"/>
+          endX="-120"
+          endY="-1050"/>
       <bendpoints
-          startX="144"
-          startY="2"
-          endX="-116"
-          endY="-792"/>
+          startX="156"
+          startY="30"
+          endX="-120"
+          endY="-1014"/>
       <bendpoints
-          startX="144"
-          startY="1122"
-          endX="-116"
-          endY="-12"/>
+          startX="156"
+          startY="1014"
+          endX="-120"
+          endY="-30"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_3ff11596-9a2c-4e86-afe0-c2b4c7c3654a.xml#3ff11596-9a2c-4e86-afe0-c2b4c7c3654a"/>
@@ -118,7 +118,7 @@
     <bounds
         x="288"
         y="72"
-        width="161"
+        width="193"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -127,7 +127,7 @@
       <bounds
           x="24"
           y="96"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -140,7 +140,7 @@
       <bounds
           x="24"
           y="30"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -202,7 +202,7 @@
     <bounds
         x="288"
         y="312"
-        width="161"
+        width="193"
         height="409"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -211,7 +211,7 @@
       <bounds
           x="24"
           y="336"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -224,7 +224,7 @@
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -237,7 +237,7 @@
       <bounds
           x="24"
           y="120"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -250,7 +250,7 @@
       <bounds
           x="24"
           y="192"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -263,7 +263,7 @@
       <bounds
           x="24"
           y="264"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -288,8 +288,8 @@
     </sourceConnections>
     <bounds
         x="288"
-        y="1224"
-        width="161"
+        y="1140"
+        width="193"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -298,7 +298,7 @@
       <bounds
           x="24"
           y="36"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -350,8 +350,8 @@
     </sourceConnections>
     <bounds
         x="288"
-        y="798"
-        width="161"
+        y="744"
+        width="193"
         height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -360,7 +360,7 @@
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -373,7 +373,7 @@
       <bounds
           x="24"
           y="204"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -386,7 +386,7 @@
       <bounds
           x="24"
           y="120"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -399,7 +399,7 @@
       <bounds
           x="24"
           y="288"
-          width="120"
+          width="152"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -422,9 +422,9 @@
           href="ServingRelationship_id-c605f90fb05d45cdb56bafee83231932.xml#id-c605f90fb05d45cdb56bafee83231932"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="1260"
-        width="157"
+        x="624"
+        y="1176"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -444,8 +444,8 @@
     </sourceConnections>
     <bounds
         x="624"
-        y="852"
-        width="157"
+        y="798"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -465,8 +465,8 @@
     </sourceConnections>
     <bounds
         x="624"
-        y="1008"
-        width="157"
+        y="954"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -491,8 +491,8 @@
     </sourceConnections>
     <bounds
         x="624"
-        y="1092"
-        width="157"
+        y="1038"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -537,7 +537,7 @@
     <bounds
         x="624"
         y="372"
-        width="157"
+        width="181"
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -558,7 +558,7 @@
     <bounds
         x="624"
         y="648"
-        width="157"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -578,8 +578,8 @@
     </sourceConnections>
     <bounds
         x="625"
-        y="468"
-        width="156"
+        y="456"
+        width="180"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -598,10 +598,10 @@
           href="ServingRelationship_id-3ed173949fdb4648ace2642af6206f04.xml#id-3ed173949fdb4648ace2642af6206f04"/>
     </sourceConnections>
     <bounds
-        x="600"
+        x="624"
         y="96"
         width="181"
-        height="49"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-212d42674e864e5d9c0ea61830bea0df.xml#id-212d42674e864e5d9c0ea61830bea0df"/>
@@ -619,9 +619,9 @@
           href="ServingRelationship_id-ae0852a435204de69fc3f4f7dc66e562.xml#id-ae0852a435204de69fc3f4f7dc66e562"/>
     </sourceConnections>
     <bounds
-        x="619"
-        y="540"
-        width="168"
+        x="625"
+        y="576"
+        width="180"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
