@@ -713,7 +713,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-08701e01cd2b4285810641c487543435"
-        targetConnections="id-e2896b40978d4a718cdaf9d6eb028479">
+        targetConnections="id-e2896b40978d4a718cdaf9d6eb028479 id-4d71c1b38015459ea1ae1ffb6fff59f6">
       <bounds
           x="36"
           y="96"
@@ -794,19 +794,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0a552e7afa4c4ce99fec65c2574e3037"
-      fillColor="#00ff00">
-    <bounds
-        x="1503"
-        y="150"
-        width="198"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-6b4770977cec4d10a5a44471addc92e6.xml#id-6b4770977cec4d10a5a44471addc92e6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-91c1f9fe0f4a45cbb91bf10d8c7b322e"
       fillColor="#00ff00">
     <bounds
@@ -874,7 +861,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-8b8ae0cd0ded494bac0197dea26f307c"
       textAlignment="1"
-      content="Henry&#xD;&#xA;&#xD;&#xA;1-12-2020&#xD;&#xA;&#xD;&#xA;Even afstemming of en zo ja we dit op deze wijze willen &quot;wegzetten&quot;.&#xD;&#xA;&#xD;&#xA;Arjan:&#xD;&#xA;* 'Product en dienstcatalogus' krijgt zijn beslag in de service 'serrvicemanagement' (zie omschrijving). Wel zou men die service kunnen splitsten zodat er een aparte Product &amp; dienstcatalogus onstaat. Dissucie nodig.&#xD;&#xA;* Persoonlijk zou ik 'Product- en dienstniveau' niet apart noemen, lijkt meer een stap in de automatisering van de al genoemde 'Product- en dienstencatalogus'&#xD;&#xA;* 'Basis ICT voorzieningen' vind ik persoonlijk te generiek. Deze staat al als een domein opgenomen.&#xD;&#xA;* 'Generieke ICT voorzieningen' bestaat al in vorm van een domein, genaamd 'Generieke applicaties', dit soort applicaties hoef je niet te modelleren, omdat elk proces in zekere maten gebruik maakt van 'generieke applicaties'&#xD;&#xA;* '... toepassingne onderwijs' vind ik persoonlijk te algemeen.&#xD;&#xA;* Idem voor 'business applicaties'&#xD;&#xA;&#xD;&#xA;* De generieke services, zoals document beheer, zou ik niet noemen, zie * vier.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Henry&#xD;&#xA;&#xD;&#xA;1-12-2020&#xD;&#xA;&#xD;&#xA;Even afstemming of en zo ja we dit op deze wijze willen &quot;wegzetten&quot;.&#xD;&#xA;&#xD;&#xA;Arjan:&#xD;&#xA;* 'Product en dienstcatalogus' krijgt zijn beslag in de service 'serrvicemanagement' (zie omschrijving). Wel zou men die service kunnen splitsten zodat er een aparte Product &amp; dienstcatalogus onstaat. Dissucie nodig.&#xD;&#xA;* Persoonlijk zou ik 'Product- en dienstniveau' niet apart noemen, lijkt meer een stap in de automatisering van de al genoemde 'Product- en dienstencatalogus'&#xD;&#xA;* 'Basis ICT voorzieningen' vind ik persoonlijk te generiek. Deze staat al als een domein opgenomen.&#xD;&#xA;* 'Generieke ICT voorzieningen' bestaat al in vorm van een domein, genaamd 'Generieke applicaties', dit soort applicaties hoef je niet te modelleren, omdat elk proces in zekere maten gebruik maakt van 'generieke applicaties'&#xD;&#xA;* '... toepassingne onderwijs' vind ik persoonlijk te algemeen.&#xD;&#xA;* Idem voor 'business applicaties'&#xD;&#xA;&#xD;&#xA;* De generieke services, zoals document beheer, zou ik niet noemen, zie * vier.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Henry &#xD;&#xA;14-12-2020&#xD;&#xA;Kan me er in vinden om hier alleen product- en dienstencatalogus te benoemen. ( product- en dienstenniveau service verwijderd )&#xD;&#xA;&#xD;&#xA;Dus generieke ICT voorzieningen en generieke applicaties worden al benoemd. &#xD;&#xA;&#xD;&#xA;Hoe ga je om met specifieke applicaties die je gebruik wil laten maken van voorzieningen die er in de basis al zijn,  waaronder, toegang en gebruik van de betreffende toepassing (o.b.v. IAM) en data uit bron systemen?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1752"
         y="96"
@@ -1589,5 +1576,26 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-db7089ebb8f84a0882d3728fd6e6084d.xml#id-db7089ebb8f84a0882d3728fd6e6084d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d6866dc9de2f49bea7184e499f1d32b5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4d71c1b38015459ea1ae1ffb6fff59f6"
+        source="id-d6866dc9de2f49bea7184e499f1d32b5"
+        target="id-08701e01cd2b4285810641c487543435">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-c0b056f81aff4c3596fb84a58ca8ecfe.xml#id-c0b056f81aff4c3596fb84a58ca8ecfe"/>
+    </sourceConnections>
+    <bounds
+        x="-144"
+        y="150"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-835132359b5f4dbcaa19ccb9186f58e3.xml#id-835132359b5f4dbcaa19ccb9186f58e3"/>
   </children>
 </archimate:ArchimateDiagramModel>
