@@ -681,15 +681,15 @@
         source="id-96fb1f34437f454980571d4144616a78"
         target="id-b7522880459a4020be6ff08351a9acdb">
       <bendpoints
-          startX="762"
+          startX="761"
           startY="-15"
           endX="1106"
-          endY="843"/>
+          endY="747"/>
       <bendpoints
-          startX="762"
-          startY="-831"
+          startX="761"
+          startY="-783"
           endX="1106"
-          endY="27"/>
+          endY="-21"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-1a6fb779a54e4f7fb3b8caeb3a5e0ca5.xml#id-1a6fb779a54e4f7fb3b8caeb3a5e0ca5"/>
@@ -737,8 +737,8 @@
           href="ServingRelationship_id-dd2c5359ba5c4b2d95b9e992636d73c3.xml#id-dd2c5359ba5c4b2d95b9e992636d73c3"/>
     </sourceConnections>
     <bounds
-        x="721"
-        y="360"
+        x="720"
+        y="372"
         width="154"
         height="55"/>
     <archimateElement
