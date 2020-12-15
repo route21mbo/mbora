@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Webserverbeheer"
+    name="Applicaties"
     id="id-68ef5c9f49224293b2cf8901df0c53a1"
-    documentation="Een systeem dat de webservers beheert.&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;beheer autorisaties&#xD;&#xA;plaatsen content&#xD;&#xA;performance beheer (caching)&#xD;&#xA;filteren verkeer&#xD;&#xA;routing verkeer&#xD;&#xA;monitoring&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Apache&#xD;&#xA;IIS&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Focus ligt niet op de content maar op de werking en inrichting van de infrastructuur ervan.&#xD;&#xA;&#xD;&#xA;Zie ook CMS."/>
+    documentation="Verzamelbegrip van applicaties&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;* Topdesk&#xD;&#xA;* Eduarte &#xD;&#xA;* Osiris&#xD;&#xA;"/>

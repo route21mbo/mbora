@@ -42,9 +42,9 @@
         target="id-93e8477d08ac49f48a55ce9a500a7770">
       <bendpoints
           startX="138"
-          startY="54"
+          startY="6"
           endX="-144"
-          endY="-329"/>
+          endY="-377"/>
       <bendpoints
           startX="138"
           startY="474"
@@ -60,9 +60,9 @@
         target="id-8a21dad9839348c697ee2c876b11c880">
       <bendpoints
           startX="138"
-          startY="30"
+          startY="6"
           endX="-144"
-          endY="-528"/>
+          endY="-552"/>
       <bendpoints
           startX="138"
           startY="606"
@@ -492,12 +492,23 @@
           href="ServingRelationship_id-df8966429ef54596b24ebf9eca2fb78f.xml#id-df8966429ef54596b24ebf9eca2fb78f"/>
     </sourceConnections>
     <bounds
-        x="626"
-        y="96"
+        x="625"
+        y="126"
         width="179"
         height="37"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-d34b3f2880ad4f2ab3539e78fe04fa1f.xml#id-d34b3f2880ad4f2ab3539e78fe04fa1f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-aff31acb72334c41b3eab5a18373ef37"
+      textAlignment="1"
+      content="Accoutantscontrole naar finance?">
+    <bounds
+        x="960"
+        y="372"
+        width="205"
+        height="241"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toegangsverleningsdienst"
     id="id-fca1baaee35f47cdb37d9a74516cbe02"
-    documentation="Het authenticeren, autoriseren, toegang verlenen tijdens het inloggen in digitale sytemen.&#xD;&#xA;"/>
+    documentation="Het authenticeren, autoriseren, toegang verlenen tijdens het inloggen.&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;* Entreedienst&#xD;&#xA;* ADFS&#xD;&#xA;* Surfconext&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

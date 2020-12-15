@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Content Management Systeem (CMS)"
     id="id-18a65954bc0d4c098bd972bd2f9462a5"
-    documentation="Een systeem voor het beheren van de content in websites&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;het ontwerpen van sjablonen&#xD;&#xA;opslag van content (zoals afbeeldilngen, teksten)&#xD;&#xA;plaatsen van content&#xD;&#xA;beheren van autorisaties&#xD;&#xA;zoekmodule&#xD;&#xA;analyse paginagebruik&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Wordpress&#xD;&#xA;Joomla&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Focus ligt niet op werking en inrichting van de webserver software en hardware. Zie hiervoor Webserverbehher">
+    documentation="Een systeem  verantwoordelijk voor het het managen van creatie en manipulatie van digitale bronnen. Voorbeeld is bijvoorbeeld het beheer van aangeboden webcontent.&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;het ontwerpen van sjablonen&#xD;&#xA;opslag van content (zoals afbeeldilngen, teksten)&#xD;&#xA;plaatsen van content&#xD;&#xA;beheren van autorisaties&#xD;&#xA;zoekmodule&#xD;&#xA;analyse paginagebruik&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Wordpress&#xD;&#xA;Joomla&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Focus ligt niet op werking en inrichting van de webserver software en hardware. Zie hiervoor Webserverbehher">
   <properties
       key="Source"
       value="https://en.wikipedia.org/wiki/Content_management_system"/>

@@ -26,10 +26,10 @@
         source="id-afd067275fcb46158b5df577938a2303"
         target="id-4a360d00416f43b89092644d57147e79">
       <bendpoints
-          startX="117"
+          startX="141"
           startY="-5"
-          endX="-96"
-          endY="-456"/>
+          endX="-144"
+          endY="-504"/>
       <bendpoints
           startX="141"
           startY="355"
@@ -369,8 +369,8 @@
           href="ServingRelationship_id-d64d496e6a124a03bad19fde898c49e4.xml#id-d64d496e6a124a03bad19fde898c49e4"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="696"
+        x="636"
+        y="708"
         width="157"
         height="55"/>
     <archimateElement
