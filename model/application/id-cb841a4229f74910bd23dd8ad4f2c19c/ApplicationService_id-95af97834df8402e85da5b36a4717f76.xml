@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financiele Analyse"
     id="id-95af97834df8402e85da5b36a4717f76"
-    documentation="Ondersteunt de financiele analyse denk aan:&#xD;&#xA;&#xD;&#xA;- kostprijscalculatie&#xD;&#xA;- rendement&#xD;&#xA;- contante waardes&#xD;&#xA;-  horizontale analyses &#xD;&#xA;- Verticale analyses &#xD;&#xA;- Ratio's (contante waardes, current ratio, working captial, acid, turnover, debt to asset, ...)&#xD;&#xA;- Solvency&#xD;&#xA;- Liquidity&#xD;&#xA;- Profitability&#xD;&#xA;- What if scenario's m.b.v. kasstromen"/>
+    documentation="Ondersteunt de financiele analyse denk aan:&#xD;&#xA;&#xD;&#xA;* kostprijscalculatie&#xD;&#xA;* rendement&#xD;&#xA;* contante waardes&#xD;&#xA;*  horizontale analyses &#xD;&#xA;* Verticale analyses &#xD;&#xA;* Ratio's (contante waardes, current ratio, working captial, acid, turnover, debt to asset, ...)&#xD;&#xA;* Solvency&#xD;&#xA;* Liquidity&#xD;&#xA;* Profitability&#xD;&#xA;* What if scenario's m.b.v. kasstromen"/>

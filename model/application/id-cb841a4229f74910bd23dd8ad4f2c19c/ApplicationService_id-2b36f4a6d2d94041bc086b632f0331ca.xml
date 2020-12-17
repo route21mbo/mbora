@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="On- &amp; offboarding"
-    id="id-2b36f4a6d2d94041bc086b632f0331ca"/>
+    id="id-2b36f4a6d2d94041bc086b632f0331ca"
+    documentation="Ondersteunt het onboarding proces (het registreren, inwerken, voorzien van rechten, toekennen van rollen, ...) en offboarding proces (administreren, ontnemen rechten, ...)"/>
