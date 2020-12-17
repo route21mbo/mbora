@@ -560,15 +560,15 @@
         source="id-3aaf657aa74e49bd8c6f63afbd229ff2"
         target="id-2d2b4d5226f441b8aea9cbb46ee90990">
       <bendpoints
-          startX="288"
+          startX="312"
           startY="-12"
-          endX="564"
-          endY="-662"/>
+          endX="588"
+          endY="-663"/>
       <bendpoints
-          startX="300"
+          startX="312"
           startY="660"
-          endX="576"
-          endY="10"/>
+          endX="588"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-4a258c85515845e38559e46a0dd7cbb1.xml#id-4a258c85515845e38559e46a0dd7cbb1"/>
@@ -955,7 +955,7 @@
     </sourceConnections>
     <bounds
         x="624"
-        y="1020"
+        y="1008"
         width="162"
         height="49"/>
     <archimateElement
