@@ -1663,4 +1663,15 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-aba3e8163e6949129745e79ef34e80db.xml#id-aba3e8163e6949129745e79ef34e80db"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-972c606f963446d5859f53c57f6ad2f2"
+      textAlignment="1"
+      content="Feedback aan werkgroep 2:&#xD;&#xA;Facility &amp; ICT management opsplitsen, en beheren infrastructuur verder uitwerken.">
+    <bounds
+        x="1404"
+        y="552"
+        width="169"
+        height="145"/>
+  </children>
 </archimate:ArchimateDiagramModel>
