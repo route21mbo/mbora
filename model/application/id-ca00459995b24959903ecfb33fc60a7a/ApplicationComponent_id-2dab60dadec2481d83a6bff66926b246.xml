@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Databases &amp; Data Warehouse"
-    id="id-2dab60dadec2481d83a6bff66926b246"/>
+    name="Database systemen"
+    id="id-2dab60dadec2481d83a6bff66926b246"
+    documentation="Verzamelbegrip van databasemanagementsystemen.&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;SQLserver&#xD;&#xA;Oracle"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwaliteitsmanagement systeem"
     id="id-ec7847352631423cbfbf3fccd4bcff00"
-    documentation="Een systeem dat kwaliteitsmanagement ondersteunt.">
+    documentation="Een systeem dat risico- en kwaliteitsmanagement ondersteunt. ">
   <properties
       key="Source"
       value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meerjaarplanning"
-    id="id-ad20cef746024f0abfeb84f1703836cc"/>
+    id="id-ad20cef746024f0abfeb84f1703836cc"
+    documentation="Ondersteunt het maken van tactische plannen over meerdere (>2) jaren."/>

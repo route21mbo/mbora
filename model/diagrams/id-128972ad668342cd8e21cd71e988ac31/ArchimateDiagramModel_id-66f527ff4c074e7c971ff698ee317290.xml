@@ -106,4 +106,15 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_14abfc96-6ac7-41a6-80a0-afa0571907c6.xml#14abfc96-6ac7-41a6-80a0-afa0571907c6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-aaf22d63d93b4146951fa514b484cbc7"
+      textAlignment="1"
+      content="wordt ondersteunt door generieke applicaties&#xD;&#xA;&#xD;&#xA;* opnemen in de beschrijvingen">
+    <bounds
+        x="804"
+        y="90"
+        width="253"
+        height="235"/>
+  </children>
 </archimate:ArchimateDiagramModel>

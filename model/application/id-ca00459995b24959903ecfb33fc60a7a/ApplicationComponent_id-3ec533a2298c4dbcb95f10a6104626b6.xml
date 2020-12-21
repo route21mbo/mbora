@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mobile Device Management (MDM)"
     id="id-3ec533a2298c4dbcb95f10a6104626b6"
-    documentation="Een systeem voor het beheer van mobiele apparaten (smartphones, tablets e.d.)&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;SOTI MobiControl&#xD;&#xA;Microsoft Intune">
+    documentation="Een systeem ter ondersteuning van het beheer van mobiele apparaten (smartphones, tablets e.d.)&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;SOTI MobiControl&#xD;&#xA;Microsoft Intune">
   <properties
       key="Source"
       value="None"/>

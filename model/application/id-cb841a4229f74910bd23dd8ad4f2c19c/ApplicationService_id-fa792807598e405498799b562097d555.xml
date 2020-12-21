@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitwisseling BRON/ROD"
-    id="id-fa792807598e405498799b562097d555"/>
+    id="id-fa792807598e405498799b562097d555"
+    documentation="Het formeel uitwisselen van gegevens met de overheid zoals m.b.t. de bekostiging"/>

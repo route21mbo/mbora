@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mediatheekbeheer systeem"
     id="id-a244e35304d140088c33e419f3fabc22"
-    documentation="Een systeem dat het beheren van collecties van materialen (boeken, tijdschriften, artikelen, multimedia) en het aanbieden, reserveren en uitlenen ervan.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Aura">
+    documentation="Een systeem dat het beheren &amp; werven van collecties bestaande uit materialen ondersteunt (denka aan boeken, tijdschriften, artikelen, multimedia). Daarnaast voorziet het systeem ook in een centrale repository en het aanbieden, reserveren en uitlenen van materialen.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Aura">
   <properties
       key="Source"
       value="https://hora.surf.nl/index.php?title=Id-aebc5d8c-8844-a65d-b72c-7f4cb5183701"/>

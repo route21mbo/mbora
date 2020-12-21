@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Financiele Raportage"
+    name="Financiele analyse &amp; raportage"
     id="id-af4bad06aa034770a1ac09540906d5f9"
-    documentation="Het ondersteunen van de financiele reporting. Denk aan:&#xD;&#xA;&#xD;&#xA;- Jaarverslagen&#xD;&#xA;- (Trial)Balans&#xD;&#xA;- inkomen overzicht&#xD;&#xA;- kasstromen&#xD;&#xA;  - Kaseffecten&#xD;&#xA;  - Investeringsactiviteiten&#xD;&#xA;  - Financieringsactiviteiten&#xD;&#xA;  - Increase/decrease kas&#xD;&#xA;  - kasomvang&#xD;&#xA;- Owner's equity"/>
+    documentation="Het ondersteunen van de financiele analyse en reporting. &#xD;&#xA;&#xD;&#xA;Denk bij rapporten aan:&#xD;&#xA;* Jaarverslagen&#xD;&#xA;* (Trial)Balans&#xD;&#xA;* inkomen overzicht&#xD;&#xA;* kasstromen&#xD;&#xA;  * Kaseffecten&#xD;&#xA;  * Investeringsactiviteiten&#xD;&#xA;  * Financieringsactiviteiten&#xD;&#xA;  * Increase/decrease kas&#xD;&#xA;  * kasomvang&#xD;&#xA;* Owner's equity&#xD;&#xA;&#xD;&#xA;Denk bij analyse aan:&#xD;&#xA;* kostprijscalculatie&#xD;&#xA;* rendement&#xD;&#xA;* contante waardes&#xD;&#xA;*  horizontale analyses &#xD;&#xA;* Verticale analyses &#xD;&#xA;* Ratio's (contante waardes, current ratio, working captial, acid, turnover, debt to asset, ...)&#xD;&#xA;* Solvency&#xD;&#xA;* Liquidity&#xD;&#xA;* Profitability&#xD;&#xA;* What if scenario's m.b.v. kasstromen"/>
