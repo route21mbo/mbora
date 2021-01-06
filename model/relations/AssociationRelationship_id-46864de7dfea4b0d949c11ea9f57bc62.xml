@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sluit"
     id="id-46864de7dfea4b0d949c11ea9f57bc62">
   <source
       xsi:type="archimate:BusinessObject"

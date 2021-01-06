@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaat uit"
     id="f3a6fc2b-a970-4549-8af9-5e3fd6a5c029">
   <source
       xsi:type="archimate:BusinessObject"

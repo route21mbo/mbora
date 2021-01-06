@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt gegeven per"
     id="bce8f869-1ef1-49ad-a971-e4798cb5e511">
   <source
       xsi:type="archimate:BusinessObject"
