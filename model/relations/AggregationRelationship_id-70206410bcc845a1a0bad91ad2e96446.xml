@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kent"
     id="id-70206410bcc845a1a0bad91ad2e96446">
   <source
       xsi:type="archimate:BusinessObject"

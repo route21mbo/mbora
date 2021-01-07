@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wordt vastgelegd in"
+    name="wordt vastgelegd in"
     id="id-5b9c4ed104d24091bf211bb7625832f3"
     directed="true">
   <source

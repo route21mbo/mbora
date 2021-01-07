@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="wordt afgenomen tijdens"
-    id="id-1472a645cafd45789e34799fe7b8d31e">
+    name="leidt tot"
+    id="id-3c7723d3e71e4d7b96147d69d671ee58">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-32bb2d6343e94e3b99957a64be790655.xml#id-32bb2d6343e94e3b99957a64be790655"/>
+      href="BusinessObject_60bd4868-7624-447d-ac5d-831e232e9e72.xml#60bd4868-7624-447d-ac5d-831e232e9e72"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-f1da88093c4642a5aa47ee42d4473c56.xml#id-f1da88093c4642a5aa47ee42d4473c56"/>
+      href="BusinessObject_id-c579bdca2a254c678835c1f2274985b3.xml#id-c579bdca2a254c678835c1f2274985b3"/>
 </archimate:AssociationRelationship>

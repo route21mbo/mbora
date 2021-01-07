@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="wordt afgenomen tijdens"
-    id="id-1472a645cafd45789e34799fe7b8d31e">
+    name="sluit"
+    id="id-7c6fecca2b9e448fb8a5bf30900c1909">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-32bb2d6343e94e3b99957a64be790655.xml#id-32bb2d6343e94e3b99957a64be790655"/>
+      href="BusinessObject_1b667d54-7a99-4b2b-b47c-8247d45e9222.xml#1b667d54-7a99-4b2b-b47c-8247d45e9222"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-f1da88093c4642a5aa47ee42d4473c56.xml#id-f1da88093c4642a5aa47ee42d4473c56"/>
+      href="BusinessObject_id-ae925af098964a2c9cc726afe87128e6.xml#id-ae925af098964a2c9cc726afe87128e6"/>
 </archimate:AssociationRelationship>

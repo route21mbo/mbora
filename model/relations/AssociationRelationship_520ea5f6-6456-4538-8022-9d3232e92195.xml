@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doet"
     id="520ea5f6-6456-4538-8022-9d3232e92195">
   <source
       xsi:type="archimate:BusinessObject"

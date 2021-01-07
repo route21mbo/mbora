@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is basis voor"
-    id="id-c0c24a64dade4cf6b80d4a8df1d65b3d"
+    name="is input voor"
+    id="id-21121adf4b0349ce8275b70d9a925c19"
     directed="true">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-725f5da93e0141a291860544819c43ff.xml#id-725f5da93e0141a291860544819c43ff"/>
+      href="BusinessObject_id-ca25fff2caf14ce589c79a7eb175614f.xml#id-ca25fff2caf14ce589c79a7eb175614f"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-ca25fff2caf14ce589c79a7eb175614f.xml#id-ca25fff2caf14ce589c79a7eb175614f"/>
+      href="BusinessObject_8a65faa8-d8a9-40ad-9c5d-0b3506f2310e.xml#8a65faa8-d8a9-40ad-9c5d-0b3506f2310e"/>
 </archimate:AssociationRelationship>
