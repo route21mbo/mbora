@@ -131,7 +131,7 @@
         x="360"
         y="72"
         width="205"
-        height="349"/>
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-247c90c79dc14d7c877a08606eb1ccff"
@@ -160,7 +160,7 @@
         targetConnections="id-b2fdede6b596488cba7d0d40ce6d173b">
       <bounds
           x="24"
-          y="276"
+          y="252"
           width="157"
           height="55"/>
       <archimateElement
@@ -173,7 +173,7 @@
         targetConnections="id-863d7cfee8a94e83867391f3e32b4b85">
       <bounds
           x="24"
-          y="192"
+          y="180"
           width="157"
           height="55"/>
       <archimateElement
@@ -540,5 +540,16 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_1b667d54-7a99-4b2b-b47c-8247d45e9222.xml#1b667d54-7a99-4b2b-b47c-8247d45e9222"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e375736590604753bc92a3b3d723ff35"
+      textAlignment="1"
+      content="Nieuw businessobject aspirant student?">
+    <bounds
+        x="707"
+        y="276"
+        width="194"
+        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>
