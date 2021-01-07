@@ -350,6 +350,11 @@
           id="eb45ef68-a18c-4af6-b157-e77294a944ad"
           source="638e775c-b054-4956-a424-930d0338ccb9"
           target="3725729d-c6a9-4389-8950-e997fd85bc4a">
+        <bendpoints
+            startX="15"
+            startY="45"
+            endX="15"
+            endY="-39"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_197e9c75-65d5-40d9-8215-9efbfee5873b.xml#197e9c75-65d5-40d9-8215-9efbfee5873b"/>
@@ -619,6 +624,10 @@
           id="b94d4c5b-9d45-4be1-8865-7b3a4fc4ed79"
           source="f346b1f9-b688-4202-ab0c-7039ac5efa3f"
           target="638e775c-b054-4956-a424-930d0338ccb9">
+        <bendpoints
+            startY="141"
+            endX="15"
+            endY="-135"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_2933ca35-fe52-4284-90d5-5c73e8e2fa09.xml#2933ca35-fe52-4284-90d5-5c73e8e2fa09"/>
@@ -629,10 +638,10 @@
           source="f346b1f9-b688-4202-ab0c-7039ac5efa3f"
           target="763df78b-a3f9-4914-a10a-36165485e20a">
         <bendpoints
-            startX="-36"
-            startY="141"
-            endX="456"
-            endY="-3"/>
+            startX="-12"
+            startY="129"
+            endX="480"
+            endY="-15"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_31617539-6ddb-4682-85ca-902296cdcc0c.xml#31617539-6ddb-4682-85ca-902296cdcc0c"/>
@@ -900,14 +909,14 @@
           target="89f42557-4129-4263-8671-4fba00b329c5">
         <bendpoints
             startX="408"
-            startY="9"
+            startY="21"
             endX="-372"
-            endY="162"/>
+            endY="174"/>
         <bendpoints
-            startX="612"
-            startY="9"
-            endX="-168"
-            endY="162"/>
+            startX="588"
+            startY="21"
+            endX="-192"
+            endY="174"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_a2f5be76-f434-4930-b101-8f252bbe2c88.xml#a2f5be76-f434-4930-b101-8f252bbe2c88"/>
