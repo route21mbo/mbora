@@ -90,12 +90,12 @@
         <bendpoints
             startX="108"
             startY="-84"
-            endX="-84"
+            endX="-108"
             endY="93"/>
         <bendpoints
             startX="108"
             startY="-180"
-            endX="-84"
+            endX="-108"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -417,7 +417,7 @@
         targetConnections="id-218d923f3f0e4fa5a30aa292932f2db6 id-1d2d547c101d4bbebe9d1701da3f90c4">
       <bounds
           x="192"
-          y="48"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -542,16 +542,16 @@
     <bounds
         x="468"
         y="12"
-        width="149"
+        width="193"
         height="107"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-78eb48dbf08e47018a44792180c25e8b"
         targetConnections="id-7277d8a9f6e347a0b89eb264ffe63100 id-bf37a37827c047e492b60636893f0c27">
       <bounds
-          x="12"
+          x="24"
           y="36"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
