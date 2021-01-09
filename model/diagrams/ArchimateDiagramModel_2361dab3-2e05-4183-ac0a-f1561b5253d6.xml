@@ -997,15 +997,10 @@
           source="efa5b926-668c-4347-9b03-3887bd4aa4fd"
           target="e42395a4-9705-4589-8e93-343936f7fa6e">
         <bendpoints
-            startX="36"
-            startY="-99"
-            endX="-168"
-            endY="33"/>
-        <bendpoints
             startX="72"
-            startY="-99"
+            startY="-3"
             endX="-132"
-            endY="33"/>
+            endY="129"/>
         <bendpoints
             startX="72"
             startY="-123"
