@@ -453,11 +453,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0133d5495b964286a25a286450df6ca8"
       textAlignment="1"
-      content="Zou certificaat &amp; diploma niet vervangen moeten worden door de base class 'kwalificatie'?">
+      content="Zou certificaat &amp; diploma niet vervangen moeten worden door de base class 'kwalificatie'?&#xA;&#xA;FN: Dit is een fundamentele discussie. Hier wil ik het even zo laten, maar de vraag is uitgezet in de discussies omtrent LLO.">
     <bounds
         x="876"
         y="864"
-        width="157"
+        width="289"
         height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
