@@ -1,8 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="aan"
-    id="id-e8bcd61a90c0478ba78d02382f49a219">
+    name="bij"
+    id="id-e8bcd61a90c0478ba78d02382f49a219"
+    documentation="Jef: of bij?">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-35e311f511404515989b1fac81dfa2a7.xml#id-35e311f511404515989b1fac81dfa2a7"/>

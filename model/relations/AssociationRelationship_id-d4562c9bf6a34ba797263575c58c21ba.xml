@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kent"
+    id="id-d4562c9bf6a34ba797263575c58c21ba">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5fcb76f5cfb242838cb912eea6b94a0f.xml#id-5fcb76f5cfb242838cb912eea6b94a0f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_31e03ae4-8615-4d5d-84d5-8c6060530b88.xml#31e03ae4-8615-4d5d-84d5-8c6060530b88"/>
+</archimate:AssociationRelationship>
