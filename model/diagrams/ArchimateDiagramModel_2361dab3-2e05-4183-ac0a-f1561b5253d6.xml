@@ -268,9 +268,8 @@
           source="id-bfd521587f0c41eea7c2b55daa4badd7"
           target="id-a056abdee08b41f9896110c4a6b33e2e">
         <bendpoints
-            startX="-12"
             startY="45"
-            endX="-1152"
+            endX="-1140"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
