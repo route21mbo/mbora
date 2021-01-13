@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is input voor"
     id="id-b07a9e290ce04af9a722b44d18f73e7b">
   <source
       xsi:type="archimate:BusinessObject"

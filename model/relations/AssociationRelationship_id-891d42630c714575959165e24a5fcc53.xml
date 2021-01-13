@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt verzilverd in"
     id="id-891d42630c714575959165e24a5fcc53">
   <source
       xsi:type="archimate:BusinessObject"

@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt getoetst tegen"
     id="id-aeed00014ceb42c7965cabf71abedf8e">
   <source
       xsi:type="archimate:BusinessObject"
