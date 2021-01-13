@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatiemodel uitgebreid kleur"
+    name="Informatiemodel"
     id="id-cb452ed66e30413cb538e64269aeac60">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -685,19 +685,19 @@
           source="id-3f5eca616db640f89457ca74255c5d25"
           target="id-3da8ce8d8e0744e79518c5ff9dba2af8">
         <bendpoints
-            startX="180"
+            startX="216"
             startY="-2"
-            endX="600"
+            endX="636"
             endY="-1094"/>
         <bendpoints
-            startX="180"
+            startX="216"
             startY="274"
-            endX="600"
+            endX="636"
             endY="-818"/>
         <bendpoints
-            startX="180"
+            startX="216"
             startY="1090"
-            endX="600"
+            endX="636"
             endY="-2"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
