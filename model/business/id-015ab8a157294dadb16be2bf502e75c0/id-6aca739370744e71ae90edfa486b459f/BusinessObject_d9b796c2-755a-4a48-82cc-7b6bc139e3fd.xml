@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eenheid met waardedocument"
-    id="d9b796c2-755a-4a48-82cc-7b6bc139e3fd"/>
+    id="d9b796c2-755a-4a48-82cc-7b6bc139e3fd"
+    documentation="Beroepsthema's"/>
