@@ -240,22 +240,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1c65a158408a4ab98d4bddc5d627f25b"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <bounds
-        x="2350"
-        y="166"
-        width="349"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-ae390f96dbe84f459bb25ab4ea9366cd.xml#id-ae390f96dbe84f459bb25ab4ea9366cd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0f41c60fba364659a86367e4d3d63224"
       fillColor="#b5ffff">
     <sourceConnections
