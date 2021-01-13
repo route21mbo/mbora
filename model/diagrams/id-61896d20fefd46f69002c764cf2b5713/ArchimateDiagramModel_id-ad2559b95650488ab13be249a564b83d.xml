@@ -478,9 +478,9 @@
       id="id-1fbf2459233749eea8ed4fdf51d93ebf"
       targetConnections="id-868458af7ec04b58ba54ccd212150e3a">
     <bounds
-        x="627"
+        x="650"
         y="516"
-        width="120"
+        width="97"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -492,7 +492,7 @@
       targetConnections="id-e2fbc1824c934c8d8ca38cf597095c9b">
     <bounds
         x="650"
-        y="696"
+        y="708"
         width="97"
         height="55"/>
     <archimateElement
@@ -519,7 +519,7 @@
       textAlignment="1"
       content="BPV-Resultaat?">
     <bounds
-        x="876"
+        x="746"
         y="1176"
         width="133"
         height="73"/>

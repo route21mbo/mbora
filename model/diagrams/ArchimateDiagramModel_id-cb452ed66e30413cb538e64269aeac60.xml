@@ -590,6 +590,17 @@
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_1b667d54-7a99-4b2b-b47c-8247d45e9222.xml#1b667d54-7a99-4b2b-b47c-8247d45e9222"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-0f3f44f4acb14c30b0849317ca925cd8"
+        textAlignment="1"
+        content="Leervraag is niet een concreet object, hoogstens als resultaat van een intake waar men het formaliseert.&#xD;&#xA;Overlap met aanmelding&#xD;&#xA;">
+      <bounds
+          x="216"
+          y="564"
+          width="168"
+          height="85"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-6af912689b604771bd07b7bdf5de5a30.xml#id-6af912689b604771bd07b7bdf5de5a30"/>
@@ -1750,7 +1761,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-13130da4de944d22bc80ee681d574fbf"
-      targetConnections="id-a5967b4390934e83816f2951fcc7d2b7">
+      targetConnections="id-a5967b4390934e83816f2951fcc7d2b7"
+      fillColor="#ff0000">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9e573b4e9f824070895e14758e5bfc60"
@@ -2409,7 +2421,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-105b3fb423054b40a7f79e813b0c0413"
-        targetConnections="id-b46e316bba4f4499bdc0c8e7d72100a5 id-a7f26262f631456ea5292ad39b61e3b1">
+        targetConnections="id-b46e316bba4f4499bdc0c8e7d72100a5 id-a7f26262f631456ea5292ad39b61e3b1"
+        fillColor="#ff8040">
       <bounds
           x="276"
           y="48"
@@ -2422,5 +2435,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-530b1f07dd8b40bd981bf7dde3a87519.xml#id-530b1f07dd8b40bd981bf7dde3a87519"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cc2ae5a2b7914c4d9828d1a57dfd8d2b"
+      textAlignment="1"
+      content="Inzetplanning mensen en middelen niet direct koppelen aan rooster">
+    <bounds
+        x="1884"
+        y="870"
+        width="205"
+        height="67"/>
   </children>
 </archimate:ArchimateDiagramModel>
