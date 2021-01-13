@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is basis voor"
+    name="is input voor"
     id="id-c0c24a64dade4cf6b80d4a8df1d65b3d"
     directed="true">
   <source
