@@ -793,11 +793,6 @@
           source="id-6a284a73c9014af992841cdfb8218104"
           target="id-556f256f76bd4054956092c3650063f7">
         <bendpoints
-            startX="72"
-            startY="4"
-            endX="-109"
-            endY="94"/>
-        <bendpoints
             startX="144"
             startY="4"
             endX="-37"

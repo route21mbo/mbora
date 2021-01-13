@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitschrijving"
-    id="id-4c0b46904c23492092b446b256adaf61"/>
+    id="id-4c0b46904c23492092b446b256adaf61"
+    documentation="De uitschrijving bestaande uit onder andere de exit formulieren"/>
