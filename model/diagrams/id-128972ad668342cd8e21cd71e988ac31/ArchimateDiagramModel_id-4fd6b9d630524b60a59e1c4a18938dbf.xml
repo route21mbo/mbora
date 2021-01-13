@@ -681,14 +681,14 @@
         source="id-96fb1f34437f454980571d4144616a78"
         target="id-b7522880459a4020be6ff08351a9acdb">
       <bendpoints
-          startX="761"
+          startX="341"
           startY="-15"
-          endX="1106"
+          endX="686"
           endY="747"/>
       <bendpoints
-          startX="761"
+          startX="341"
           startY="-783"
-          endX="1106"
+          endX="686"
           endY="-21"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
