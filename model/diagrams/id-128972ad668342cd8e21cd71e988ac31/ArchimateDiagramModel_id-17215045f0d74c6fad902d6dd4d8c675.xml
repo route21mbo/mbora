@@ -134,7 +134,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8e1c37c0ed674bd58dd8852e67b51e3e"
-        targetConnections="id-aba530632ca54be1bf334829f716ac69 id-bfd61c83b6bb400b8083199eca66ad5a">
+        targetConnections="id-aba530632ca54be1bf334829f716ac69 id-bfd61c83b6bb400b8083199eca66ad5a id-bdd83ce337984885b64948bb6182c890">
       <bounds
           x="12"
           y="48"
@@ -323,7 +323,7 @@
     </sourceConnections>
     <bounds
         x="620"
-        y="204"
+        y="144"
         width="168"
         height="47"/>
     <archimateElement
@@ -350,5 +350,37 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-ad20cef746024f0abfeb84f1703836cc.xml#id-ad20cef746024f0abfeb84f1703836cc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0547fdadb8194b249ec8f422872b0d4c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bdd83ce337984885b64948bb6182c890"
+        source="id-0547fdadb8194b249ec8f422872b0d4c"
+        target="id-8e1c37c0ed674bd58dd8852e67b51e3e">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-f9f2b5ea30cd496b840f2ed1576db48d.xml#id-f9f2b5ea30cd496b840f2ed1576db48d"/>
+    </sourceConnections>
+    <bounds
+        x="620"
+        y="216"
+        width="168"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-dba9cef2643b4150b0e40bd7b7d69586.xml#id-dba9cef2643b4150b0e40bd7b7d69586"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f4e723e3a0c74d09a7846c1bdcea3560"
+      textAlignment="1"
+      content="Idee is dat meeste ROC voor niet onderwijs afdelingen geen specifieke automatisatie hebben voor het opstellen van teamplan of de verantwoording. Dit wordt gedaan via genieke ICT applicaties zoals kantoorautomatisering, deze worden niet gemodelleerd">
+    <bounds
+        x="876"
+        y="60"
+        width="229"
+        height="241"/>
   </children>
 </archimate:ArchimateDiagramModel>

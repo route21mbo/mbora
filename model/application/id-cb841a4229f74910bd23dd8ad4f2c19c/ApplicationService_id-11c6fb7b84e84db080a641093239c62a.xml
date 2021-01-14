@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mediatheek catalogusbeheer"
+    name="Mediatheekbeheer"
     id="id-11c6fb7b84e84db080a641093239c62a"
-    documentation="Het presenteren en onderhouden van de mediatheekcatalogus"/>
+    documentation="Het presenteren en onderhouden van de mediatheek zoals de mediatheekcatalogus"/>
