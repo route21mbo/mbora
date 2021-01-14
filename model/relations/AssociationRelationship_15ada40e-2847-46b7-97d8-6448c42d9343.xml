@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="kent"
-    id="15ada40e-2847-46b7-97d8-6448c42d9343"
-    directed="true">
+    id="15ada40e-2847-46b7-97d8-6448c42d9343">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-1a83e4cff3c24c38baab62bf422d6b5b.xml#id-1a83e4cff3c24c38baab62bf422d6b5b"/>
