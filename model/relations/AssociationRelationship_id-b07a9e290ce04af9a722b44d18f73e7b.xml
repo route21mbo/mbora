@@ -2,12 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is input voor"
-    id="id-c0c24a64dade4cf6b80d4a8df1d65b3d"
-    directed="true">
+    id="id-b07a9e290ce04af9a722b44d18f73e7b">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-725f5da93e0141a291860544819c43ff.xml#id-725f5da93e0141a291860544819c43ff"/>
+      href="BusinessObject_id-01c2f076f0cc4dabb5718ded270e4b74.xml#id-01c2f076f0cc4dabb5718ded270e4b74"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-ca25fff2caf14ce589c79a7eb175614f.xml#id-ca25fff2caf14ce589c79a7eb175614f"/>
+      href="BusinessObject_id-3b248d588f494aba817999a83b3f1435.xml#id-3b248d588f494aba817999a83b3f1435"/>
 </archimate:AssociationRelationship>

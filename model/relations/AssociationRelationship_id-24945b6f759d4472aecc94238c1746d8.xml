@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="kent"
-    id="15ada40e-2847-46b7-97d8-6448c42d9343">
+    name="wordt getoetst tegen"
+    id="id-24945b6f759d4472aecc94238c1746d8">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-1a83e4cff3c24c38baab62bf422d6b5b.xml#id-1a83e4cff3c24c38baab62bf422d6b5b"/>
+      href="BusinessObject_0f9706e1-5311-48e7-b531-d22ea506f6db.xml#0f9706e1-5311-48e7-b531-d22ea506f6db"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_31e03ae4-8615-4d5d-84d5-8c6060530b88.xml#31e03ae4-8615-4d5d-84d5-8c6060530b88"/>
+      href="BusinessObject_id-3b248d588f494aba817999a83b3f1435.xml#id-3b248d588f494aba817999a83b3f1435"/>
 </archimate:AssociationRelationship>
