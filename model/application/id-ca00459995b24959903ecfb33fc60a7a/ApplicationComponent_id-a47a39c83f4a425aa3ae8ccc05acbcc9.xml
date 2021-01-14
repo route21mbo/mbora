@@ -1,7 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innovation &amp; Engagement Platform"
-    id="id-a47a39c83f4a425aa3ae8ccc05acbcc9"
-    documentation="Het ondersteunen van toepassingen gerelateerd aan proctoraat ontwikkelen, onderzoeken, rapporteren en toepassen (innoveren), zoals beschreven volgens https://www.practoraten.nl/onderzoek/&#xD;&#xA;Sleutel functionaliteiten:&#xD;&#xA;- Trends, innovaties &amp; ontwikkelingen waarnemen&#xD;&#xA;- Verzamelen vraagstukken uit bedrijfsleven en maatschappij&#xD;&#xA;- Participant werving (welke externe instellingen willen meedoen aan een practoraat of onderzoek)&#xD;&#xA;- Integratie verschillende onderzoekstoepassingen:&#xD;&#xA;    - Enquete&#xD;&#xA;    - Focusgroepen&#xD;&#xA;    - Interviews&#xD;&#xA;    - ...&#xD;&#xA;- Delen resultaten&#xD;&#xA;- Verkrijgen van feedback&#xD;&#xA;- Consolideren onderzoeken&#xD;&#xA;- Onderzoeksprojecten management&#xD;&#xA;- Beheer resultaten&#xD;&#xA;&#xD;&#xA;Voorbeeld:&#xD;&#xA;Recollective">
-  <properties/>
-</archimate:ApplicationComponent>
