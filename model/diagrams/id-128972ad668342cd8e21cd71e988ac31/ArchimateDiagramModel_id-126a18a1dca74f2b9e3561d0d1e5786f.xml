@@ -511,17 +511,6 @@
         href="ApplicationService_id-d34b3f2880ad4f2ab3539e78fe04fa1f.xml#id-d34b3f2880ad4f2ab3539e78fe04fa1f"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-aff31acb72334c41b3eab5a18373ef37"
-      textAlignment="1"
-      content="Accoutantscontrole naar finance?">
-    <bounds
-        x="960"
-        y="372"
-        width="205"
-        height="241"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c1d5fa24b10c4e16a1618bd62664d972"
       fillColor="#b5ffff">
