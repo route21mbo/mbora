@@ -661,17 +661,6 @@
         href="ApplicationService_id-bf5810064ff04cc7a5c6c44c49bf28ff.xml#id-bf5810064ff04cc7a5c6c44c49bf28ff"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3f1557b6ce664260b6dccd06151d2c8f"
-      textAlignment="1"
-      content="M&amp;F&#xA;&#xA;Informatie is ook folders etc. Dat valt niet onder portaaldiensten. De service zou dan bijv Repro kunnen zijn.&#xA;&#xA;SiS:&#xA;Beheerdienst Basisgegevens Student&#xA;Beheerdienst Onderwijs- en Begeleidinggegevens Student daar kan &quot;Leerarrangementen beheer&quot; dan ook onder vallen. (Leerroute en voortgang)&#xA;Beheerdienst Ondersteuninggegevens Student&#xA;&#xA;Beheerdienst Onderwijsgegevens (OER, Arrangementen, etc)&#xA;Beheerdienst Docentgegevens etc. ">
-    <bounds
-        x="910"
-        y="84"
-        width="425"
-        height="313"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-648432b264694a8fa9cc7b42304bc4ec">
     <sourceConnections
