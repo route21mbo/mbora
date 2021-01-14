@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informeren student en beoordelaar"
-    id="a9afa625-6ff4-4a9d-9446-418e93ca8c17"/>
+    id="a9afa625-6ff4-4a9d-9446-418e93ca8c17"
+    documentation="De student en andere betrokkenen zoals beoordelaars of acteurs worden voorafgaand van het examen geïnformeerd.&#xD;&#xA;&#xD;&#xA;Voor de student moet het duidelijk zijn onder welke omstandigheden het examen wordt afgenomen. De te treffen voorbereidingen, de toegestane hulpmiddelen, de omschrijving van de context/setting van het examen, de duur van het examen en de inrichting van de locatie zijn bekend. De instructie is concreet: na het lezen weet de student wat hij moet doen, hoe en wanneer. Ook weet de student na het lezen van de instructie waarop hij wordt beoordeeld, wie beoordeelt en hoe hij beoordeeld wordt.&#xD;&#xA;&#xD;&#xA;Voor de beoordelaars moet het duidelijk ook zijn onder welke omstandigheden het examen moet worden afgenomen. De beoordelaar wordt geïnformeerd over de wijze van beoordelen, zodat hij bekend is met het exameninstrument. Ook wordt hij op de hoogte gesteld van de te treffen voorbereidingen, de toegestane hulpmiddelen, de omschrijving van de context/setting van het tentamen, de duur van het examen en de inrichting van de examenlocatie, zodat de beoordelaar kan beoordelen of aan alle afnamecondities is voldaan. ">
+  <properties
+      key="Input"
+      value="Examenaanmelding"/>
+  <properties
+      key="Output"
+      value="Informatie voor student en beoordelaar mbt examen"/>
+</archimate:BusinessProcess>

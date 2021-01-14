@@ -745,12 +745,16 @@
         targetConnections="c8543534-fa51-40d9-bf29-93f092e3f65e 25e721f4-8371-47ce-b170-b55b5c23f3b4">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="329ebc08-b964-407c-9406-0f482d51cc25"
+          id="3a2c4d8a-3c4e-46ca-9645-815141904733"
           source="f7100af1-4713-4644-9a85-bcb253be2aa8"
-          target="6a7ff4fe-606d-4ef0-a494-a06f1c133c19">
+          target="07c2803c-9086-43f5-8e51-80c7bb579c47">
+        <bendpoints
+            startY="-87"
+            endX="-144"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_fd943f9b-24e2-4d16-805c-54ea9e0c583e.xml#fd943f9b-24e2-4d16-805c-54ea9e0c583e"/>
+            href="TriggeringRelationship_3483c901-046f-4002-9a26-d44a9501d3e2.xml#3483c901-046f-4002-9a26-d44a9501d3e2"/>
       </sourceConnections>
       <bounds
           x="168"
@@ -764,7 +768,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6a7ff4fe-606d-4ef0-a494-a06f1c133c19"
-        targetConnections="5a92eb35-4e54-4319-873d-394c94ed979d 9fd9fa60-a60c-4c38-8c1b-4cdd55a6283b 329ebc08-b964-407c-9406-0f482d51cc25">
+        targetConnections="5a92eb35-4e54-4319-873d-394c94ed979d 9fd9fa60-a60c-4c38-8c1b-4cdd55a6283b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f800361d-512e-49c4-9a05-5630f4ce26eb"
@@ -894,7 +898,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="07c2803c-9086-43f5-8e51-80c7bb579c47"
-        targetConnections="e7d643cf-57bb-41d9-a551-ab184380b23b 16149205-3949-4889-8a51-e41721a011a1">
+        targetConnections="e7d643cf-57bb-41d9-a551-ab184380b23b 16149205-3949-4889-8a51-e41721a011a1 3a2c4d8a-3c4e-46ca-9645-815141904733">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="9fd9fa60-a60c-4c38-8c1b-4cdd55a6283b"

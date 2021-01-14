@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden examen"
-    id="c4d4120b-94a8-496c-b62c-3c2c34dd34a1"/>
+    id="c4d4120b-94a8-496c-b62c-3c2c34dd34a1"
+    documentation="Na de beslissing dat de student toe is aan het examen(onderdeel), kan de aanmelding plaatsvinden. In bepaalde gevallen kan de student (extraneus) zonder onderwijs te volgen zich aanmelden voor een examen(onderdeel). Hierbij is geen sprake van besluitvorming door het ‘onderwijs’, maar bepaalt de student zelf of hij/zij wil deelnemen aan een examen(onderdeel). ">
+  <properties
+      key="Input"
+      value="Examenaanvraag"/>
+  <properties
+      key="Output"
+      value="Examenaanmelding"/>
+</archimate:BusinessProcess>
