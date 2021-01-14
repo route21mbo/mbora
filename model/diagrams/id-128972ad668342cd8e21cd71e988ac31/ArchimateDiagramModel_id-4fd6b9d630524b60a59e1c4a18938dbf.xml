@@ -459,13 +459,22 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e005e799ca37411b95f42064fc935004"
-      fillColor="#80ffff">
+      id="id-e005e799ca37411b95f42064fc935004">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b443a46ddad2439898458e6becb9fe9c"
         source="id-e005e799ca37411b95f42064fc935004"
         target="id-201a6bcdec964d699bab55045da1a45a">
+      <bendpoints
+          startX="-160"
+          startY="-3"
+          endX="180"
+          endY="276"/>
+      <bendpoints
+          startX="-160"
+          startY="-63"
+          endX="180"
+          endY="216"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-ed5203ceb6a34f189bb0b0e05edccfb1.xml#id-ed5203ceb6a34f189bb0b0e05edccfb1"/>
