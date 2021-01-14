@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicaties"
+    name="Beheer applicaties"
     id="id-68ef5c9f49224293b2cf8901df0c53a1"
-    documentation="Verzamelbegrip van applicaties&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;* Topdesk&#xD;&#xA;* Eduarte &#xD;&#xA;* Osiris&#xD;&#xA;"/>
+    documentation="Verzamelbegrip van applicaties t.b.v. voor beheer&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;* Topdesk&#xD;&#xA;* Eduarte &#xD;&#xA;* Osiris&#xD;&#xA;* Apache&#xD;&#xA;* NGINX"/>
