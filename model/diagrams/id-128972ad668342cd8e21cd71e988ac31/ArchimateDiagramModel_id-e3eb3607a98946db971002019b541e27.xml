@@ -579,6 +579,11 @@
         id="id-925ee3232228423ca379586eefc2f729"
         source="id-5604745a5438442b9ab9cb2b4977a280"
         target="id-c9ab158f65044e58a9b98d3e9385de21">
+      <bendpoints
+          startX="-151"
+          startY="-48"
+          endX="156"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-e073559eb40349dfa09b8e57a3659307.xml#id-e073559eb40349dfa09b8e57a3659307"/>
@@ -588,6 +593,11 @@
         id="id-c8ce108c1b2640329fe75c543fe6a633"
         source="id-5604745a5438442b9ab9cb2b4977a280"
         target="id-4ffd827bffde43438ba8dcc173f9f0ad">
+      <bendpoints
+          startX="-151"
+          startY="36"
+          endX="156"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-d7dcfe71bf064f84b26cd4e6a4574e91.xml#id-d7dcfe71bf064f84b26cd4e6a4574e91"/>
@@ -600,16 +610,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-a69c93f037964605b16cbb16831cb179.xml#id-a69c93f037964605b16cbb16831cb179"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-c492989ef3624d5f86b0f0ba679092a7"
-      textAlignment="1"
-      content="Controle of summatiefresultatenbeheer en evc dienst correct zijn gemodelleerd">
-    <bounds
-        x="672"
-        y="624"
-        width="169"
-        height="73"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicaties en applicatieservices - Discussieplaat"
+    name="Applicaties en applicatieservices"
     id="id-20fd83a03d1f4011aa72bd4fd90b66cb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -734,7 +734,7 @@
         x="1008"
         y="1776"
         width="1139"
-        height="541"/>
+        height="547"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d3a792431fa84e438638a636a2e63872"
