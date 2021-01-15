@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt ingediend"
+    id="id-d06c962a363943e7a91fd52ef1dadb1c">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6262713f0c4a427888637c98851d42af.xml#id-6262713f0c4a427888637c98851d42af"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-86895ec647fa406f9d4ae531eeaecfa0.xml#id-86895ec647fa406f9d4ae531eeaecfa0"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt verzilverd in"
+    id="id-891d42630c714575959165e24a5fcc53">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3b248d588f494aba817999a83b3f1435.xml#id-3b248d588f494aba817999a83b3f1435"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-552add20c64949ec9a0cdd873b49a87d.xml#id-552add20c64949ec9a0cdd873b49a87d"/>
+</archimate:AssociationRelationship>

@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Check afname-condities"
-    id="a221bb86-c108-48ae-813f-f3ac4321689c"/>
+    id="a221bb86-c108-48ae-813f-f3ac4321689c"
+    documentation="Voorafgaand aan ieder examen wordt de examenomgeving gecontroleerd om ervoor te zorgen dat alle beoogde onderdelen kunnen worden geëxamineerd op een gelijkwaardige en betrouwbare manier. ">
+  <properties
+      key="Output"
+      value="Check van de afnamecondities"/>
+  <properties
+      key="Input"
+      value="Match van examenaanvraag en examenaanbod"/>
+</archimate:BusinessProcess>

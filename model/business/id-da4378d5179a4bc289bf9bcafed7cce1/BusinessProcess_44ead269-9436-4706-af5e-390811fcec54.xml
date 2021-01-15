@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastellen EVC-resultaat"
+    id="44ead269-9436-4706-af5e-390811fcec54"
+    documentation="Net als een examenresultaat stelt de examencommissie ook formeel het resultaat van de EVC-beoordeling vast.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="EVC-beoordeling"/>
+  <properties
+      key="Output"
+      value="Vastgesteld EVC-resultaat"/>
+</archimate:BusinessProcess>

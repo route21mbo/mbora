@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verzamelen leerresultaten"
-    id="96aed0d8-fdf4-426c-999a-0b27e65153fe"/>
+    id="96aed0d8-fdf4-426c-999a-0b27e65153fe"
+    documentation="Op basis van het gevolgde onderwijs worden de leerresultaten verzameld en geregistreerd die relevant zijn om inzicht te krijgen in de voortgang en ontwikkeling van de student. Het gaat hier om formatieve toetsen of evaluatie, bijvoorbeeld een portfolio, opdracht of kennistoets. De registratie van leerresultaten biedt studenten en docenten/begeleiders inzicht in hoe de student staat ten opzichte van het afgesproken leerroute. Formatief toetsen en evalueren heeft als doel studenten inzicht te geven in hun eigen leerproces, hun motivatie te bevorderen en meer onderwijs op maat te realiseren.&#xD;&#xA;">
+  <properties
+      key="Output"
+      value="Verzamelde leerrsultaten"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beoordelen examen"
-    id="0125df83-b638-46c7-b445-746034608d6d"/>
+    id="0125df83-b638-46c7-b445-746034608d6d"
+    documentation="Tijdens en na de uitvoering van het examen wordt door één of meerdere beoordelaars beoordeeld of de student aan de exameneisen voldoet. Dit gebeurt op basis van vaste procedure met gebruik van het exameninstrument en het beoordelingsformulier.&#xD;&#xA;&#xD;&#xA;MOGELIJKE PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Bekijk de prestatie(s) van de individuele student en maak hiervan aantekeningen.&#xD;&#xA;* Bespreek en vergelijk uw waarnemingen met de (eventuele) mede-beoordelaar.&#xD;&#xA;* Vul de beoordelingsformulieren in.&#xD;&#xA;* Stel een proces-verbaal op over het verloop van het examen.&#xD;&#xA;* Koppel de (voorlopige) beoordeling terug aan de student. Let op: de examencommissie stelt het definitieve oordeel vast.&#xD;&#xA;* Rapporteer de bevindingen aan de examencommissie&#xD;&#xA;* Kijk terug op het proces van het beoordelen. Benoem en beschrijf wat er goed gaat en leg verbeterpunten vast.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Afgenomen examen"/>
+  <properties
+      key="Output"
+      value="Beoordeeld examen"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opbouwen EVC portfolio"
+    id="7d134f4d-acb4-4acc-8b0f-bb67b6c6f24f"
+    documentation="Het opbouwen van een portfolio van bewijsstukken, zoals elders behaalde examen- of toetsresultaten, op basis waarvan een EVC-beoordling of assessment kan plaatsvinden">
+  <properties
+      key="Input"
+      value="Aanvraag EVC-procedure"/>
+  <properties
+      key="Output"
+      value="EVC-portfolio"/>
+</archimate:BusinessProcess>

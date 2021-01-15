@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leercontent omgevingen"
     id="id-d13cfba387404a27b058384ec8219030"
-    documentation="Verzamelbegrip van alle systemen (on premise of online) die leercontent aanbieden. De focus ligt op de content zelf en niet op de Management of beheer functionaliteit, deze is opgenomen in de LCMS.&#xD;&#xA;&#xD;&#xA;Denk aan de vele online-omgevingen waarin derden vakinhoudelijk leercontent aanbieden.">
+    documentation="Verzamelbegrip van alle non LCMS systemen (on premise of online) die leercontent aanbieden. De focus ligt op de content zelf en niet op de Management of beheer functionaliteit, deze is opgenomen in de LCMS.&#xD;&#xA;&#xD;&#xA;Denk aan de vele online-omgevingen waarin derden vakinhoudelijk leercontent aanbieden.">
   <properties
       key="Source"
       value="https://hora.surf.nl/index.php?title=Id-16bb2aed-0013-2e43-b8d8-f4aa039faefc"/>

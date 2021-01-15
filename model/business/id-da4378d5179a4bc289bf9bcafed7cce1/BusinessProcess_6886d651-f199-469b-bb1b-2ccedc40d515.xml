@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren leerresultaten"
     id="6886d651-f199-469b-bb1b-2ccedc40d515"
-    documentation="Peilstok formatieve resultaten"/>
+    documentation="De leerresultaten geven uiteindelijk een inschatting van de slagingskans en kunnen gebruikt worden om te besluiten of de student klaar is voor deelname aan een examen(onderdeel). Deze formatieve leerresultaten hebben geen ‘status’ in de feitelijke examinering en zijn niet het soort bewijzen dat vereist is voor diplomering. De leerresultaten leiden tot een beslissing over deelname aan een examenonderdeel, dit proces kan gedurende de opleiding meermaals plaatsvinden. &#xD;&#xA;&#xD;&#xA;Dit wordt ook wel de 'Peilstok formatieve resultaten' genoemd.">
+  <properties
+      key="Input"
+      value="Verzamelde leerresultaten"/>
+  <properties
+      key="Output"
+      value="Geanalyseerde leerresultaten"/>
+</archimate:BusinessProcess>
