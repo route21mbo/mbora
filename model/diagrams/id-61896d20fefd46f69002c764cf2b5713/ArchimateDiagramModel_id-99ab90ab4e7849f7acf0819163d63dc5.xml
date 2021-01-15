@@ -553,17 +553,6 @@
         href="BusinessObject_id-43f7f55920a846169ecf13fc46293dc8.xml#id-43f7f55920a846169ecf13fc46293dc8"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-144af542b4534bc399122d78f7361a02"
-      textAlignment="1"
-      content="Moet persoonlijke leerroute speciferen en de leervraag ook niet terug komen bij werven en administeren">
-    <bounds
-        x="720"
-        y="120"
-        width="144"
-        height="101"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a3d1afb8e6b447a5b57b55045b270523"
       targetConnections="id-b07b8d4bedbc4a4981c768246eac56f5">
