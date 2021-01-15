@@ -6,4 +6,7 @@
   <properties
       key="Output"
       value="Aanvraag EVC-procedure"/>
+  <properties
+      key="Input"
+      value="Leervraag van de student"/>
 </archimate:BusinessProcess>
