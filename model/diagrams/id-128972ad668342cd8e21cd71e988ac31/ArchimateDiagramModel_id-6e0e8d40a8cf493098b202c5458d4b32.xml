@@ -1029,9 +1029,9 @@
           endX="605"
           endY="-987"/>
       <bendpoints
-          startX="198"
+          startX="186"
           startY="981"
-          endX="605"
+          endX="617"
           endY="-15"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
