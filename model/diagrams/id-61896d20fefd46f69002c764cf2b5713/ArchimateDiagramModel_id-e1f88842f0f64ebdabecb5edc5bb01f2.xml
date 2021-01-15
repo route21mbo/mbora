@@ -948,16 +948,6 @@
         href="BusinessObject_1b667d54-7a99-4b2b-b47c-8247d45e9222.xml#1b667d54-7a99-4b2b-b47c-8247d45e9222"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-7de6cd6b57ef4c25b7ba689c2c173c50"
-      textAlignment="1"
-      content="Er zou een algemene aanmelding object moeten komen met nieuwe objecten die een specialisatie daarvan zijn, zoals opleidingsaanmelding, keuzeonderdeelaanmelding, rooster eenheid aanmelding, etc.">
-    <bounds
-        x="888"
-        width="241"
-        height="127"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db22923f59f24965b5d90fdcf419a6df"
       targetConnections="id-448852a15f314b1cab3d668777d4cabd">
@@ -1013,21 +1003,10 @@
       textAlignment="1"
       content="Informatiemateriaal te brede naamgeving, eerde gepubliceerde onderwijsaanbod of iets in die trand&#xD;&#xA;">
     <bounds
-        x="936"
-        y="257"
+        x="912"
+        y="347"
         width="241"
         height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-4d0b445f9d0a4a9d90245700b0d6e2c2"
-      textAlignment="1"
-      content="Waar meldt men zich aan voor de opleiding lassen, wanneer wordt de referentie opleiding toegevoegd aan de persoonlijke leerroute&#xD;&#xA;we hebben keuzes, vrijstelling, maar wat doet ie nu eigenlijk (de opleiding lassen)">
-    <bounds
-        x="888"
-        y="-122"
-        width="229"
-        height="118"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

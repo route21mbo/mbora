@@ -583,28 +583,4 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-0350f288fb324bcfb78ffbf2a813fcc8.xml#id-0350f288fb324bcfb78ffbf2a813fcc8"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8f5a883fe2a8436183c11ae9f2faa029"
-      fillColor="#ff8040">
-    <bounds
-        x="707"
-        y="882"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_a4ab7520-415a-4a69-9ed5-779755b8a65a.xml#a4ab7520-415a-4a69-9ed5-779755b8a65a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d4b672392a6840efbdd5942f2b18397d"
-      textAlignment="1"
-      content="Waar meldt men zich aan voor de opleiding lassen, wanneer wordt de referentie opleiding toegevoegd aan de persoonlijke leerroute">
-    <bounds
-        x="840"
-        y="876"
-        width="169"
-        height="118"/>
-  </children>
 </archimate:ArchimateDiagramModel>
