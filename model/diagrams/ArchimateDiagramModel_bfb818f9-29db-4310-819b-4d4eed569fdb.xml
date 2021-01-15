@@ -730,7 +730,7 @@
         x="-312"
         y="768"
         width="1069"
-        height="145"/>
+        height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6aff15cb-23b9-4daf-8d5c-0160a18d8d26"
@@ -741,14 +741,14 @@
           source="6aff15cb-23b9-4daf-8d5c-0160a18d8d26"
           target="158bc424-5ae0-4529-9ca6-0e497a1864a3">
         <bendpoints
-            startX="78"
+            startX="81"
             startY="-3"
-            endX="-132"
-            endY="105"/>
+            endX="-120"
+            endY="129"/>
         <bendpoints
-            startX="78"
-            startY="-99"
-            endX="-132"
+            startX="81"
+            startY="-123"
+            endX="-120"
             endY="9"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -756,8 +756,8 @@
       </sourceConnections>
       <bounds
           x="366"
-          y="12"
-          width="120"
+          y="36"
+          width="139"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -773,14 +773,14 @@
           source="6deab86d-21c5-448f-93d6-701f76194827"
           target="158bc424-5ae0-4529-9ca6-0e497a1864a3">
         <bendpoints
-            startX="102"
-            startY="-3"
-            endX="-108"
-            endY="177"/>
+            startX="105"
+            startY="-9"
+            endX="-96"
+            endY="189"/>
         <bendpoints
-            startX="102"
-            startY="-159"
-            endX="-108"
+            startX="105"
+            startY="-177"
+            endX="-96"
             endY="21"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -788,8 +788,8 @@
       </sourceConnections>
       <bounds
           x="366"
-          y="84"
-          width="120"
+          y="102"
+          width="139"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
