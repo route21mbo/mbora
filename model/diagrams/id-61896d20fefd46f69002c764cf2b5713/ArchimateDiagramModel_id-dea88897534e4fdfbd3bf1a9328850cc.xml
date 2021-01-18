@@ -224,19 +224,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8cff55f4cc974989aa03f9af2cc891c8"
-      fillColor="#ff8040">
-    <bounds
-        x="738"
-        y="49"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-28ec214b6c5d4c24b2f0d4e7e41511ab.xml#id-28ec214b6c5d4c24b2f0d4e7e41511ab"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-04aeefa822904f1eb3d48e3bd8e7bb0e"
       targetConnections="id-5f1c12c1a7cf4b2dbaaf914745bb6dfe id-75dc7750fba94469ae217c71a845b102">
     <bounds
@@ -247,32 +234,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-35e311f511404515989b1fac81dfa2a7.xml#id-35e311f511404515989b1fac81dfa2a7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-237112f400b548b9a95375f229b7780b"
-      fillColor="#ff8040">
-    <bounds
-        x="738"
-        y="121"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-d16f35eea93b4bcd99759203a7f206a6.xml#id-d16f35eea93b4bcd99759203a7f206a6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b4b7db5685074bd18cf32cc61b1e5191"
-      fillColor="#ff8040">
-    <bounds
-        x="738"
-        y="193"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_1b667d54-7a99-4b2b-b47c-8247d45e9222.xml#1b667d54-7a99-4b2b-b47c-8247d45e9222"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
