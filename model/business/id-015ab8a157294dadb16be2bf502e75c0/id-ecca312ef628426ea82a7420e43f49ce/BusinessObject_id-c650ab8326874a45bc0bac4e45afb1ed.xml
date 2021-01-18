@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Examenreglement"
-    id="id-c650ab8326874a45bc0bac4e45afb1ed"/>
+    id="id-c650ab8326874a45bc0bac4e45afb1ed"
+    documentation="Een vastgestelde wijze van examineren die bij een cohort van een opleiding horen.&#xD;&#xA;Afgeleid van de HORA"/>

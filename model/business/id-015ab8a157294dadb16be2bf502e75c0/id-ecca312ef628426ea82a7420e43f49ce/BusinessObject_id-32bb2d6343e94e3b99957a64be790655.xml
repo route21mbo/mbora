@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Examen"
-    id="id-32bb2d6343e94e3b99957a64be790655"/>
+    id="id-32bb2d6343e94e3b99957a64be790655"
+    documentation="Een  onderzoek naar kennis, inzicht, houding en vaardigheden van de student, op basis waarvan de instelling na beoordeling een formeel bewijs van prestatie  toekend.&#xD;&#xA;Bron: Inventarisatie dataobjecten"/>

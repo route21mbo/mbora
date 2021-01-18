@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Studentbegeleidingsdossier"
-    id="id-d16f35eea93b4bcd99759203a7f206a6"/>
+    id="id-d16f35eea93b4bcd99759203a7f206a6"
+    documentation="Gegevens over de leerresultaten, de leerervaring, de begeleiding, de sociaal-emotionele ontwikkeling en het gedrag van een student (bron: https://zoek.officielebekendmakingen.nl/stb-2012-234.html)"/>

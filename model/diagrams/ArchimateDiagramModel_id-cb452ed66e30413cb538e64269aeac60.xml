@@ -799,6 +799,28 @@
         y="774"
         width="336"
         height="319"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3eef6cf50d0f4639b023ed867396911a"
+        targetConnections="id-b3531195c8194447831c4951fc2d47e2 id-119f4688015b4a91a2b369078a1451a2">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-75b9e970bd024d5fafb62a12047f250a"
+          source="id-3eef6cf50d0f4639b023ed867396911a"
+          target="id-cef0aeae449a4683ad01e94d17a67b0c">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-1472a645cafd45789e34799fe7b8d31e.xml#id-1472a645cafd45789e34799fe7b8d31e"/>
+      </sourceConnections>
+      <bounds
+          x="48"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-32bb2d6343e94e3b99957a64be790655.xml#id-32bb2d6343e94e3b99957a64be790655"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-60f514d9ba4449d5a50d1abf24d6cd53.xml#id-60f514d9ba4449d5a50d1abf24d6cd53"/>
@@ -1997,28 +2019,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-4c3403108739418988e7b97b336dc6b2.xml#id-4c3403108739418988e7b97b336dc6b2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3eef6cf50d0f4639b023ed867396911a"
-      targetConnections="id-b3531195c8194447831c4951fc2d47e2 id-119f4688015b4a91a2b369078a1451a2">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-75b9e970bd024d5fafb62a12047f250a"
-        source="id-3eef6cf50d0f4639b023ed867396911a"
-        target="id-cef0aeae449a4683ad01e94d17a67b0c">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-1472a645cafd45789e34799fe7b8d31e.xml#id-1472a645cafd45789e34799fe7b8d31e"/>
-    </sourceConnections>
-    <bounds
-        x="996"
-        y="852"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-32bb2d6343e94e3b99957a64be790655.xml#id-32bb2d6343e94e3b99957a64be790655"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
