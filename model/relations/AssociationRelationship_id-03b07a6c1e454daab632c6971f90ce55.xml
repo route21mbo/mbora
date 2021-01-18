@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="na beëindiging opleiding"
+    id="id-03b07a6c1e454daab632c6971f90ce55">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1b667d54-7a99-4b2b-b47c-8247d45e9222.xml#1b667d54-7a99-4b2b-b47c-8247d45e9222"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4c0b46904c23492092b446b256adaf61.xml#id-4c0b46904c23492092b446b256adaf61"/>
+</archimate:AssociationRelationship>

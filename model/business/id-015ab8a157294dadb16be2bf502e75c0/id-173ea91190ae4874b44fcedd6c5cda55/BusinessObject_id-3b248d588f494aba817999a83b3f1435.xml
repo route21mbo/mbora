@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besluit waardering"
-    id="id-3b248d588f494aba817999a83b3f1435"/>
+    id="id-3b248d588f494aba817999a83b3f1435"
+    documentation="Op basis van het examendossier met behaalde examenresultaten en de EVC-besluiten wordt beoordeeld of een student het waardepapier ontvangt dat in de kwalificatie is vastgelegd."/>

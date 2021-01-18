@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vanuit de vorige opleider"
+    id="id-beb88d64e0a24dee9c8977e898201ac8"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-eae473f79ef540e594a92537932138bb.xml#id-eae473f79ef540e594a92537932138bb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_60bd4868-7624-447d-ac5d-831e232e9e72.xml#60bd4868-7624-447d-ac5d-831e232e9e72"/>
+</archimate:AssociationRelationship>
