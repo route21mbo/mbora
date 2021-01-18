@@ -31,7 +31,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="168"
+          y="156"
           width="120"
           height="55"/>
       <archimateElement
@@ -44,7 +44,7 @@
         targetConnections="id-7055f4a3c61e4d7c9868bf0a23bfdecf id-67819745b8514f1ea9feb0a0dd7059bb">
       <bounds
           x="48"
-          y="276"
+          y="264"
           width="120"
           height="55"/>
       <archimateElement
@@ -118,7 +118,7 @@
         targetConnections="id-cfd4034d9eb1484f9777deb592a0be71 id-f28d0e56682347e2ab954c71f9c3272a">
       <bounds
           x="48"
-          y="72"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
@@ -147,8 +147,8 @@
             href="AggregationRelationship_id-0328c75012e74590baecf426ed700f73.xml#id-0328c75012e74590baecf426ed700f73"/>
       </sourceConnections>
       <bounds
-          x="336"
-          y="72"
+          x="324"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
