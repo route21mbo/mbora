@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Middelen"
-    id="id-510afd778cbb400d9a4315adc2d65af3"/>
+    id="id-510afd778cbb400d9a4315adc2d65af3"
+    documentation="Inzetbare middelen o.a. t.b.v. de onderwijsuitvoering"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Jaar) Planning"
-    id="id-86dfcf78aae644fd80bcfd321bdc46c6"/>
+    id="id-86dfcf78aae644fd80bcfd321bdc46c6"
+    documentation="De gemaakte jaarplanning op basis van:&#xD;&#xA;&#xD;&#xA;- het beoogde onderwijsaanbod&#xD;&#xA;- de schatting van het onderwijs en studenten&#xD;&#xA;- de jaarkalender&#xD;&#xA;- de analyse van de werkverdeling&#xD;&#xA;- de analyse van de faciliteiten&#xD;&#xA;- de clustering van leertaken&#xD;&#xA;&#xD;&#xA;In de jaarplanning wordt rekening gehouden met:&#xD;&#xA;&#xD;&#xA;- afspraken die voortvloeien uit de onderwijswetgeving (urennorm)&#xD;&#xA;- afspraken die voortvloeien uit de CAO MBO&#xD;&#xA;- afspraken die voortvloeien uit de OER&#xD;&#xA;- de inhoud van de curricula"/>
