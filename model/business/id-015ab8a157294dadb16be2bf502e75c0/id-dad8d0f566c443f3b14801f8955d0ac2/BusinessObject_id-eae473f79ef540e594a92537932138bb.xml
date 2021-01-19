@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doorstroomdossier"
-    id="id-eae473f79ef540e594a92537932138bb"/>
+    id="id-eae473f79ef540e594a92537932138bb"
+    documentation="Het  dossier dat tussen onderwijsinstellingen wordt uitgewisseld, met daarin gegevens over de student en zijn loopbaan relevant voor de instelling die de student een vervolgopleiding aanbiedt"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Faciliteiten"
-    id="id-34396599514c4c94a96dad2dcd881bd1"/>
+    id="id-34396599514c4c94a96dad2dcd881bd1"
+    documentation="Een voorziening ten behoeve van een bepaald doel&#xD;&#xA;Bron: Triple A"/>

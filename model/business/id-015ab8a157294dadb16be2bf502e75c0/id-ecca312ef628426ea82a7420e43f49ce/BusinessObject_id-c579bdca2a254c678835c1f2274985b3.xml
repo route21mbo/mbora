@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intakeresultaat"
-    id="id-c579bdca2a254c678835c1f2274985b3"/>
+    id="id-c579bdca2a254c678835c1f2274985b3"
+    documentation="Een door de instelling afgegeven advies aan de (potentiële) student over diens geschiktheid en capaciteit om een opleiding te volgen.&#xD;&#xA;Bron Sambo-ICT"/>
