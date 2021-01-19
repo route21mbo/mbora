@@ -118,15 +118,4 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_671ee653-231e-40df-949f-0170d79f61ab.xml#671ee653-231e-40df-949f-0170d79f61ab"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-494d3aebdccd456d83fc7c88c0eeff7d"
-      textAlignment="1"
-      content="Wordt op het moment niet afgedekt door het informatiemodel">
-    <bounds
-        x="804"
-        y="84"
-        width="157"
-        height="139"/>
-  </children>
 </archimate:ArchimateDiagramModel>

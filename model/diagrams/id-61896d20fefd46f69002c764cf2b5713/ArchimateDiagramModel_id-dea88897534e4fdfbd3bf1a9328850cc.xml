@@ -254,17 +254,6 @@
         href="BusinessObject_id-35e311f511404515989b1fac81dfa2a7.xml#id-35e311f511404515989b1fac81dfa2a7"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6c0a0be03c0c4806a91486d1907ffb03"
-      textAlignment="1"
-      content="Nieuw object doorstroomdossier?">
-    <bounds
-        x="732"
-        y="276"
-        width="132"
-        height="48"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2c8be8b0f29b4b3396246a0d1b427693"
       targetConnections="id-405a17cffdb040439a627fc77baf4e71">
@@ -281,7 +270,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-08b077e3e6fe4413be5de54fb2e14f32"
       targetConnections="id-dddc8d3d7c814918b834172c1621ef51"
-      fillColor="#ff0000">
+      fillColor="#ffffa6">
     <bounds
         x="588"
         y="420"
@@ -308,7 +297,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-40542363d4964ba0a8e8edbbc0b1695f"
       targetConnections="id-a5ec6da606164553b5b0f409e57ef78e"
-      fillColor="#ff0000">
+      fillColor="#ffffa6">
     <bounds
         x="588"
         y="216"
