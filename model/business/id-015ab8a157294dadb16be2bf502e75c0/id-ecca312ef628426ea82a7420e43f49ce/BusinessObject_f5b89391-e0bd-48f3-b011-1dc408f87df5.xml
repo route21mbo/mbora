@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plaatsing"
-    id="f5b89391-e0bd-48f3-b011-1dc408f87df5"/>
+    id="f5b89391-e0bd-48f3-b011-1dc408f87df5"
+    documentation="De plaatsing of deelname van een student in een onderwijstraject"/>
