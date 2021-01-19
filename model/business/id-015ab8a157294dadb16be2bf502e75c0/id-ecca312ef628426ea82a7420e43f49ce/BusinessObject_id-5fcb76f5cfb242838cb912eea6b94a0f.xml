@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formatieve resultaatstructuur"
-    id="id-5fcb76f5cfb242838cb912eea6b94a0f"/>
+    id="id-5fcb76f5cfb242838cb912eea6b94a0f"
+    documentation="Gestructureerde vastlegging van de bouwstenen van het onderwijsaanbod (onderwijs-, examen-, en BPV-onderdelen) die kunnen worden gekoppeld aan de uitvoeringsvariant (leerweg, duur), kerntaken en werkprocessen.&#xD;&#xA;&#xD;&#xA;Gebruik in andere bronnen: "/>
