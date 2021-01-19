@@ -976,6 +976,11 @@
             startY="-44"
             endX="231"
             endY="9"/>
+        <bendpoints
+            startX="-142"
+            startY="-44"
+            endX="88"
+            endY="10"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-21121adf4b0349ce8275b70d9a925c19.xml#id-21121adf4b0349ce8275b70d9a925c19"/>
