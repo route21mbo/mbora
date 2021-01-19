@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scholingsplan"
-    id="id-833b10d5e3234795854575f4160212db"/>
+    id="id-833b10d5e3234795854575f4160212db"
+    documentation="Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het stelsel van kwaliteitszorg. (Art. 12, WPO)&#xD;&#xA;Bron FORA"/>

@@ -323,7 +323,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c2d9fc0feefb4b0692affe5c7e81cc38"
         targetConnections="id-b5c2fb1811134950ad4f5b8d8e0e807b"
-        fillColor="#ff0000">
+        fillColor="#ffffa6">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-923bd1bd9fbe4c978fa35b3b25737ebb"
@@ -365,7 +365,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b0174dd5dbbc4c789be3dcc77a85f252"
         targetConnections="id-ed68b0de84584cb5849c78c3147f7a7d"
-        fillColor="#ff0000">
+        fillColor="#ffffa6">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-99aa8a6af5414d858167c3efee894e93"
@@ -525,7 +525,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-82a1f991f0cc4b058705a66fb2e5dafe"
         targetConnections="id-85f6f84f5b7444cc8c485fc0139dd2df"
-        fillColor="#ff0000">
+        fillColor="#ffffa6">
       <bounds
           x="24"
           y="468"
@@ -539,7 +539,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-57736f66860e455ebe76eacec7e92e89"
         targetConnections="id-5723666727a0449c8db023403762c026"
-        fillColor="#ff0000">
+        fillColor="#ffffa6">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-db9a4cc098734d69bc1bdd7d224471a8"
@@ -998,21 +998,10 @@
         height="97"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-800b9696d29d448a97169182ab5a56c3"
-      textAlignment="1"
-      content="Informatiemateriaal te brede naamgeving, eerde gepubliceerde onderwijsaanbod of iets in die trand&#xD;&#xA;">
-    <bounds
-        x="912"
-        y="347"
-        width="241"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cba9860a93bc49c2813da1a2ab34653d"
       targetConnections="id-58665dc0955948798c47da3b3c095a58"
-      fillColor="#ff8040">
+      fillColor="#ffffc4">
     <bounds
         x="755"
         y="792"

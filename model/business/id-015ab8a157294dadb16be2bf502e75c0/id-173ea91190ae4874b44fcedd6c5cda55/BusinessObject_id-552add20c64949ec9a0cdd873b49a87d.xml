@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waardedocument"
-    id="id-552add20c64949ec9a0cdd873b49a87d"/>
+    id="id-552add20c64949ec9a0cdd873b49a87d"
+    documentation="Getuigschrift dat aangeeft dat voldaan is aan de kwalificatie-eisen.&#xD;&#xA;&#xD;&#xA;Is een gewaarmerkt document, afgegeven door een onderwijsinstelling, gebaseerd op een opleidingsresultaat.&#xD;&#xA;Bron DUO&#xD;&#xA;&#xD;&#xA;Het bewijsstuk van een eindoordeel over het voltooien van een promotie, opleiding, minor of onderwijseenheid door een instelling."/>
