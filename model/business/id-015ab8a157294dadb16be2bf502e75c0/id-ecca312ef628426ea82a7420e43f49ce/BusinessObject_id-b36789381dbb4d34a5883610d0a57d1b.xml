@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PDCA cyclus"
+    name="PDCA-producten"
     id="id-b36789381dbb4d34a5883610d0a57d1b"
-    documentation="Noot: Meer een proces dan een bedrijfsobject"/>
+    documentation="Definitie: &#xD;&#xA;Informatieobjecten binnen de PDCA-cyclus, zoals de begroting en jaarrekening. De objecten kunnen betrekking hebben op de gehele onderwijsaanbieder, maar ook op een specifiek organisatieonderdeel zoals het onderwijsteam. &#xD;&#xA;&#xD;&#xA;Gebruik in andere bronnen: &#xD;&#xA;Bron: HORA&#xD;&#xA;Naam: Begroting&#xD;&#xA;Definitie: Een overzicht van te verwachten inkomsten en uitgaven binnen een bepaalde periode of voor een bepaald project met als doel tot een financiele afstemming te komen tussen de wensen en de mogelijkheden.&#xD;&#xA;Link: https://hora.surf.nl/index.php/Id-bb3e8245-6a28-23a3-53eb-8d462895b7cd"/>
