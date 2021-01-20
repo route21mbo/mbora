@@ -1124,15 +1124,15 @@
         source="id-924c776da9b84a3ab6661ecf4e42005b"
         target="id-ec191f6769d746889d5281547816a06f">
       <bendpoints
-          startX="222"
-          startY="-3"
-          endX="652"
-          endY="-975"/>
+          startX="-150"
+          startY="12"
+          endX="280"
+          endY="-951"/>
       <bendpoints
-          startX="222"
-          startY="957"
-          endX="652"
-          endY="-15"/>
+          startX="-150"
+          startY="960"
+          endX="280"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-fa82d15105204a298bc654591daa4d56.xml#id-fa82d15105204a298bc654591daa4d56"/>

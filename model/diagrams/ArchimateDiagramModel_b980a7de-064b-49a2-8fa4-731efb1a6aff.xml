@@ -60,9 +60,9 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="48"
+          y="36"
           width="121"
-          height="55"/>
+          height="67"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_e86af67a-0299-4dd2-b1a7-e3afc10d15c4.xml#e86af67a-0299-4dd2-b1a7-e3afc10d15c4"/>
@@ -82,9 +82,9 @@
       </sourceConnections>
       <bounds
           x="144"
-          y="48"
-          width="121"
-          height="55"/>
+          y="36"
+          width="133"
+          height="67"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_460b7a05-4640-43e5-8b08-f8e4a791b252.xml#460b7a05-4640-43e5-8b08-f8e4a791b252"/>
