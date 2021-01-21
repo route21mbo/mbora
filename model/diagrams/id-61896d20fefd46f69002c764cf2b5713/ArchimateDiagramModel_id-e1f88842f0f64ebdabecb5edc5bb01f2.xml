@@ -636,6 +636,16 @@
           source="id-b250e02dc3f84e8f975e35cfd1978307"
           target="id-b463e0a5bdb8412fa7b213c2697135ec">
         <bendpoints
+            startX="162"
+            startY="21"
+            endX="-180"
+            endY="-867"/>
+        <bendpoints
+            startX="162"
+            startY="165"
+            endX="-180"
+            endY="-723"/>
+        <bendpoints
             startX="426"
             startY="165"
             endX="84"
@@ -979,8 +989,8 @@
       textAlignment="1"
       content="In het licht van het Inf. model naamwijziging Presenteren onderwijsaanbod --> Defineren onderwijsaanbod">
     <bounds
-        x="888"
-        y="144"
+        x="912"
+        y="102"
         width="241"
         height="97"/>
   </children>

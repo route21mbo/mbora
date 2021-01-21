@@ -1019,8 +1019,8 @@
       targetConnections="id-fede9f04f7cb4bcfaf7138d88e4cf25c"
       fillColor="#ffffbf">
     <bounds
-        x="840"
-        y="60"
+        x="846"
+        y="66"
         width="120"
         height="55"/>
     <archimateElement
@@ -1259,7 +1259,7 @@
       targetConnections="id-2f5067b62ea14887bd459d1100751d6a">
     <bounds
         x="840"
-        y="948"
+        y="936"
         width="120"
         height="55"/>
     <archimateElement
