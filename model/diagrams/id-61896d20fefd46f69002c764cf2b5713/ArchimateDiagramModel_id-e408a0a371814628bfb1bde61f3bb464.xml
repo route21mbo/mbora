@@ -627,15 +627,4 @@
         width="276"
         height="60"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-685762b8a7744e829e31db382ce31fc9"
-      textAlignment="1"
-      content="Examendossier naar diplomadossier?&#xD;&#xA;Check bij wijziging ook processen">
-    <bounds
-        x="840"
-        y="972"
-        width="216"
-        height="54"/>
-  </children>
 </archimate:ArchimateDiagramModel>
