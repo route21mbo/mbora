@@ -428,7 +428,7 @@
     <bounds
         x="671"
         y="108"
-        width="97"
+        width="122"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -441,7 +441,7 @@
     <bounds
         x="672"
         y="181"
-        width="96"
+        width="121"
         height="48"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -467,7 +467,7 @@
     <bounds
         x="672"
         y="252"
-        width="96"
+        width="121"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"

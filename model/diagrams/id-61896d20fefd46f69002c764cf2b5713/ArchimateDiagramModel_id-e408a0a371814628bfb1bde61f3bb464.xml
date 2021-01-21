@@ -262,16 +262,6 @@
           id="id-39a7056bfc784726b6a2f70cbb5d5245"
           source="id-091c8750c05c4be49e9ffef309cb2340"
           target="id-41864808454a419091ef9ff9d5142b14">
-        <bendpoints
-            startX="156"
-            startY="-14"
-            endX="-132"
-            endY="46"/>
-        <bendpoints
-            startX="156"
-            startY="-50"
-            endX="-132"
-            endY="10"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-b0eb6199905c4c85890b91e401474fde.xml#id-b0eb6199905c4c85890b91e401474fde"/>
@@ -489,7 +479,7 @@
       targetConnections="id-64cb262cbf3b460ead555d8edc8c12cc">
     <bounds
         x="672"
-        y="564"
+        y="540"
         width="120"
         height="55"/>
     <archimateElement
@@ -502,7 +492,7 @@
       targetConnections="id-1d5ddfea008641a8a022253d5f3cb031">
     <bounds
         x="672"
-        y="630"
+        y="612"
         width="120"
         height="55"/>
     <archimateElement
@@ -515,7 +505,7 @@
       targetConnections="id-39a7056bfc784726b6a2f70cbb5d5245 id-99e32debb97a482298b2d3bee19f1c95">
     <bounds
         x="672"
-        y="384"
+        y="432"
         width="120"
         height="55"/>
     <archimateElement
@@ -541,8 +531,8 @@
       textAlignment="1"
       content="Uitgangspunt: Modelleer waar het businessobject ontstaat">
     <bounds
-        x="888"
-        y="120"
+        x="900"
+        y="43"
         width="276"
         height="54"/>
   </children>
@@ -553,7 +543,7 @@
       fillColor="#ffffaa">
     <bounds
         x="672"
-        y="696"
+        y="684"
         width="120"
         height="55"/>
     <archimateElement
@@ -567,7 +557,7 @@
       fillColor="#ffffb0">
     <bounds
         x="672"
-        y="768"
+        y="756"
         width="120"
         height="55"/>
     <archimateElement
@@ -619,11 +609,33 @@
       targetConnections="id-8a6f2614ef7a4d72a5f0a0c1f0d8c464">
     <bounds
         x="672"
-        y="840"
+        y="828"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-86895ec647fa406f9d4ae531eeaecfa0.xml#id-86895ec647fa406f9d4ae531eeaecfa0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-19d1397569534e689153d305366c8a0a"
+      textAlignment="1"
+      content="Specialisatie examen rooster op nemen in de definitie&#xD;&#xA;">
+    <bounds
+        x="900"
+        y="120"
+        width="276"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9cf686fa53784876a5d64bb814a36414"
+      textAlignment="1"
+      content="Afname lijkt meer op process, niet op de businessobjecten zoals in de beschrijving. Afname is ook de plaats, het moment etc.&#xD;&#xA;Afname --> sessie/ documentatie/ set">
+    <bounds
+        x="828"
+        y="432"
+        width="264"
+        height="72"/>
   </children>
 </archimate:ArchimateDiagramModel>
