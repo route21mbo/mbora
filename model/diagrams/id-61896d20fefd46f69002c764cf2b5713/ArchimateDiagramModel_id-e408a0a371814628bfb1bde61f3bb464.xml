@@ -526,17 +526,6 @@
         href="BusinessObject_8a65faa8-d8a9-40ad-9c5d-0b3506f2310e.xml#8a65faa8-d8a9-40ad-9c5d-0b3506f2310e"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6efe2288e4664adf8e4adce1cfac1600"
-      textAlignment="1"
-      content="Uitgangspunt: Modelleer waar het businessobject ontstaat">
-    <bounds
-        x="864"
-        y="43"
-        width="276"
-        height="54"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ee757a88d0d4e3ead7de08e46767b6d"
       targetConnections="id-d5262687e7f846d88085782bc4d6d063"
@@ -615,16 +604,5 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-86895ec647fa406f9d4ae531eeaecfa0.xml#id-86895ec647fa406f9d4ae531eeaecfa0"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-19d1397569534e689153d305366c8a0a"
-      textAlignment="1"
-      content="Specialisatie examen rooster op nemen in de definitie&#xD;&#xA;">
-    <bounds
-        x="864"
-        y="121"
-        width="276"
-        height="60"/>
   </children>
 </archimate:ArchimateDiagramModel>
