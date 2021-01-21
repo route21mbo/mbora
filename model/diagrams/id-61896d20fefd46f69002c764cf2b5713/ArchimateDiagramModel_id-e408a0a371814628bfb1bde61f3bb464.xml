@@ -518,7 +518,7 @@
       targetConnections="id-a6730817c11b4798b93e44578327bbaa">
     <bounds
         x="672"
-        y="96"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -622,21 +622,10 @@
       textAlignment="1"
       content="Specialisatie examen rooster op nemen in de definitie&#xD;&#xA;">
     <bounds
-        x="900"
-        y="120"
+        x="864"
+        y="121"
         width="276"
         height="60"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9cf686fa53784876a5d64bb814a36414"
-      textAlignment="1"
-      content="Afname lijkt meer op process, niet op de businessobjecten zoals in de beschrijving. Afname is ook de plaats, het moment etc.&#xD;&#xA;Afname --> sessie/ documentatie/ set">
-    <bounds
-        x="828"
-        y="432"
-        width="264"
-        height="72"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
