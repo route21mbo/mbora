@@ -24,9 +24,9 @@
         target="id-518581d71f49490488e7ed13ff180980">
       <bendpoints
           startX="174"
-          startY="6"
+          startY="18"
           endX="-144"
-          endY="-102"/>
+          endY="-138"/>
       <bendpoints
           startX="174"
           startY="114"
@@ -43,9 +43,9 @@
         target="id-c27c4a64c492485caea08108e1dc51c2">
       <bendpoints
           startX="150"
-          startY="30"
+          startY="18"
           endX="-168"
-          endY="-210"/>
+          endY="-222"/>
       <bendpoints
           startX="150"
           startY="222"
@@ -79,17 +79,17 @@
     </sourceConnections>
     <bounds
         x="360"
-        y="60"
+        y="72"
         width="169"
-        height="145"/>
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5075130b9eb54302aa1f6a64734809d0"
         targetConnections="id-677a5dd43423408caf6303dd8dd97fce">
       <bounds
           x="24"
-          y="72"
-          width="120"
+          y="48"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"

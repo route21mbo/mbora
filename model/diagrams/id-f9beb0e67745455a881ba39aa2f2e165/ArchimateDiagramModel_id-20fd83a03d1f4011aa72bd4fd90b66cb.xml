@@ -2122,9 +2122,9 @@
       </sourceConnections>
       <bounds
           x="252"
-          y="210"
+          y="228"
           width="216"
-          height="101"/>
+          height="83"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-eb3b5438d25649eeac1fe126c956bd95"
@@ -2135,9 +2135,9 @@
           fillColor="#b5ffff">
         <bounds
             x="36"
-            y="36"
+            y="30"
             width="169"
-            height="49"/>
+            height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-a3d5952e566a40f2a9788db44e52ce07.xml#id-a3d5952e566a40f2a9788db44e52ce07"/>
