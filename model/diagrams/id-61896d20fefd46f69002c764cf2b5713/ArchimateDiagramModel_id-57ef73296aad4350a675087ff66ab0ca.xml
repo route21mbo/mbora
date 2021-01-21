@@ -1198,17 +1198,6 @@
         href="BusinessObject_31e03ae4-8615-4d5d-84d5-8c6060530b88.xml#31e03ae4-8615-4d5d-84d5-8c6060530b88"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d9b87e0e079d4b23b099fd12270c6ded"
-      textAlignment="1"
-      content="onderwijscatalogus object?">
-    <bounds
-        x="840"
-        y="660"
-        width="120"
-        height="43"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2661ea93b3804485bf5c5599e895fa73"
       targetConnections="id-22c6819678584cd5bf1937ceb9e1fb97">
