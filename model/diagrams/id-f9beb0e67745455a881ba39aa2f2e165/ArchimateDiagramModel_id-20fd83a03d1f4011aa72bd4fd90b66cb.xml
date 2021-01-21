@@ -3231,7 +3231,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1941228920e343cb98ae02364884818f"
       textAlignment="1"
-      fillColor="#e7dde3">
+      fillColor="#e0d0d9">
     <features
         name="lineAlpha"
         value="0"/>
@@ -4322,7 +4322,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-21f5210c012848519b88b16fb48644e1"
       textAlignment="1"
-      fillColor="#e7edef">
+      fillColor="#e0e9eb">
     <features
         name="lineAlpha"
         value="0"/>
@@ -5959,7 +5959,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81934ac72c474fd3b030b41a9655b366"
       textAlignment="1"
-      fillColor="#e4e9df">
+      fillColor="#e3e8de">
     <features
         name="lineAlpha"
         value="0"/>
