@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7b530d9fddf9423484c4e350d5833726"
       textAlignment="1"
-      fillColor="#e3e2ef">
+      fillColor="#dfe0e9">
     <features
         name="lineAlpha"
         value="0"/>
@@ -103,7 +103,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-46929e4a5faf4c5db53f0771954218e3"
       textAlignment="1"
-      fillColor="#dde0db">
+      fillColor="#dee0db">
     <features
         name="lineAlpha"
         value="0"/>
@@ -173,7 +173,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-761ae13f31d54896bdb199f9474f9972"
       textAlignment="1"
-      fillColor="#f6e4dc">
+      fillColor="#fce5dd">
     <features
         name="lineAlpha"
         value="0"/>
@@ -190,7 +190,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55105a15314e4570a28c7dc7b87654b3"
       textAlignment="1"
-      fillColor="#e5e9e0">
+      fillColor="#e5e9df">
     <features
         name="lineAlpha"
         value="0"/>
@@ -214,9 +214,14 @@
             endX="1272"
             endY="-70"/>
         <bendpoints
-            startX="-1252"
+            startX="-1048"
             startY="-98"
-            endX="48"
+            endX="252"
+            endY="-70"/>
+        <bendpoints
+            startX="-1264"
+            startY="-98"
+            endX="36"
             endY="-70"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
@@ -370,7 +375,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6d53aa104a9a4b699733e06fe6652d97"
       textAlignment="1"
-      fillColor="#dde0db">
+      fillColor="#dee0db">
     <features
         name="lineAlpha"
         value="0"/>
@@ -422,7 +427,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3da8ce8d8e0744e79518c5ff9dba2af8"
-        targetConnections="id-a4bfb85cbb7d409e9bd8606df6935731 id-e361561f39fa455b9269cb34b5908725 id-9065b3d2e02647a38b3be7e323cf0964">
+        targetConnections="id-a4bfb85cbb7d409e9bd8606df6935731 id-9065b3d2e02647a38b3be7e323cf0964 id-e361561f39fa455b9269cb34b5908725">
       <bounds
           x="204"
           y="144"
@@ -515,7 +520,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-082f5eeaf221436a9f99c0654e592e5e"
       textAlignment="1"
-      fillColor="#fdf7ed">
+      fillColor="#ebe0d8">
     <features
         name="lineAlpha"
         value="0"/>
@@ -645,7 +650,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-abf229aa202b4d4dbffdc93de3bebb23"
       textAlignment="1"
-      fillColor="#e6dce3">
+      fillColor="#e9dde3">
     <features
         name="lineAlpha"
         value="0"/>
@@ -876,6 +881,23 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-126ac503036b44d3b0e5ff41f6cdb699"
+          source="id-3f5eca616db640f89457ca74255c5d25"
+          target="id-3f824070fb334facbf964ea66ec08801">
+        <bendpoints
+            startY="-62"
+            endX="-120"
+            endY="82"/>
+        <bendpoints
+            startX="120"
+            startY="-62"
+            endY="82"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-03b07a6c1e454daab632c6971f90ce55.xml#id-03b07a6c1e454daab632c6971f90ce55"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e361561f39fa455b9269cb34b5908725"
           source="id-3f5eca616db640f89457ca74255c5d25"
           target="id-3da8ce8d8e0744e79518c5ff9dba2af8">
@@ -897,23 +919,6 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-7c6fecca2b9e448fb8a5bf30900c1909.xml#id-7c6fecca2b9e448fb8a5bf30900c1909"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-126ac503036b44d3b0e5ff41f6cdb699"
-          source="id-3f5eca616db640f89457ca74255c5d25"
-          target="id-3f824070fb334facbf964ea66ec08801">
-        <bendpoints
-            startY="-62"
-            endX="-120"
-            endY="82"/>
-        <bendpoints
-            startX="120"
-            startY="-62"
-            endY="82"/>
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-03b07a6c1e454daab632c6971f90ce55.xml#id-03b07a6c1e454daab632c6971f90ce55"/>
       </sourceConnections>
       <bounds
           x="264"
@@ -966,7 +971,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-26eb525fff3b49adacc78ad1d08cd276"
       textAlignment="1"
-      fillColor="#e5edee">
+      fillColor="#e6edef">
     <features
         name="lineAlpha"
         value="0"/>
@@ -980,7 +985,7 @@
         id="id-156f2383882c4396b5df4f296a582ff9"
         targetConnections="id-8d1d9e74d8a54c9e8c2117c2e25dfd60">
       <bounds
-          x="768"
+          x="756"
           y="168"
           width="120"
           height="55"/>
@@ -996,7 +1001,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34dd0762f6624b72b1f83a54586a1774"
       textAlignment="1"
-      fillColor="#dde0db">
+      fillColor="#dee0db">
     <features
         name="lineAlpha"
         value="0"/>
@@ -1128,7 +1133,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-44ca1285081c47a7b2eac11c1cf8610e"
       textAlignment="1"
-      fillColor="#eff7ea">
+      fillColor="#eef7e9">
     <features
         name="lineAlpha"
         value="0"/>
@@ -1727,6 +1732,11 @@
           startY="9"
           endX="-95"
           endY="-224"/>
+      <bendpoints
+          startX="636"
+          startY="166"
+          endX="-94"
+          endY="-104"/>
       <bendpoints
           startX="636"
           startY="237"
@@ -2625,7 +2635,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aa821a919e60427ba306c74a5a1c3263"
       textAlignment="1"
-      fillColor="#f1e5ea">
+      fillColor="#f3e6ea">
     <features
         name="lineAlpha"
         value="0"/>

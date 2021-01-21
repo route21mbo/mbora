@@ -723,7 +723,7 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#eeedee">
+      fillColor="#eeeded">
     <features
         name="lineAlpha"
         value="0"/>
@@ -3452,7 +3452,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-50d7a302dbf64bc28aa61223b4714e52"
       textAlignment="1"
-      fillColor="#dce0db">
+      fillColor="#dee0db">
     <features
         name="lineAlpha"
         value="0"/>
@@ -4322,7 +4322,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-21f5210c012848519b88b16fb48644e1"
       textAlignment="1"
-      fillColor="#e0e9eb">
+      fillColor="#e6edef">
     <features
         name="lineAlpha"
         value="0"/>
@@ -4643,7 +4643,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8e560f7bb45e402ea87e9c444a59bf5b"
       textAlignment="1"
-      fillColor="#eef7e9">
+      fillColor="#edf7e9">
     <features
         name="lineAlpha"
         value="0"/>
@@ -5317,7 +5317,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2dd48ab80ad043b38da41f5b772ceb28"
       textAlignment="1"
-      fillColor="#e8e0d9">
+      fillColor="#ebe0d8">
     <features
         name="lineAlpha"
         value="0"/>
@@ -5669,7 +5669,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-66da17316aa549ca9a47f56773db7d14"
       textAlignment="1"
-      fillColor="#f1e5ea">
+      fillColor="#f5e5ea">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e4b780ca1bc348a981a2c97109420cf0"
@@ -5959,7 +5962,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81934ac72c474fd3b030b41a9655b366"
       textAlignment="1"
-      fillColor="#e3e8de">
+      fillColor="#e3e9df">
     <features
         name="lineAlpha"
         value="0"/>
@@ -6028,7 +6031,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2765aaa3d9ea4deb80c170ddcf0e4e88"
       textAlignment="1"
-      fillColor="#dfe0e9">
+      fillColor="#dfe0ea">
     <features
         name="lineAlpha"
         value="0"/>
@@ -6097,7 +6100,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c4a55882849f4a77af97d670a331c313"
       textAlignment="1"
-      fillColor="#f7e5df">
+      fillColor="#fce5dd">
     <features
         name="lineAlpha"
         value="0"/>
