@@ -1794,9 +1794,9 @@
         target="id-12c83168b34e4d2b83b7fe2e0d090dd5">
       <bendpoints
           startX="96"
-          startY="1"
+          startY="2"
           endX="-96"
-          endY="-51"/>
+          endY="-50"/>
       <bendpoints
           startX="96"
           startY="62"
@@ -1852,9 +1852,9 @@
         target="id-12c83168b34e4d2b83b7fe2e0d090dd5">
       <bendpoints
           startX="96"
-          startY="-2"
+          startY="-40"
           endX="-96"
-          endY="58"/>
+          endY="130"/>
       <bendpoints
           startX="96"
           startY="-160"
