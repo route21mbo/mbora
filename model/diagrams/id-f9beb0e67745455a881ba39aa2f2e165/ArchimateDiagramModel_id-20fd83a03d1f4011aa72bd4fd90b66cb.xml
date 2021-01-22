@@ -1784,7 +1784,7 @@
           href="CompositionRelationship_id-5d35ff96ed0643eb90b6f8ce7f1e19d4.xml#id-5d35ff96ed0643eb90b6f8ce7f1e19d4"/>
     </sourceConnections>
     <bounds
-        x="15"
+        x="11"
         y="1440"
         width="2132"
         height="325"/>
@@ -2673,7 +2673,7 @@
         <bounds
             x="36"
             y="36"
-            width="156"
+            width="169"
             height="37"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
