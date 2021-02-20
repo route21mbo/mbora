@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opleidingen-catalogus"
-    id="875b6cbe-437c-416d-a1d5-4b5fd182e822"
-    documentation="Onderwijscatalogus&#xD;&#xA;Verzameling van onderwijsproducten die door de instelling worden aangeboden, beschreven in de vorm van metadata. In de onderwijscatalogus kunnen de onderwijsproducten zijn geordend tot een samenhangend stuk onderwijs in een referentiearrangement. De onderwijsproducten en referentiearrangementen kunnen verwijzen naar een relevante taxonomie.&#xD;&#xA;Bron: Triple-A&#xD;&#xA;Link: https://triplea.sambo-ict.nl/wiki/index.php/Onderwijscatalogus"/>

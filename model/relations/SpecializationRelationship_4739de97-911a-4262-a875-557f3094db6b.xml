@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="valt onder"
     id="4739de97-911a-4262-a875-557f3094db6b">
   <source
       xsi:type="archimate:BusinessObject"

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architectuurbeheersysteem"
     id="id-a906a52782f8491babab4d855624d477"
-    documentation="Een systeem die het modelleren en beheren van de enterprise-architectuur ondersteunt.">
+    documentation="Een systeem die het beschrijven en beheren van de enterprise-architectuur, de organisatie strategie en de organisatie uitlijning ondersteunt. ">
   <properties
       key="Source"
       value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>

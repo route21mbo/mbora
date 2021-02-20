@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren examen"
-    id="c397b3ce-c748-4c60-bc37-3cb096c06973"/>
+    id="c397b3ce-c748-4c60-bc37-3cb096c06973"
+    documentation="Tijdens de uitvoering van het examen levert de student een prestatie aan de hand waarvan beoordelaars beoordelen of hij voldoet aan de exameneisen (zie volgende processtap). De examencommissie ziet er op toe dat alle onderdelen van het examenplan deel uitmaken van het totaal aan examens, inclusief de centrale examens voor taal en rekenen.&#xD;&#xA;&#xD;&#xA;MOGELIJKE PROCESSTAPPEN&#xD;&#xA;&#xD;&#xA;* Bepaal welke rollen en taken er zijn bij het organiseren, uitvoeren en beoordelen van het examen en beleg deze taken. Gebruik hierbij de Examentaak mbo: Afnemen en Beoordelen.&#xD;&#xA;* Plan en organiseer het examen volgens de in het examenmateriaal beschreven examencondities. Werk hierbij, indien van toepassing, goed samen met het bedrijfsleven. Als de uitvoering in de praktijk plaatsvindt, raadpleeg dan de servicedocumenten Examinering in de beroepspraktijk; hulpvragen, Examinering in de beroepspraktijk; dilemma’s, en de checklist Examensetting en afnamecondities.&#xD;&#xA;* Nodig de student uit voor het afleggen van het examen.&#xD;&#xA;* Voer het examen uit.&#xD;&#xA;* Evalueer het proces van het uitvoeren van de examens. Benoem en beschrijf wat er goed gaat en leg verbeterpunten vast.&#xD;&#xA;">
+  <properties
+      key="Input"
+      value="Match van examenaanvraag en examenaabod"/>
+  <properties
+      key="Output"
+      value="Afgenomen examen"/>
+</archimate:BusinessProcess>

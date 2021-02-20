@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EVC-diensten"
+    name="EVC-beoordeling"
     id="id-a69c93f037964605b16cbb16831cb179"
-    documentation="Het ondersteunen van het aanvragen , het vaststellen en beheren van eerder verworven competenties ."/>
+    documentation="Het ondersteunen van het aanvragen, het vaststellen en beheren van eerder verworven competenties ."/>

@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evenementengegevens beheer"
+    name="Evenementenbeheer"
     id="id-2b05e212108d458d917fd35869c3abef"
-    documentation="Het ondersteunen van evenmenten zoals opendagen, kennisdeling, feestelijkheden, ?"/>
+    documentation="Het ondersteunen van evenmenten zoals opendagen, kennisdeling, feestelijkheden, ... inc. het beheer van gegevens"/>

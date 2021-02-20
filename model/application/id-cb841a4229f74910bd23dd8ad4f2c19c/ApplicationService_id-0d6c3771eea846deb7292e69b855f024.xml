@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatiebeveiligings diensten"
+    name="Informatiebeveiligings dienst"
     id="id-0d6c3771eea846deb7292e69b855f024"
-    documentation="Het zorgdragen voor informatiebeveiliging zoals email-encryptie, malware preventie enz.."/>
+    documentation="Het zorgdragen voor informatiebeveiliging, denk aan&#xD;&#xA;&#xD;&#xA;* preventie&#xD;&#xA;  * email-encryptie&#xD;&#xA;  * malware preventie&#xD;&#xA;  * IDS/IPS&#xD;&#xA;* Detectie&#xD;&#xA;  * SIEM&#xD;&#xA;* Reactie&#xD;&#xA;  * CERT&#xD;&#xA;  * Playbooks"/>

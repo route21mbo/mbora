@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
     id="e3418f5a-9f80-4d37-bcfa-cbfbdc651ad6">
   <source
       xsi:type="archimate:BusinessObject"

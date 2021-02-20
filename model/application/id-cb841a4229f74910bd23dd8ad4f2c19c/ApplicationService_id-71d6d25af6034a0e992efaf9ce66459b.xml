@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verzuimgegevens uitwisselen"
+    name="Verzuimgegevens uitwisseling"
     id="id-71d6d25af6034a0e992efaf9ce66459b"
-    documentation="Het analyseren van en formeel rapporteren van verzuimgegevens aan de overheid"/>
+    documentation="Het formeel rapporteren van verzuimgegevens"/>

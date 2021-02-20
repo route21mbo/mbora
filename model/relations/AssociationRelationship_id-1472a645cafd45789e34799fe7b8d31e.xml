@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt afgenomen tijdens"
     id="id-1472a645cafd45789e34799fe7b8d31e">
   <source
       xsi:type="archimate:BusinessObject"

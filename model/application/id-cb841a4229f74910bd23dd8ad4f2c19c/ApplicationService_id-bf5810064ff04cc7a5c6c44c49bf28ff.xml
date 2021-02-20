@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren inschrijvingen"
+    name="Inschrijvingenbeheer"
     id="id-bf5810064ff04cc7a5c6c44c49bf28ff"
     documentation="Het administreren van inschrijvingen (en evt. overeenkomsten) voor een opleiding, een keuzedeel, een examen, een herkansing.&#xD;&#xA;&#xD;&#xA;Focus ligt op de administratieve verwerking en niet op de interactie met de (potentiële) student"/>

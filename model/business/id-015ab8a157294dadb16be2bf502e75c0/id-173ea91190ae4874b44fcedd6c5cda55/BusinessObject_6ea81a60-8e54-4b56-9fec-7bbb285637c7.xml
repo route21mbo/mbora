@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsaanbieder"
+    id="6ea81a60-8e54-4b56-9fec-7bbb285637c7"
+    documentation="Definitie: &#xD;&#xA;Een organisatie die door een bevoegd gezag is ingesteld voor het verzorgen van onderwijs. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Onderwijsaanbieder&#xD;&#xA;Definitie: Een organisatie die door een bevoegd gezag is ingesteld voor het verzorgen van onderwijs.&#xD;&#xA;Link: http://lod.onderwijsregistratie.nl/term/Onderwijsaanbieder&#xD;&#xA;&#xD;&#xA;Bron: RIO&#xD;&#xA;Naam: Onderwijsaanbieder&#xD;&#xA;Definitie: Een organisatie die bevoegd onderwijs verzorgt. De instelling kan meerdere uitvoeringsvormen hebben waardoor een onderwijsinstelling 1 of meerdere BRIN codes kan vertegenwoordigen en één of meerdere rechtspersonen kan omvatten.&#xD;&#xA;Link: https://www.rio-onderwijs.nl/informatieobjecten-2 (zie: WIE: Onderwijsaanbieder en Onderwijsaanbiedersgroep)"/>

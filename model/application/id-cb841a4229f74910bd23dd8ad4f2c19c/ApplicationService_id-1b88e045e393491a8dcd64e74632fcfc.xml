@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijsaanbod beheer"
+    name="Opleidingsaanbod beheer"
     id="id-1b88e045e393491a8dcd64e74632fcfc"
-    documentation="Het beheren van het onderwijsaanbod"/>
+    documentation="Het beheren van het onderwijsaanbod inclusief de onderwijsprogramma's (voorheen referentie-arrangementen) en keuzedelen"/>

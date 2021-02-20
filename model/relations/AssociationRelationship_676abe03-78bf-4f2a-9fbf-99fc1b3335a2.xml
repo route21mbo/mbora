@@ -1,10 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="676abe03-78bf-4f2a-9fbf-99fc1b3335a2">
+    name="bij"
+    id="676abe03-78bf-4f2a-9fbf-99fc1b3335a2"
+    documentation="Jef: of bij?">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_84ebb4db-f112-4add-ba73-99421c641481.xml#84ebb4db-f112-4add-ba73-99421c641481"/>
+      href="BusinessObject_id-35e311f511404515989b1fac81dfa2a7.xml#id-35e311f511404515989b1fac81dfa2a7"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_81bb33e3-21ee-418d-9cd1-918c90c4e989.xml#81bb33e3-21ee-418d-9cd1-918c90c4e989"/>

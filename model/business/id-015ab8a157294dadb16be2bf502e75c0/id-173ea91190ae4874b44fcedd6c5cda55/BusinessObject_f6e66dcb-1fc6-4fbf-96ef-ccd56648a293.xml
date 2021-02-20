@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleidingsgroep"
+    id="f6e66dcb-1fc6-4fbf-96ef-ccd56648a293"
+    documentation="Definitie: &#xD;&#xA;Een groep van bij elkaar behorende opleidingen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Opleidingsgroep&#xD;&#xA;Definitie: Een groep van bij elkaar behorende opleidingen.&#xD;&#xA;Link: http://lod.onderwijsregistratie.nl/term/Opleidingsgroep"/>

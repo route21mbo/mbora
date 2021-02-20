@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Learning analytics diensten"
+    name="LTI dienst"
     id="id-34f2aeb09a364c029d09e3a087baaa29"
-    documentation="Het registreren en analyseren van het leergedrag"/>
+    documentation="Het registreren  van het leergedrag ddat zich manifesteert in het genereren learning track information (LTI-records).&#xD;&#xA;&#xD;&#xA;Deze LTI-records worden verzonden naar en opgeslagen in een learning record store.&#xD;&#xA;&#xD;&#xA;Opmerking: LTI informatie kan door een veelvoud van systemen die door studenten worden gebruiken, worden gegenereerd."/>

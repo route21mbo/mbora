@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleidingseenheid"
+    id="0c222ffe-4dad-490d-b445-233fa79fd495"
+    documentation="Definitie: &#xD;&#xA;Een geheel van kennis, inzicht en vaardigheden. Een opleidingseenheid kan beschreven worden naar het waardedocument dat de student ontvangt na het afronden van de aangeboden opleiding. In dat geval kent de opleidingseenheid de volgende varianten: &#xD;&#xA;- diploma-opleiding&#xD;&#xA;- branche-opleiding&#xD;&#xA;- certificaat-opleiding&#xD;&#xA;- maatwerk-opleiding&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Opleidingseenheid&#xD;&#xA;Definitie: Een geheel van kennis, inzicht en vaardigheden. Een samenhangend geheel van vakken, gericht op de verwezenlijking van welomschreven doelstellingen op het gebied van kennis, inzicht en vaardigheden. Voorbeelden: Kwalificatie in het MBO Bachelor in het WO Profiel in het VO&#xD;&#xA;Link: http://lod.onderwijsregistratie.nl/term/Opleidingseenheid&#xD;&#xA;&#xD;&#xA;"/>

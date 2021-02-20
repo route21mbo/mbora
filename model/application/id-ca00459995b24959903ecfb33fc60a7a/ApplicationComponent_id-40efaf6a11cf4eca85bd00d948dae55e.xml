@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digitale leeromgeving"
+    name="Leer management systeem (LMS)"
     id="id-40efaf6a11cf4eca85bd00d948dae55e"
-    documentation="Een systeem voor het beheren van leercontent en het ondersteunen van de interactie tussen student en docent&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;het creeren van content&#xD;&#xA;het arrangeren/organiseren van content, &#xD;&#xA;aanbieden aan (groepen)studenten, &#xD;&#xA;interactie/communicatie met studenten (uitnodigen, autoriseren, huiswerk indienen, afspraken vastleggen), &#xD;&#xA;werken in projecten,&#xD;&#xA;aanbieden assesments, quizzen,&#xD;&#xA;bijhouden voortgang en formatieve resultaten&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;CumLaude&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Dit begrip migreert richting een Learning Experience Platform">
+    documentation="Een systeem voor het beheren van leercontent (LCMS) en het ondersteunen van het leerproces en de interactie tussen student en docent&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;* het creeren van content&#xD;&#xA;* het arrangeren/organiseren van content, &#xD;&#xA;* aanbieden aan (groepen)studenten, &#xD;&#xA;* interactie/communicatie met studenten (uitnodigen, autoriseren, huiswerk indienen, afspraken vastleggen), &#xD;&#xA;* werken in projecten,&#xD;&#xA;* aanbieden assesments, quizzen,&#xD;&#xA;* bijhouden voortgang en formatieve resultaten&#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;* CumLaude&#xD;&#xA;* Brightspace&#xD;&#xA;&#xD;&#xA;Opmerking:&#xD;&#xA;Dit begrip migreert richting een Learning Experience Platform of e-learning platform">
   <properties
       key="Source"
       value="https://hora.surf.nl/index.php?title=Id-16bb2aed-0013-2e43-b8d8-f4aa039faefc"/>

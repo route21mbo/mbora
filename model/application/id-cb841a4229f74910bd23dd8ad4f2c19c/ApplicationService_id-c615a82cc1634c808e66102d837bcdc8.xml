@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Analysis"
+    id="id-c615a82cc1634c808e66102d837bcdc8"
+    documentation="Het analyseren van geregistreerd leergedrag (learning track infromatie) zoals dat in in learning record store is opgeslagen en het presenteren van de bevindingen in dashboards"/>

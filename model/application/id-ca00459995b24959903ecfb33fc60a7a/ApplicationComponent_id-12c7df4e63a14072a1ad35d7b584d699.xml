@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Servicemanagement"
+    name="Servicemanagementsysteem "
     id="id-12c7df4e63a14072a1ad35d7b584d699"
-    documentation="Een systeem voor het afhandelen van incidenten en wijzigingen en het configuratiebeheer &#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Topdesk">
+    documentation="Een systeem voor onder andere het afhandelen van incidenten en wijzigingen en het configuratiebeheer &#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Topdesk">
   <properties
       key="Source"
       value="https://www.sciencedirect.com/science/article/pii/S1877050917322718"/>

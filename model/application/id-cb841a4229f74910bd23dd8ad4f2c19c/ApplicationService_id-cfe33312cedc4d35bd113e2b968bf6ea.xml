@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Taaktoedeling plannen"
+    name="Plan van inzet beheer"
     id="id-cfe33312cedc4d35bd113e2b968bf6ea"
-    documentation="Het maken van een (jaar)plan van inzet voor de leden van een onderwijsteam. Zoals het bepalen van het aantal uren lesgeven, innovatie, contentontwikkeling enz.. voor het komende jaar"/>
+    documentation="Het maken van een (jaar)inzetplan van inzet voor de leden van een onderwijsteam. Zoals het bepalen van het aantal uren lesgeven, innovatie, contentontwikkeling enz.. voor het komende jaar"/>

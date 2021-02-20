@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorraad beheer"
+    id="id-2c2958648f954dc980f090eab6407461"
+    documentation="Het beheren van voorraad.&#xD;&#xA;&#xD;&#xA;* Kantoorartikelen&#xD;&#xA;* Apparatuur&#xD;&#xA;* Goederen"/>

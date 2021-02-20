@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijslocatie"
+    id="7cde48dd-2814-4b32-8139-bea067af746a"
+    documentation="Definitie: &#xD;&#xA;Een (cluster van) verblijfsobject(en) waar een onderwijsvolger zich kan inschrijven op opleidingen, die daar door een onderwijsaanbieder worden aangeboden.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Onderwijslocatie&#xD;&#xA;Definitie: Een (cluster van) verblijfsobject(en) waar een onderwijsvolger zich kan inschrijven op opleidingen, die daar door een onderwijsaanbieder worden aangeboden.&#xD;&#xA;Link: http://lod.onderwijsregistratie.nl/term/Onderwijslocatie&#xD;&#xA;&#xD;&#xA;Bron: RIO&#xD;&#xA;Naam: Onderwijslocatie&#xD;&#xA;Definitie: Een punt op een geografische kaart waar onderwijs wordt aangeboden. &#xD;&#xA;Link: https://www.rio-onderwijs.nl/informatieobjecten-2"/>

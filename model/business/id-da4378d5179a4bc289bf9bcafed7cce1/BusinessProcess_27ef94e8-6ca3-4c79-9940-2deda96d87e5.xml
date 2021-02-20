@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matchen aanmelding en examen-aanbod"
-    id="27ef94e8-6ca3-4c79-9940-2deda96d87e5"/>
+    id="27ef94e8-6ca3-4c79-9940-2deda96d87e5"
+    documentation="In dit proces vindt een match plaats tussen de examenaanmelding van de student en het examenaanbod van de mbo-school en/of exameninstelling. Daarbij wordt bekeken of het aangevraagde examen, vastgesteld is door de examencommissie en afgenomen kan worden. Wanneer er voorwaarden aan de deelname van het examen zijn gesteld, wordt bekeken of de student hieraan voldoet">
+  <properties
+      key="Input"
+      value="Examenaanmelding"/>
+  <properties
+      key="Output"
+      value="Match van examenaanmelding en examenaanbod"/>
+</archimate:BusinessProcess>

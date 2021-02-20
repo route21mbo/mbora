@@ -5,7 +5,8 @@
     id="8198bd0a-4ba4-4bc5-8401-d811accee747">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e0ddd1f5-59a1-4b43-8fda-74785731bb2e">
+      id="e0ddd1f5-59a1-4b43-8fda-74785731bb2e"
+      fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="622f3a2a-2da0-43fb-98b6-3528aaaa84a4"
@@ -23,7 +24,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="845184d9-9b90-4e9d-8261-f2710e8d728d"
-        targetConnections="622f3a2a-2da0-43fb-98b6-3528aaaa84a4">
+        targetConnections="622f3a2a-2da0-43fb-98b6-3528aaaa84a4"
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1f98ca1c-1ae1-48d7-a9ea-f5590cdbf001"
@@ -32,15 +34,6 @@
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_1338d081-b4fc-4c3b-bd25-6cbda4d4df2f.xml#1338d081-b4fc-4c3b-bd25-6cbda4d4df2f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="f1c09802-efb3-4267-9ea0-eda7e1964d74"
-          source="845184d9-9b90-4e9d-8261-f2710e8d728d"
-          target="69e965a9-d634-47b7-acfa-053c2fec83b7">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_16c671b3-c338-434e-878b-a1ef2201a7f7.xml#16c671b3-c338-434e-878b-a1ef2201a7f7"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -59,7 +52,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="42191d32-f5a9-43bb-920d-863fd7c82cf0"
-          targetConnections="1f98ca1c-1ae1-48d7-a9ea-f5590cdbf001 54a41016-bf27-48ce-8369-b6e797421456">
+          targetConnections="1f98ca1c-1ae1-48d7-a9ea-f5590cdbf001 54a41016-bf27-48ce-8369-b6e797421456"
+          fillColor="#ffffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="7b85f7ef-d3b6-4cfe-b25b-94798bbdf1a5"
@@ -100,7 +94,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="69e965a9-d634-47b7-acfa-053c2fec83b7"
-          targetConnections="f1c09802-efb3-4267-9ea0-eda7e1964d74 7b85f7ef-d3b6-4cfe-b25b-94798bbdf1a5">
+          targetConnections="7b85f7ef-d3b6-4cfe-b25b-94798bbdf1a5"
+          fillColor="#ffffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-8dfa746fe3a14224b90db13a0ec50a83"
@@ -122,7 +117,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="3b6d83b9-0b20-4c0a-bdab-fa37fc4b72f3"
-          targetConnections="2102d7b8-f94f-49b8-a70f-a3c496fa93f7 aa8b528e-2f86-43bf-97ce-dc5c43babcaa">
+          targetConnections="2102d7b8-f94f-49b8-a70f-a3c496fa93f7 aa8b528e-2f86-43bf-97ce-dc5c43babcaa"
+          fillColor="#ffffff">
         <bounds
             x="180"
             y="132"
@@ -239,9 +235,9 @@
           target="93af2398-a270-47cd-b681-9c04ca68e74e">
         <bendpoints
             startX="120"
-            startY="-14"
+            startY="-15"
             endX="-24"
-            endY="70"/>
+            endY="81"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_90a4cf27-8f29-48fb-b808-c686387dec82.xml#90a4cf27-8f29-48fb-b808-c686387dec82"/>
@@ -252,9 +248,10 @@
           source="4a161df4-03b2-4864-b522-645bc6f032e4"
           target="42191d32-f5a9-43bb-920d-863fd7c82cf0">
         <bendpoints
-            startX="132"
-            startY="10"
-            endY="-224"/>
+            startX="120"
+            startY="9"
+            endX="-12"
+            endY="-182"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_dfa701f4-9f1e-4ff4-9570-9bb1056f3b7d.xml#dfa701f4-9f1e-4ff4-9570-9bb1056f3b7d"/>

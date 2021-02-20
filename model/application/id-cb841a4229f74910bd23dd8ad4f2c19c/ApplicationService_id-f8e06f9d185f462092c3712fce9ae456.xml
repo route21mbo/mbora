@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Medewerkergegevens beheer"
+    name="Medewerker gegevens beheer"
     id="id-f8e06f9d185f462092c3712fce9ae456"
-    documentation="Het beheren van medewerkergegevens"/>
+    documentation="Het beheren van medewerkergegevens onder andere de registratie van bevoegdheden"/>

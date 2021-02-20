@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integratiediensten"
+    name="Integratiedienst"
     id="id-d8aec8c170d845caaa6004d1bf66fd40"
-    documentation="Het uitwisselen van gegevens tussen bron- en doelsystemen"/>
+    documentation="Het uitwisselen van gegevens tussen bron- en doelsystemen&#xD;&#xA;&#xD;&#xA;De zogenoemde connecting services, orchestration en service bus.&#xD;&#xA;&#xD;&#xA;* Enterprise Application Integration&#xD;&#xA;* Gateways&#xD;&#xA;* Message Broker &#xD;&#xA;* ESB"/>

@@ -1,4 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beslissen over examen-aanvraag"
-    id="1cb54f0a-dd56-4aeb-8dbc-6842c5a1d43c"/>
+    id="1cb54f0a-dd56-4aeb-8dbc-6842c5a1d43c"
+    documentation="Wanneer de student één of meerdere leertaken heeft afgerond wordt besloten of de student dit met het bijbehorend examen kan afsluiten. In dit proces wordt op basis van de leerresultaten besloten of de student toe is aan het examen. Bij positief besluit wordt de examenaanvraag gedaan.&#xD;&#xA;&#xD;&#xA;Belangrijk uitgangspunt is dat studenten voldoende voorbereid en geëquipeerd aan een examen beginnen. Dit verhoogt de slagingskans. Ook sluit dit aan bij de heersende opvatting dat examinering de bevestiging is van al ontwikkelde vaardigheden, houding en kennis. ">
+  <properties
+      key="Input"
+      value="Geanalyseerde leerresultaten"/>
+  <properties
+      key="Output"
+      value="Examenaanvraag"/>
+</archimate:BusinessProcess>

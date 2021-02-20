@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft recht tot"
     id="9d97aedf-1e52-4fda-992a-8edc62ea57f6">
   <source
       xsi:type="archimate:BusinessObject"

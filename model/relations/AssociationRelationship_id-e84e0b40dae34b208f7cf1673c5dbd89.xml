@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft recht tot"
+    id="id-e84e0b40dae34b208f7cf1673c5dbd89">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c579bdca2a254c678835c1f2274985b3.xml#id-c579bdca2a254c678835c1f2274985b3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_f5b89391-e0bd-48f3-b011-1dc408f87df5.xml#f5b89391-e0bd-48f3-b011-1dc408f87df5"/>
+</archimate:AssociationRelationship>
