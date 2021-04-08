@@ -2,10 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intern communiceren onderwijsaanbod"
     id="460b7a05-4640-43e5-8b08-f8e4a791b252"
-    documentation="Ter voorbereiding op de voorlichtingsactiviteiten worden de onderwijsteams geïnformeerd. Er worden voorlichters geselecteerd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Informeren van de onderwijsteams over de voorlichitngsactiviteiten.&#xD;&#xA;2. Selecteren van voorlichters uit de onderwijsteams.&#xD;&#xA;3. Instrueren van de voorlichters over het voorlichtingsmateriaal en de voorlichtingsbijeenkomsten. ">
+    documentation="Ter voorbereiding op de voorlichtingsactiviteiten worden de onderwijsteams geïnformeerd. Er worden voorlichters geselecteerd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Informeren van de onderwijsteams over de voorlichtingsactiviteiten.&#xD;&#xA;2. Selecteren van voorlichters uit de onderwijsteams.&#xD;&#xA;3. Instrueren van de voorlichters over het voorlichtingsmateriaal en de voorlichtingsbijeenkomsten. ">
   <properties
       key="Input"
       value="Voorlichtingsmateriaal; informatie opleidingsaanbod; informatie onderwijsinstelling"/>
+  <properties
+      key="Proces"
+      value="Voorbereiden en instrueren voorlichters en docenten"/>
   <properties
       key="Output"
       value="Geinstrueerde voorlichters"/>
