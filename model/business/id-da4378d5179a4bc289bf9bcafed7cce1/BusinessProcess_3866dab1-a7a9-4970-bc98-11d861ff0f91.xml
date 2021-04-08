@@ -11,5 +11,5 @@
       value="Op basis van beschikbare BPV-plaatsen en het persoonlijk arrangement van de student vinden van een geschikte BPV-plaats"/>
   <properties
       key="Output"
-      value="Positieve match van BPV-plaats en persoonlijk arrangement"/>
+      value="Positieve match van BPV-plaats en het persoonlijk arrangement"/>
 </archimate:BusinessProcess>

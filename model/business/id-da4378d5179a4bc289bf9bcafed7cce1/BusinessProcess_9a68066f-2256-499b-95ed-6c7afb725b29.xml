@@ -7,9 +7,9 @@
       key="Input"
       value="1) Rooster en 2) Vastgestelde aan- of afwezigheid van de student bij de uitvoering van een leertaak"/>
   <properties
-      key="Output"
-      value="Vastgelegde aan- of afwezigheid van de student bij een (geroosterde) activiteit"/>
-  <properties
       key="Proces"
       value="Registratie van de aan- of afwezigheid van de student bij een (geroosterde) activiteit"/>
+  <properties
+      key="Output"
+      value="Vastgelegde aan- of afwezigheid van de student bij een (geroosterde) activiteit"/>
 </archimate:BusinessProcess>

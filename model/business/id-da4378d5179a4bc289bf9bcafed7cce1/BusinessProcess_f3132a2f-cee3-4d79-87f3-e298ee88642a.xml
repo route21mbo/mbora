@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Signaleren en rapporteren aan- en afwezigheid"
     id="f3132a2f-cee3-4d79-87f3-e298ee88642a"
-    documentation="De onderwijsinstelling moet voldoen aan de wettelijke of contractuele verplichting om de aan- of afwezigheid van studenten te melden. In deze stap wordt de afwezigheid van studenten gesignaleerd volgens vooraf vastgestelde regels en afspraken. Dit leidt tot een rapportage omtrent de afwezigheid van studenten), wat - na interne validatie - gemeld wordt aan de betrokken externe partij. Vervolgens wordt de gerapporteerde afwezigheid geregistreerd bij de student.">
+    documentation="De onderwijsinstelling moet voldoen aan de wettelijke of contractuele verplichting om de aan- of afwezigheid van studenten te melden. In deze stap wordt de afwezigheid van studenten gesignaleerd volgens vooraf vastgestelde regels en afspraken. Dit leidt tot een rapportage omtrent de afwezigheid van studenten, wat - na interne validatie - gemeld wordt aan de betrokken externe partij. Vervolgens wordt de gerapporteerde afwezigheid geregistreerd bij de student.">
   <properties
       key="Input"
       value="1) Geregistreerde aan- en afwezigheid en 2) Afwezigheidsmeldingen"/>
