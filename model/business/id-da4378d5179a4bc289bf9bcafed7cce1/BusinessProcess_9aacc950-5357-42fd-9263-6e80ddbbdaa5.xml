@@ -2,10 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beëindigen onderwijs-overeenkomst"
     id="9aacc950-5357-42fd-9263-6e80ddbbdaa5"
-    documentation="Beëindigen van de onderwijsovereenkomst waarmee de juridische verhouding tussen student en instelling wordt beeïndigd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Registreren van de uitschrijving van de student.&#xD;&#xA;2. Opstellen van het Bewijs van uitschrijving. &#xD;&#xA;3. Afsluiten van het studentdossier in het studentinformatiesysteem.&#xD;&#xA;4. Mailen van het Bewijs van uitschrijving naar de student.">
+    documentation="Beëindigen van de onderwijsovereenkomst waarmee de juridische verhouding tussen student en instelling wordt beeïndigd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Registreren van de uitschrijving van de student.&#xD;&#xA;2. Opstellen van het Bewijs van uitschrijving. &#xD;&#xA;3. Afsluiten van het studentdossier in het studentinformatiesysteem.&#xD;&#xA;4. Verzenden van het Bewijs van uitschrijving naar de student.">
   <properties
       key="Input"
       value="Signaal tot uitschrijving"/>
+  <properties
+      key="Proces"
+      value="Beeïndigen van de onderwijsovereenkomst tussen onderwijsinstelling en student"/>
   <properties
       key="Output"
       value="Uitschrijving; Bewijs van uitschrijving"/>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vastleggen zorgbehoefte"
     id="9d7d7422-bb74-440f-8889-aefb83661a50"
-    documentation="Studenten kunnen bij de aanmelding of gedurende het intake-proces aangeven welke ondersteuningsbehoefte zij hebben. Dit kan gaan om ondersteuning in de vorm van begeleiding door medewerkers van de instelling, experts van buiten de instelling (bijvoorbeeld een doventolk) of fysieke aanpassingen in het gebouw/lokaal. Ook kan het gaan om ondersteuning die nodig is voor het uitvoeren van bpv.&#xD;&#xA;&#xD;&#xA;De zorgbehoefte van de student wordt bij voorkeur voor aanvang van de opleiding vastgelegd en opgenomen bij de onderwijsovereenkomst (OOK). "/>
+    documentation="Studenten kunnen bij de aanmelding of gedurende het intake-proces aangeven welke ondersteuningsbehoefte zij hebben. Dit kan gaan om ondersteuning in de vorm van begeleiding door medewerkers van de onderwijsinstelling, experts van buiten de onderwijsinstelling (bijvoorbeeld een doventolk) of fysieke aanpassingen in het gebouw/lokaal. Ook kan het gaan om ondersteuning die nodig is voor het uitvoeren van bpv.&#xD;&#xA;&#xD;&#xA;De zorgbehoefte van de student wordt bij voorkeur voor aanvang van de opleiding vastgelegd en opgenomen bij de onderwijsovereenkomst (OOK). ">
+  <properties
+      key="Input"
+      value="Behoefte aan begeleiding van de student"/>
+  <properties
+      key="Proces"
+      value="Inventariseren en vastleggen van de begeleidingsbehoefte van de student"/>
+  <properties
+      key="Output"
+      value="Begeleidingbehoefte c.q. -vormen zijn vastgelegd"/>
+</archimate:BusinessProcess>

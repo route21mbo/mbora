@@ -2,10 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presenteren onderwijsaanbod"
     id="864266cd-351a-4707-80fc-197e82d62c2e"
-    documentation="Een onderwijsinstelling definieert de opleidingen en cursussen die worden aangeboden aan de studenten in de vorm van onderwijsaanbod. Het onderwijsaanbod wordt ontwikkeld voor nieuwe opleidingen en cursussen, onderhouden en nader gespecificeerd. Zo ontstaat een eenduidig aanbod van opleidingen binnen de gehele onderwijsinstelling. Dit gebeurt in de onderwijscatalogus. Het zorgt ervoor dat alle omringende processen informatie kunnen putten uit de onderwijscatalogus om flexibel te kunnen inschrijven, het onderwijs voor te bereiden en de studenten te begeleiden.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen van het overzicht van opleidingen en cursussen.&#xD;&#xA;2. Registreren van de opleidingen en cursussen in het studentinformatiesysteem.&#xD;&#xA;3. Controleren van de juistheid en volledigheid van de registratie van opleidingen en cursussen.&#xD;&#xA;4. Vrijgeven van het geregistreerde onderwijsaanbod.">
+    documentation="Een onderwijsinstelling definieert de opleidingen en cursussen die worden aangeboden aan de studenten in de vorm van het onderwijsaanbod. Het onderwijsaanbod wordt ontwikkeld voor nieuwe opleidingen en cursussen, onderhouden en nader gespecificeerd. Zo ontstaat een eenduidig aanbod van opleidingen binnen de gehele onderwijsinstelling. Dit gebeurt in de onderwijscatalogus. Het zorgt ervoor dat alle omringende processen informatie kunnen putten uit de onderwijscatalogus om flexibel te kunnen inschrijven, het onderwijs voor te bereiden en de studenten te begeleiden.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen van het overzicht van opleidingen en cursussen.&#xD;&#xA;2. Registreren van de opleidingen en cursussen in het studentinformatiesysteem.&#xD;&#xA;3. Controleren van de juistheid en volledigheid van de registratie van opleidingen en cursussen.&#xD;&#xA;4. Vrijgeven van het geregistreerde onderwijsaanbod.">
   <properties
       key="Input"
       value="Overzicht opleidingen en cursussen"/>
+  <properties
+      key="Proces"
+      value="Registeren van het onderwijsaanbod met daarin aangeboden opleidingen en vakken"/>
   <properties
       key="Output"
       value="Ondewijsaanbod"/>

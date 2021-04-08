@@ -7,14 +7,9 @@
       key="Input"
       value="Besluit over kwalificering; examendossier"/>
   <properties
-      key="Proces"/>
+      key="Proces"
+      value="Uitreiken van het diploma, certificaat en/of ander kwalificerende document aan de student"/>
   <properties
       key="Output"
       value="Kwalificerende document; signaal tot uitschrijving"/>
-  <properties
-      key="Doel"/>
-  <properties
-      key="Kaders"/>
-  <properties
-      key="Actoren"/>
 </archimate:BusinessProcess>
