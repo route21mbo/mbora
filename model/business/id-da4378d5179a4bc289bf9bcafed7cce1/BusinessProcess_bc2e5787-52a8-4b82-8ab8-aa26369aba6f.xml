@@ -2,10 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontvangen digitaal doorstroomdossier"
     id="bc2e5787-52a8-4b82-8ab8-aa26369aba6f"
-    documentation="Ten behoeve van een warme overdracht en om het uitvoeren van de onderwijs intake wordt gebruikt gemaakt van informatie uit het (digitaal)doorstroomdossier van de student. Dit doorstroomdossier bevat informatie over de student uit het voorliggende onderwijs. De informatie heeft betrekking op de ontwikkeling en ondersteuning van de student. De voorgaande onderwijsinstelling moet het doorstroomdossier overdragen aan de onderwijsinstelling.&#xD;&#xA;&#xD;&#xA;Opmerking David Vermeulen: Het doorstroomdossier is eigenlijk geen administratief onderdeel, maar hoort bij begeleiding. Zou hier moeten vervallen.">
+    documentation="Ten behoeve van een warme overdracht en om de onderwijsintake uit te voeren, wordt gebruik gemaakt van informatie uit het (digitaal)doorstroomdossier van de aspirant-student. Dit doorstroomdossier bevat informatie over de aspirant-student uit de voorliggende onderwijsloopbaan. De informatie heeft betrekking op de ontwikkeling en ondersteuning van de student. De voorgaande onderwijsinstelling moet het doorstroomdossier overdragen aan de MBO-school.">
   <properties
       key="Input"
       value="Verzoek aanlevering doorstroomdossier"/>
+  <properties
+      key="Proces"
+      value="Overdragen en ontvangen van het doorstroomdossier"/>
   <properties
       key="Output"
       value="Doorstroomdossier"/>

@@ -2,10 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden"
     id="2d55d574-9890-4472-a2ac-15144485db40"
-    documentation="De student meldt zich voor één opleiding aan bij de MBO-school. In deze keten heeft de actie 'aanmelden' betrekking op één opleiding, studenten kunnen zich voor meer dan één opleiding aanmelden bij één of meerdere MBO-scholen. Na de aanmelding door de student via de website wordt de aanmelding bevestigd. Vervolgens start de informatie en communicatie namens de instelling of opleiding richting de student. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen digitale aanmelding van de aspirant-student.&#xD;&#xA;2. Verzenden van een ontvangstbevestiging van de aanmelding met daarin het verzoek om het Digitaal Doorstroom Dossier aan te leveren.&#xD;&#xA;&#xD;&#xA;">
+    documentation="De aspirant-student meldt zich voor één opleiding aan bij de MBO-school. In deze keten heeft de actie 'aanmelden' betrekking op één opleiding. Aspirtant-studenten kunnen zich voor meer dan één opleiding aanmelden bij één of meerdere MBO-scholen. Na de aanmelding door de aspirant-student via de website wordt de aanmelding bevestigd. Vervolgens start de informatie en communicatie namens de onderwijsinstelling of opleiding richting de aspirant-student op. &#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen digitale aanmelding van de aspirant-student.&#xD;&#xA;2. Verzenden van een ontvangstbevestiging van de aanmelding met daarin het verzoek om het Digitaal Doorstroom Dossier aan te leveren.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Input"
       value="Aanmelding"/>
+  <properties
+      key="Proces"
+      value="Registreren van de aanmelding van de aspirant-student"/>
   <properties
       key="Output"
       value="Ontvangstbevestiging aanmelding"/>

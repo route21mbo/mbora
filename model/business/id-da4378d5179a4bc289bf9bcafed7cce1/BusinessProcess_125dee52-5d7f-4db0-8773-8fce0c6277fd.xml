@@ -7,6 +7,9 @@
       key="Input"
       value="Examenonderdelen; Examenplannen"/>
   <properties
+      key="Proces"
+      value="Vastleggen van de summatieve resultaatstructuur in het studentinformatiesysteem"/>
+  <properties
       key="Output"
       value="Summatieve resultaatstructuur"/>
 </archimate:BusinessProcess>

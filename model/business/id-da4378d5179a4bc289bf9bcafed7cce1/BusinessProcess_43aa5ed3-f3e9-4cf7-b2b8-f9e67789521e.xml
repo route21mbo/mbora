@@ -2,10 +2,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren onderwijsintake"
     id="43aa5ed3-f3e9-4cf7-b2b8-f9e67789521e"
-    documentation="Nadat de student zich heeft aangemeld voor de opleiding volgt er een administratieve intake waaronder een controle op de toelatingsvoorwaarden. Doorgaans wordt er ook een onderwijsintake uitgevoerd. In deze intake wordt bijvoorbeeld het beroepsbeeld geschetst en krijgt de student een beter beeld van de opleiding. De intaker legt het resultaat van de intake vast in het begeleidingsdossier van de student. Dit kan onder andere bevatten: &#xD;&#xA;* een begeleidingsadvies;&#xD;&#xA;* overzicht van aan te vragen vrijstellingen;&#xD;&#xA;* de eerste keuzes in de leerroute van de student.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Voeren van het intake-/kennismakingsgesprek.&#xD;&#xA;2. Bepalen van de leerbehoefte/-leerroute.&#xD;&#xA;3. Bepalen van de mate van begeleiding.&#xD;&#xA;4. Eventueel geven van een studieloopbaanadvies.&#xD;&#xA;5. Vastleggen van gemaakte afspraken in het aanmelddossier.&#xD;&#xA;6. Eventueel bepalen van vrijstellingen m.b.t. examens en/of vakken binnen de opleiding.&#xD;&#xA;7. Eventueel maken van een afspraak voor een intake-plus gesprek.&#xD;&#xA;&#xD;&#xA;">
+    documentation="Nadat de aspirant-student zich heeft aangemeld voor de opleiding volgt, na een administratieve intake, doorgaans een onderwijsintake. In deze intake wordt bijvoorbeeld het beroepsbeeld geschetst en krijgt de aspirant-student een beter beeld van de opleiding. De intaker legt het resultaat van de intake vast in het begeleidingsdossier van de apirant-student. Dit kan onder andere bevatten: &#xD;&#xA;* een begeleidingsadvies;&#xD;&#xA;* overzicht van aan te vragen vrijstellingen;&#xD;&#xA;* de eerste keuzes in de leerroute van de aspirant-student.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Voeren van het intake-/kennismakingsgesprek.&#xD;&#xA;2. Bepalen van de leerbehoefte/-leerroute.&#xD;&#xA;3. Bepalen van de mate van begeleiding.&#xD;&#xA;4. Eventueel geven van een studieloopbaanadvies.&#xD;&#xA;5. Vastleggen van gemaakte afspraken in het aanmelddossier.&#xD;&#xA;6. Eventueel bepalen van vrijstellingen m.b.t. examens en/of vakken binnen de opleiding.&#xD;&#xA;7. Eventueel maken van een afspraak voor een intake-plus gesprek.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Input"
       value="1) Aanmelddossier en 2) OER"/>
+  <properties
+      key="Proces"
+      value="Inventariseren van de leerdoelen en behoefte aan begeleiding bij de aspirant-student "/>
   <properties
       key="Output"
       value="Aanmelddossier; Leerbehoefte; Begeleidingsbehoefte; (eventueel) Afspraak intake-plusgesprek; Mogelijk aan te vragen vrijstellingen "/>
