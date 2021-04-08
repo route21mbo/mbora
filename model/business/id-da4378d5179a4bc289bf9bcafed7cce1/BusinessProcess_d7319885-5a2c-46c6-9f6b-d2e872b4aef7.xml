@@ -10,5 +10,6 @@
       key="Proces"
       value="Registreren BPV-bedrijfsgegevens, gekoppeld aan de registratie en erkenning bij SBB"/>
   <properties
+      key="Output"
       value="Geregistreerd BPV-bedrijf"/>
 </archimate:BusinessProcess>
