@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren leertaken BPV"
     id="165bc212-bbe5-4e7d-a5dc-017515f8398e"
-    documentation="Tijdens de bpv draait de student mee in de dagelijkse gang van zaken in het bpv-bedrijf. De student neemt deel aan het bedrijfsproces. Binnen dat proces voert de student werkzaamheden uit en werkt de student aan beroepscompetenties. Ook voert de student bpv-opdrachten uit waarmee (delen van) kerntaken en werkprocessen worden geoefend. ">
+    documentation="Tijdens de BPV draait de student mee in de dagelijkse gang van zaken in het BPV-bedrijf. De student neemt deel aan het bedrijfsproces. Binnen dat proces voert de student werkzaamheden uit en werkt de student aan beroepscompetenties. Ook voert de student BPV-opdrachten uit waarmee (delen van) kerntaken en werkprocessen worden geoefend. ">
   <properties
       key="Input"
       value="Gepubliceerde rooster"/>
