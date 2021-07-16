@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planning- en roostersysteem"
     id="id-b5ce641230a746c98bcffda6ae6ca528"
-    documentation="Een systeem het maken van roosters ondersteunt op basis van beschikbaarheid van middelen.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;GPUntis">
+    documentation="Een systeem dat het maken van roosters ondersteunt op basis van beschikbaarheid van mensen en middelen en de leerroutes van de studenten.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;GPUntis&#xD;&#xA;Xedule">
   <properties
       key="Source"
       value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-c86834a0-a3fe-4c8b-96e9-8229f28da138"/>

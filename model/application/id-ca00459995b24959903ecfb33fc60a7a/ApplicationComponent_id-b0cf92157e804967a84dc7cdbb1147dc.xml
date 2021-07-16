@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opleidingen beheersysteem"
     id="id-b0cf92157e804967a84dc7cdbb1147dc"
-    documentation="Een systeem voor de  registratie en het beheer van de verzameling opleidingen en cursussen van de instellling; ook wel het onderwijsaanbod genoemd.">
+    documentation="Een systeem voor de  registratie en het beheer van de verzameling opleidingen en cursussen van de instellling; ook wel het onderwijsaanbod genoemd.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;OERknal">
   <properties
       key="Source"
       value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>
