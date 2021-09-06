@@ -2,10 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsvoering - hoofdprocessen"
-    id="f64c411c-95c0-43af-94e7-ec3558e5ea0c">
+    id="f64c411c-95c0-43af-94e7-ec3558e5ea0c"
+    documentation="csd  vdvdrfv  efv">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7a338966-d478-489e-a657-1df031e80b5d">
+      id="7a338966-d478-489e-a657-1df031e80b5d"
+      fillColor="#c0c0c0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9e6a1d82-7f93-444e-8521-16e692784efb"
